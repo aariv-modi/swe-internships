@@ -41,6 +41,30 @@
  },
  {
   "reason": "board_unreadable",
+  "company": "Accenture",
+  "title": "Technology Summer Analyst - Multiple Teams",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "Detroit, MI",
+   "LA",
+   "Morristown, NJ",
+   "Dallas, TX",
+   "Philadelphia, PA",
+   "Chicago, IL",
+   "Charlotte, NC",
+   "Arlington County, Arlington, VA",
+   "St. Louis, MO",
+   "NYC",
+   "Atlanta, GA",
+   "San Diego, CA"
+  ],
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
+ },
+ {
+  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -1055,6 +1079,15 @@
   "url": "https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true"
  },
  {
+  "reason": "filtered:not_swe",
+  "company": "Sanofi",
+  "title": "Laboratory Automation Engineer Co-op",
+  "locations": [
+   "Cambridge, MA"
+  ],
+  "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035"
+ },
+ {
   "reason": "filtered:not_swe_by_description",
   "company": "Fortinet",
   "title": "AI Intern",
@@ -1995,30 +2028,6 @@
    "Hamilton Township, NJ"
   ],
   "url": "https://careers-rcm.icims.com/jobs/5575/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
  },
  {
   "reason": "not_returned",
