@@ -193,13 +193,22 @@ def location_is_us(loc: str):
 
 
 def us_status(locations):
-    """True if any location is US, False if all are known non-US, None if undetermined."""
-    results = [location_is_us(l) for l in locations]
+    """True if any location is US, False if all are known non-US, None if undetermined.
+
+    A bare "Remote" only counts as US when nothing else says otherwise: "Paris, France; Remote"
+    is a French remote role."""
+    named = [l for l in locations if not BARE_REMOTE_RE.fullmatch(l.strip())]
+    if len(named) < len(locations) and not named:
+        return True
+    results = [location_is_us(l) for l in named]
     if any(r is True for r in results):
         return True
     if results and all(r is False for r in results):
         return False
     return None
+
+
+BARE_REMOTE_RE = re.compile(r"(fully |100% )?(remote|anywhere|virtual|work from home)", re.I)
 
 
 SEASON_RE = re.compile(

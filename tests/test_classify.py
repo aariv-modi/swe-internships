@@ -105,6 +105,11 @@ class TestLocation(unittest.TestCase):
         self.assertIsNone(location_is_us("2 Locations"))
         self.assertIsNone(us_status(["Headquarters"]))
         self.assertTrue(us_status(["London", "Seattle, WA"]))
+        self.assertFalse(us_status(["Paris, France", "Remote"]))
+        self.assertTrue(us_status(["Remote"]))
+        self.assertTrue(us_status(["Remote", "Austin, TX"]))
+        self.assertTrue(location_is_us("Franklin, WI, United States"))
+        self.assertFalse(location_is_us("Indore, Madhya Pradesh, India"))
 
 
 class TestTerms(unittest.TestCase):

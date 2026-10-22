@@ -15,8 +15,10 @@ def fetch(params):
             ok = True
             for p in data.get("content") or []:
                 loc = p.get("location") or {}
+                # fullLocation spells the country out; the bare code is ambiguous ("Indore, MP, IN"
+                # is India, not Indiana: 265 such postings leaked in before this).
                 parts = [loc.get("city"), loc.get("region"), loc.get("country", "").upper()]
-                place = ", ".join(x for x in parts if x)
+                place = loc.get("fullLocation") or ", ".join(x for x in parts if x)
                 if loc.get("remote"):
                     place = f"{place} (Remote)" if place else "Remote"
                 seen[p["id"]] = {
