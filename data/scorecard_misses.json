@@ -1,5 +1,14 @@
 [
  {
+  "reason": "board_unknown",
+  "company": "FedEx Freight",
+  "title": "Media & Web Development Intern - Marketing",
+  "locations": [
+   "United States"
+  ],
+  "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
+ },
+ {
   "reason": "board_unreadable",
   "company": "Atomic Semi",
   "title": "Infrastructure Software Engineering Intern",
@@ -66,19 +75,6 @@
    "Hawthorne, CA"
   ],
   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002"
- },
- {
-  "reason": "filtered:location_unknown",
-  "company": "Atoms",
-  "title": "Software Engineer Intern - Winter 2027",
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "LA",
-   "NYC",
-   "Mountain View, CA"
-  ],
-  "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002"
  },
  {
   "reason": "filtered:location_unknown",
@@ -177,6 +173,30 @@
  },
  {
   "reason": "filtered:not_internship",
+  "company": "Accenture",
+  "title": "Technology Summer Analyst - Multiple Teams",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "Detroit, MI",
+   "LA",
+   "Morristown, NJ",
+   "Dallas, TX",
+   "Philadelphia, PA",
+   "Chicago, IL",
+   "Charlotte, NC",
+   "Arlington County, Arlington, VA",
+   "St. Louis, MO",
+   "NYC",
+   "Atlanta, GA",
+   "San Diego, CA"
+  ],
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
+ },
+ {
+  "reason": "filtered:not_internship",
   "company": "Booz Allen",
   "title": "Applied AI Intern",
   "locations": [
@@ -240,15 +260,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Booz Allen",
-  "title": "Junior AI Software Developer Intern",
-  "locations": [
-   "San Diego, CA"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "Arizona State University",
   "title": "Student Web Developer & Content Specialist Intern",
   "locations": [
@@ -291,6 +302,15 @@
    "Remote in USA"
   ],
   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Colibri Group",
+  "title": "Product Builder Returnship Intern",
+  "locations": [
+   "Pleasanton, CA"
+  ],
+  "url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply"
  },
  {
   "reason": "filtered:not_swe",
@@ -1321,15 +1341,6 @@
  {
   "reason": "filtered:not_swe_by_description",
   "company": "Radiance Technologies",
-  "title": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
-  "locations": [
-   "Beavercreek, OH"
-  ],
-  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Radiance Technologies",
   "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
   "locations": [
    "Beavercreek, OH"
@@ -1652,6 +1663,19 @@
  },
  {
   "reason": "not_returned",
+  "company": "Atoms",
+  "title": "Software Engineer Intern - Winter 2027",
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "LA",
+   "NYC",
+   "Mountain View, CA"
+  ],
+  "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002"
+ },
+ {
+  "reason": "not_returned",
   "company": "American Express",
   "title": "AI Engineer Intern - Enterprise Technology Services",
   "locations": [
@@ -1676,6 +1700,25 @@
    "North Chicago, IL"
   ],
   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Compeer Financial",
+  "title": "Engineering Intern",
+  "locations": [
+   "Sun Prairie, WI"
+  ],
+  "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Compeer Financial",
+  "title": "Engineering Intern",
+  "locations": [
+   "Lakeville, MN",
+   "Mankato, MN"
+  ],
+  "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008"
  },
  {
   "reason": "not_returned",
@@ -1804,6 +1847,15 @@
  },
  {
   "reason": "not_returned",
+  "company": "Immuta",
+  "title": "Full-Stack Engineering Intern - Summer 2027",
+  "locations": [
+   "Columbus, OH"
+  ],
+  "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply"
+ },
+ {
+  "reason": "not_returned",
   "company": "Dell Technologies",
   "title": "IT Undergraduate Intern",
   "locations": [
@@ -1837,30 +1889,6 @@
    "Hamilton Township, NJ"
   ],
   "url": "https://careers-rcm.icims.com/jobs/5575/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
  },
  {
   "reason": "not_returned",
@@ -2083,6 +2111,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "Target",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Brooklyn Park, MN"
+  ],
+  "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "General Dynamics Mission Systems",
   "title": "Systems Engineer Intern",
   "locations": [
@@ -2098,6 +2135,24 @@
    "Scottsdale, AZ"
   ],
   "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Radiance Technologies",
+  "title": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
+  "locations": [
+   "Beavercreek, OH"
+  ],
+  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "CACI",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
  },
  {
   "reason": "stale_on_simplify",
@@ -2117,6 +2172,15 @@
    "Cary, NC"
   ],
   "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Booz Allen",
+  "title": "Junior AI Software Developer Intern",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
  },
  {
   "reason": "stale_on_simplify",
@@ -3208,15 +3272,6 @@
    "San Jose, CA"
   ],
   "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Goldman Sachs",
-  "title": "Summer Analyst Intern - Engineering",
-  "locations": [
-   "Seattle, WA"
-  ],
-  "url": "https://higher.gs.com/roles/177808?type=students"
  },
  {
   "reason": "unsupported_ats",
