@@ -12,6 +12,7 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
@@ -33,7 +34,34 @@ def job_key(url: str):
         return f"gh:{m[1]}"
     if m := UUID_RE.search(u.lower()):
         return f"id:{m[0]}"
+    # Other systems: (host, numeric or short id) taken from their canonical job paths.
+    host = urlparse(u).netloc.lower()
+    for pattern in (r"\.icims\.com/jobs/(\d+)", r"/hcmUI/CandidateExperience/.*/job/(\d+)",
+                    r"smartrecruiters\.com/[\w-]+/(\d+)", r"/job/[^?]+/(\d+)/?(?:\?|$)",
+                    r"lifeattiktok\.com/search/(\d+)"):
+        if m := re.search(pattern, u, re.I):
+            return f"{host}:{m[1]}"
+    # JazzHR jobs are served on company domains too (career.example.com/apply/<code>)
+    if m := re.search(r"/apply/([A-Za-z0-9]{10})(?:/|$)", u):
+        return f"jazz:{m[1]}"
     return None
+
+
+STALE_TEXT_RE = re.compile(r"no longer (available|accepting|open|posted)|position has been filled|"
+                           r"job (is|has been) closed|this job is expired", re.I)
+
+
+def is_stale(url: str) -> bool:
+    """True if a listing Simplify still shows as open is gone from the company's job board."""
+    board = registry.board_from_url(url)
+    if board and board[0] == "workday":  # Workday pages are a JS shell; ask the API instead
+        from .ats import workday
+        return workday.is_open(board[2], url) is False
+    try:
+        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+    except requests.RequestException:
+        return False
+    return r.status_code in (404, 410) or bool(STALE_TEXT_RE.search(r.text[:200000]))
 
 
 def compute(listings: dict, seen_jobs: dict, read_boards: set, reg: dict, simplify=None):
@@ -67,7 +95,7 @@ def compute(listings: dict, seen_jobs: dict, read_boards: set, reg: dict, simpli
             elif rid not in read_boards:
                 reason = "board_unreadable"
             elif key not in seen_jobs:
-                reason = "not_returned"
+                reason = "stale_on_simplify" if is_stale(x["url"]) else "not_returned"
             elif seen_jobs[key] == "ok":
                 reason = "deduplicated_or_stale"
             else:
@@ -82,20 +110,25 @@ def compute(listings: dict, seen_jobs: dict, read_boards: set, reg: dict, simpli
     stats = {
         "target": len(target), "hit": hit, "supported_total": supported_total,
         "supported_hit": supported_hit, "only_ours": only_ours, "reasons": dict(reasons),
+        "stale": reasons.get("stale_on_simplify", 0),
     }
     return stats
 
 
 def markdown(stats) -> str:
     pct = lambda a, b: f"{100 * a / b:.0f}%" if b else "n/a"
+    open_supported = stats["supported_total"] - stats.get("stale", 0)
     return (
         "<details><summary><b>Scorecard vs. SimplifyJobs</b> "
-        f"(recall on supported job boards: {pct(stats['supported_hit'], stats['supported_total'])})</summary>\n\n"
+        f"(recall on still-open postings on supported job boards: "
+        f"{pct(stats['supported_hit'], open_supported)})</summary>\n\n"
         f"- Simplify's open US software internships: **{stats['target']}**; also on this list: "
         f"**{stats['hit']}** ({pct(stats['hit'], stats['target'])})\n"
-        f"- On job systems this scraper supports (Workday, Greenhouse, Lever, Ashby): "
+        f"- On job systems this scraper supports: "
         f"**{stats['supported_hit']} / {stats['supported_total']}** "
-        f"({pct(stats['supported_hit'], stats['supported_total'])})\n"
+        f"({pct(stats['supported_hit'], stats['supported_total'])}); excluding "
+        f"{stats.get('stale', 0)} Simplify listings already closed on the company's own board: "
+        f"**{pct(stats['supported_hit'], open_supported)}**\n"
         f"- Open roles here that Simplify doesn't list: **{stats['only_ours']}**\n"
         f"- Misses by reason: {', '.join(f'{k} {v}' for k, v in sorted(stats['reasons'].items()))}\n"
         "\n</details>"

@@ -21,9 +21,12 @@ published as a GitHub-style README, with completeness measured on every run rath
    - Classifier: internship + SWE + US, term extraction. Rules only, no paid services.
    - Listing state (first seen / last seen / closed), README rendering, recall scorecard vs Simplify.
    - GitHub Actions schedule (free on public repos).
-2. **Coverage**: iCIMS, Oracle Cloud HCM, SmartRecruiters, SuccessFactors, Eightfold, Workable,
-   Jobvite; hand-written scrapers for the largest custom sites (Google, Meta, Apple, Microsoft,
-   Amazon, TikTok/ByteDance, Tesla); schema.org `JobPosting` fallback for everything else.
+2. **Coverage**
+   - Done: iCIMS (*.icims.com), Oracle Cloud, SmartRecruiters, SuccessFactors (sitemap), JazzHR
+     (XML feed), TikTok (search API; needs the `website-path: tiktok` header).
+   - Next: iCIMS custom domains (60 of 125 iCIMS misses), ByteDance (SSL chain fails locally),
+     Tesla, Waymo, Eightfold, Rippling, Jobvite, Workable; hand-written scrapers for Google, Meta,
+     Apple, Microsoft, Amazon; schema.org `JobPosting` fallback (scraper/jsonld.py) for the rest.
 3. **Discovery**: probe YC / LCA-filer / Fortune lists for ATS boards; Common Crawl host sweeps.
 4. **Review queue (apply assistant)** — deliberately *not* fully automatic:
    - Profile + answer library (work authorization, sponsorship, start dates, links, EEO choices).

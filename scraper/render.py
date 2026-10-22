@@ -8,7 +8,8 @@ START, END = "<!-- LISTINGS:START -->", "<!-- LISTINGS:END -->"
 HEADER = """# US Software Engineering Internships
 
 Every US software-engineering internship (all seasons) that companies post on Workday, Greenhouse,
-Lever and Ashby, read directly from the company's own job board and refreshed automatically.
+Lever, Ashby, iCIMS, Oracle Cloud, SmartRecruiters, SuccessFactors, JazzHR and TikTok's careers site,
+read directly from the company's own job board and refreshed automatically.
 
 - **Scope:** software / SWE / SDE / developer, full-stack, mobile, web, DevOps/SRE, platform and
   infrastructure, embedded software, ML/AI/data *engineering*. Not data science, research science,

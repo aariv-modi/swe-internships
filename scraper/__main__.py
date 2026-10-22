@@ -27,11 +27,14 @@ def _verdict(ats, params, job):
     us = classify.us_status(job["locations"])
     if us is False:
         return "not_us"
-    if ats == "workday":
-        workday.enrich(params, job)  # "2 Locations" -> real locations, exact posting date
+    connector = CONNECTORS[ats]
+    # Workday list pages say "2 Locations" and give relative dates, so always fetch the job page;
+    # other connectors only when the listing didn't say where the job is.
+    if hasattr(connector, "enrich") and (ats == "workday" or us is None):
+        connector.enrich(params, job)
         us = classify.us_status(job["locations"])
-        if us is not True:
-            return "not_us" if us is False else "location_unknown"
+        if us is False:
+            return "not_us"
     if verdict == "maybe":
         desc = job.get("_desc")
         if desc is None and hasattr(CONNECTORS[ats], "describe"):

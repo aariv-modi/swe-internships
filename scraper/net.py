@@ -60,6 +60,25 @@ def request_json(method: str, url: str, *, json_body=None, tries: int = 4,
     return None
 
 
+def get_text(url: str, *, tries: int = 3, timeout: float = 30, per_host: int = 4):
+    """Return the body of a 200 response as text, or None."""
+    delay = 2.0
+    for attempt in range(tries):
+        try:
+            with _host_slot(url, per_host):
+                r = _session().get(url, timeout=timeout, headers={"Accept": "text/html,application/xml,*/*"})
+            if r.status_code == 200:
+                return r.text
+            if r.status_code not in RETRY_STATUSES:
+                return None
+        except requests.RequestException:
+            pass
+        if attempt < tries - 1:
+            time.sleep(delay)
+            delay *= 2
+    return None
+
+
 def get_json(url: str, **kw):
     return request_json("GET", url, **kw)
 

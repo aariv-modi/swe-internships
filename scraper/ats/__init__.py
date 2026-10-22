@@ -6,11 +6,18 @@ when their board was read successfully.
 
 Each job dict has: job_id, title, locations (list[str]), url, posted_at (ISO date or None).
 """
-from . import ashby, greenhouse, lever, workday
+from . import (ashby, greenhouse, icims, jazzhr, lever, oracle, smartrecruiters, successfactors,
+               tiktok, workday)
 
 CONNECTORS = {
     "workday": workday,
     "greenhouse": greenhouse,
     "lever": lever,
     "ashby": ashby,
+    "icims": icims,
+    "oracle": oracle,
+    "smartrecruiters": smartrecruiters,
+    "successfactors": successfactors,
+    "jazzhr": jazzhr,
+    "tiktok": tiktok,
 }
