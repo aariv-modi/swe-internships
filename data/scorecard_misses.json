@@ -11,26 +11,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "Ameren",
-  "title": "Digital Co-op",
-  "locations": [
-   "St. Louis, MO"
-  ],
-  "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Ecolab",
-  "title": "Digital & AI Technology Intern",
-  "locations": [
-   "Naperville, IL",
-   "Eagan, MN",
-   "St Paul, MN"
-  ],
-  "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
- },
- {
-  "reason": "board_unreadable",
   "company": "WhatNot",
   "title": "Software Engineer Intern",
   "locations": [
@@ -43,21 +23,27 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "Simon Property Group",
-  "title": "Front End Developer Intern",
+  "company": "Accenture",
+  "title": "Technology Summer Analyst - Multiple Teams",
   "locations": [
-   "Indianapolis, IN"
+   "Boston, MA",
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "Detroit, MI",
+   "LA",
+   "Morristown, NJ",
+   "Dallas, TX",
+   "Philadelphia, PA",
+   "Chicago, IL",
+   "Charlotte, NC",
+   "Arlington County, Arlington, VA",
+   "St. Louis, MO",
+   "NYC",
+   "Atlanta, GA",
+   "San Diego, CA"
   ],
-  "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Dick's Sporting Goods",
-  "title": "Software Engineer Intern - Corporate Internship",
-  "locations": [
-   "Pittsburgh, PA"
-  ],
-  "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1"
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
  },
  {
   "reason": "board_unreadable",
@@ -215,30 +201,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "Booz Allen",
   "title": "Applied AI Intern",
   "locations": [
@@ -389,19 +351,6 @@
    "Reno, NV"
   ],
   "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Uline",
-  "title": "Software Development Intern",
-  "locations": [
-   "Waukegan, IL",
-   "Milwaukee, WI",
-   "Glenview, IL",
-   "Pleasant Prairie, WI",
-   "Kenosha, WI"
-  ],
-  "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
  },
  {
   "reason": "filtered:not_swe",
@@ -714,6 +663,15 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Humana",
+  "title": "Technology Intern - Society of Women Engineers Conference",
+  "locations": [
+   "Louisville, KY"
+  ],
+  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Palantir",
   "title": "Meritocracy Fellow",
   "locations": [
@@ -838,6 +796,17 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Ecolab",
+  "title": "Digital & AI Technology Intern",
+  "locations": [
+   "Naperville, IL",
+   "Eagan, MN",
+   "St Paul, MN"
+  ],
+  "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Philips",
   "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
   "locations": [
@@ -874,15 +843,6 @@
    "Boston, MA"
   ],
   "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Prysmian Cables & Systems",
-  "title": "AI Intern",
-  "locations": [
-   "Highland Heights, KY"
-  ],
-  "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1347,6 +1307,19 @@
    "Palo Alto, CA"
   ],
   "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Uline",
+  "title": "Software Development Intern",
+  "locations": [
+   "Waukegan, IL",
+   "Milwaukee, WI",
+   "Glenview, IL",
+   "Pleasant Prairie, WI",
+   "Kenosha, WI"
+  ],
+  "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
  },
  {
   "reason": "not_returned",
@@ -2109,6 +2082,15 @@
    "San Jose, CA"
   ],
   "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Microsoft",
+  "title": "Full-Stack Product Engineer Intern - Web + Services",
+  "locations": [
+   "Redmond, WA"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
  },
  {
   "reason": "unsupported_ats",
@@ -3038,15 +3020,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Tesla",
-  "title": "Software Engineer Intern - Maps & Navigation Validation",
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "url": "https://www.tesla.com/careers/search/job/281271"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Amazon",
   "title": "Software Development Engineer Intern - Annapurna Labs",
   "locations": [
@@ -3779,6 +3752,15 @@
    "Rockville, MD"
   ],
   "url": "https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Goldman Sachs",
+  "title": "Summer Analyst Intern - Engineering",
+  "locations": [
+   "Seattle, WA"
+  ],
+  "url": "https://higher.gs.com/roles/177808?type=students"
  },
  {
   "reason": "unsupported_ats",
@@ -5805,15 +5787,6 @@
    "Sunnyvale, CA"
   ],
   "url": "https://www.metacareers.com/jobs/2180490782513668"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Electronic Arts",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240"
  },
  {
   "reason": "unsupported_ats",
