@@ -27,7 +27,11 @@ published as a GitHub-style README, with completeness measured on every run rath
    - Next: iCIMS custom domains (60 of 125 iCIMS misses), ByteDance (SSL chain fails locally),
      Tesla, Waymo, Eightfold, Rippling, Jobvite, Workable; hand-written scrapers for Google, Meta,
      Apple, Microsoft, Amazon; schema.org `JobPosting` fallback (scraper/jsonld.py) for the rest.
-3. **Discovery**: probe YC / LCA-filer / Fortune lists for ATS boards; Common Crawl host sweeps.
+3. **Discovery** — measured 2026-10-22, see "Audits" below.
+   - Done: Common Crawl sweep (scraper/discovery.py, monthly workflow) promotes boards that have a
+     US SWE internship into the registry.
+   - Open: Workday boards can't be guessed from a company name (unknown and real tenants return
+     identical responses), so name lists (S&P 500, LCA filers) only help for Greenhouse/Lever/Ashby.
 4. **Review queue (apply assistant)** — deliberately *not* fully automatic:
    - Profile + answer library (work authorization, sponsorship, start dates, links, EEO choices).
    - Match new postings against the profile; daily digest ranked by fit.
@@ -37,3 +41,22 @@ published as a GitHub-style README, with completeness measured on every run rath
    - Never: account creation, password handling, CAPTCHA bypass, unattended submission.
      Why: no applicant API exists, Workday needs one account per company (1,000+), forms
      contain signed attestations, and the classifier's false positives would become real applications.
+
+## Audits (2026-10-22)
+
+**Accuracy.** Hand-labelled a stratified sample of 119 live listings across all ten systems:
+95 correct, 8 wrong, 16 ambiguous, i.e. precision 93% (clear errors only) to 80% (ambiguous counted
+as wrong). Errors were generic titles passing the description check (chip design, systems
+engineering, quant, research). Rules fixed; the 103 unambiguous titles are a regression test
+(tests/fixtures/labeled_titles.json). The audit also found 429 duplicate Workday listings (same
+requisition on case-variant or regional sites); registry keys are now case-insensitive and the README
+de-duplicates on tenant + requisition id.
+
+**Independent discovery.** Common Crawl's URL index lists 14,127 ATS boards; 11,814 were not in the
+registry (which Common Crawl in turn covers only 49% of; capture-recapture suggests >= ~29,000 boards
+exist). A random 2,000 of the new boards yielded 6 clear US SWE internships no list or registry had
+(+3 ambiguous) -> ~35 extrapolated (95% CI ~13-77, wider given clustering), about +2% on the list.
+Conclusion: the community lists already point at almost all boards that post SWE internships; the
+remaining gain comes from ~1% of boards, hence monthly promotion rather than hourly scraping.
+Caveat: the Simplify scorecard is seeded from Simplify's own links, so it measures connector and
+classifier quality, not discovery.

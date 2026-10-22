@@ -97,7 +97,8 @@ HARD_NO_RE = re.compile(
     r"\b(sales|marketing|recruit\w*|analyst|scientist|researcher|trader|product manag\w*|"
     r"program manag\w*|designer|solutions engineer|sales engineer|applications? engineer|"
     r"technician|support|technical artist|consult\w*|solutions? engineer|"
-    r"administrator|sysadmin|society of women engineers|conference|attending)\b", re.I)
+    r"administrator|sysadmin|society of women engineers|conference|attending|"
+    r"research intern\w*)\b", re.I)
 # Generic titles that may or may not be software work: decided from the description.
 MAYBE_RE = re.compile(
     r"\b(engineer|engineering|technology|technical|tech|member of technical staff|mts|"
@@ -110,7 +111,12 @@ HARDWARE_DOMAIN_RE = re.compile(
     r"manufacturing|process|industrial|construction|nursing|clinical|pharmac\w*|aerospace|"
     r"silicon|asic|rf|analog|power systems|hvac|mining|petroleum|materials|biomedical|"
     r"field|project engineer|quality|process integration|module development|epi|cmos|beol|"
-    r"wafer|yield|lithography|reliability engineer\w*)\b", re.I)
+    r"wafer|yield|lithography|reliability engineer\w*|"
+    # chip design, other engineering disciplines and finance roles that share generic titles
+    # (from the 2026-10-22 accuracy audit: Astera Labs, Microchip, Nissan, J&J, Invesco)
+    r"physical design|design architecture|emulation|design verification|verification engineer\w*|"
+    r"rtl|fpga|systems engineer\w*|product development|applications|quantitative|quant|"
+    r"controls engineer\w*|flight test|product intern)\b", re.I)
 
 
 def swe_verdict(title: str) -> str:
@@ -148,7 +154,9 @@ NON_SW_TERMS_RE = re.compile(
     r"\b(solidworks|autocad|cad|catia|creo|ansys|gd&t|pcb|schematics?|circuits?|soldering|"
     r"oscilloscope|machining|fabrication|welding|hvac|thermal|fluid|mechanical design|"
     r"help desk|service desk|ticketing|troubleshoot\w*|active directory|imaging|"
-    r"desktop support|end[- ]user support|cabling|hardware installation)\b", re.I)
+    r"desktop support|end[- ]user support|cabling|hardware installation|verilog|systemverilog|"
+    r"vhdl|rtl|uvm|synthesis|timing closure|place and route|tape-?out|floorplan\w*|"
+    r"physical design|emulation|silicon)\b", re.I)
 
 
 def description_is_swe(text: str) -> bool:

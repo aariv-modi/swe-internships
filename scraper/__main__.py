@@ -2,6 +2,7 @@
   python -m scraper discover            # refresh data/companies.json from community lists
   python -m scraper scrape [--ats X]    # fetch boards, update data/listings.json, README.md
   python -m scraper all                 # discover, then scrape
+  python -m scraper crawl-discover      # promote Common Crawl boards that have a match (slow, monthly)
 Options: --ats workday,greenhouse  --limit N (boards per ATS, for testing)  --no-scorecard
 """
 import argparse
@@ -10,7 +11,7 @@ import sys
 import time
 from collections import Counter
 
-from . import classify, registry, render, scorecard, store
+from . import classify, discovery, registry, render, scorecard, store
 from .ats import CONNECTORS, workday
 
 BOARD_DEADLINE_S = 600  # a single board may not stall the whole run
@@ -107,6 +108,12 @@ def scrape(reg, only_ats=None, limit=None, with_scorecard=True):
             stats["new"] += store.apply_board(listings, rid, b["company"], matches, ts)
             if i % 200 == 0:
                 print(f"  {i}/{len(boards)} boards, {time.time() - t0:.0f}s")
+    # Boards dropped or merged in the registry are never scraped again, so their listings would
+    # otherwise stay open forever.
+    for rec in listings.values():
+        if rec["active"] and rec.get("board") not in reg:
+            rec["active"], rec["closed_at"] = False, ts
+            stats["closed_unregistered"] += 1
     store.save(listings)
     active = sum(r["active"] for r in listings.values())
     print(f"done in {time.time() - t0:.0f}s: {dict(stats)}; active listings {active}")
@@ -124,7 +131,7 @@ def scrape(reg, only_ats=None, limit=None, with_scorecard=True):
 
 def main(argv=None):
     ap = argparse.ArgumentParser()
-    ap.add_argument("command", choices=["discover", "scrape", "all"])
+    ap.add_argument("command", choices=["discover", "scrape", "all", "crawl-discover"])
     ap.add_argument("--ats", help="comma-separated subset of " + ",".join(CONNECTORS))
     ap.add_argument("--limit", type=int)
     ap.add_argument("--no-scorecard", action="store_true")
@@ -134,6 +141,10 @@ def main(argv=None):
         reg = registry.discover(reg)
         registry.save(reg)
         print(f"registry: {len(reg)} boards {dict(Counter(b['ats'] for b in reg.values()))}")
+    if a.command == "crawl-discover":
+        discovery.promote(reg, discovery.common_crawl_boards(), classify_jobs)
+        registry.save(reg)
+        print(f"registry: {len(reg)} boards")
     if a.command in ("scrape", "all"):
         scrape(reg, set(a.ats.split(",")) if a.ats else None, a.limit, not a.no_scorecard)
 

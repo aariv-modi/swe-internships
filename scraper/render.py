@@ -1,4 +1,5 @@
 """Render README.md from listing state."""
+import re
 from datetime import date, datetime
 from pathlib import Path
 
@@ -40,11 +41,22 @@ def _locations(locs):
     return f"<details><summary>{len(locs)} locations</summary>{'<br>'.join(_cell(l) for l in locs)}</details>"
 
 
+WORKDAY_REQ_RE = re.compile(r"https?://([\w-]+)\.wd\d+\.myworkdayjobs\.com/.*_([A-Za-z0-9-]+)/?$")
+
+
+def _dedupe_key(r):
+    # A Workday tenant often lists one requisition on several sites (regional or case variants,
+    # which the registry may also have filed under different company names).
+    if m := WORKDAY_REQ_RE.match(r["url"].split("?")[0]):
+        return ("workday", m[1].lower(), m[2].lower())
+    return (r["company"].lower(), r["title"].lower().strip(), tuple(sorted(r["locations"])))
+
+
 def dedupe(recs):
     """The same req is often posted on several boards or Workday sites of one company."""
     best = {}
     for r in recs:
-        key = (r["company"].lower(), r["title"].lower().strip(), tuple(sorted(r["locations"])))
+        key = _dedupe_key(r)
         if key not in best or r["first_seen"] < best[key]["first_seen"]:
             best[key] = r
     return list(best.values())

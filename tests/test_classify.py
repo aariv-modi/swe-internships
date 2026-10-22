@@ -119,5 +119,23 @@ class TestTerms(unittest.TestCase):
         self.assertEqual(terms("Software Engineer Intern"), [])
 
 
+
+
+class TestLabeledSample(unittest.TestCase):
+    """Regression set from the hand-labelled accuracy audit (tests/fixtures/labeled_titles.json)."""
+
+    def test_labeled_titles(self):
+        import json
+        from pathlib import Path
+        data = json.loads((Path(__file__).parent / "fixtures" / "labeled_titles.json").read_text(encoding="utf-8"))
+        for row in data["rows"]:
+            with self.subTest(title=row["title"]):
+                verdict = swe_verdict(row["title"])
+                if row["label"] == "swe":
+                    self.assertNotEqual(verdict, "no")
+                else:
+                    self.assertEqual(verdict, "no")
+
+
 if __name__ == "__main__":
     unittest.main()

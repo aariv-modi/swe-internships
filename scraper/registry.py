@@ -52,7 +52,8 @@ def board_from_url(url: str):
         if site.lower() in ("wday", "job"):
             return None
         tenant = host.split(".")[0]
-        return "workday", f"{host}/{site}", {"host": host, "tenant": tenant, "site": site}
+        # Site names are case-insensitive ("Q2" and "q2" are one site), so the key is lowercased.
+        return "workday", f"{host}/{site.lower()}", {"host": host, "tenant": tenant, "site": site}
     if m := GREENHOUSE_RE.match(url):
         board = m["board"].lower()
         if board in NOT_BOARDS:

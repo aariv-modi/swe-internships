@@ -1,0 +1,520 @@
+{
+ "note": "Hand-labelled 2026-10-22 from a stratified sample of 119 live listings (16 ambiguous ones left out). swe = must not be rejected by title; not_swe = must be rejected.",
+ "rows": [
+  {
+   "title": "Software Engineering Intern (Summer 2027)",
+   "label": "swe",
+   "source": "ashby:Grow Therapy"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "ashby:Clay"
+  },
+  {
+   "title": "Software Engineer Intern (AI-Native) — Fall 2026",
+   "label": "swe",
+   "source": "ashby:Kognitos"
+  },
+  {
+   "title": "Embedded Software Engineer Intern - Winer 2027",
+   "label": "swe",
+   "source": "ashby:Skydio"
+  },
+  {
+   "title": "Firmware Engineering Intern",
+   "label": "swe",
+   "source": "ashby:Base Power"
+  },
+  {
+   "title": "Software Engineering Intern, Android",
+   "label": "swe",
+   "source": "ashby:Ramp"
+  },
+  {
+   "title": "2027 Internship Behavior Machine Learning Engineer, World Models",
+   "label": "swe",
+   "source": "ashby:Bedrock Robotics"
+  },
+  {
+   "title": "Data Engineering Intern",
+   "label": "swe",
+   "source": "ashby:ibotta"
+  },
+  {
+   "title": "Physical Design Engineer Intern (DM)",
+   "label": "not_swe",
+   "source": "greenhouse:Astera Labs"
+  },
+  {
+   "title": "Software Engineering Intern - Winter '27",
+   "label": "swe",
+   "source": "greenhouse:Vercel"
+  },
+  {
+   "title": "Software Engineering Intern (Summer 2027)",
+   "label": "swe",
+   "source": "greenhouse:Freeform"
+  },
+  {
+   "title": "Infrastructure Engineer Intern",
+   "label": "swe",
+   "source": "greenhouse:Arcesium"
+  },
+  {
+   "title": "Software Developer, Network Software Intern (Summer 2027)",
+   "label": "swe",
+   "source": "greenhouse:Astranis"
+  },
+  {
+   "title": "Core Developer - Summer Intern",
+   "label": "swe",
+   "source": "greenhouse:Seven Research"
+  },
+  {
+   "title": "Flight Software Intern Summer 2027",
+   "label": "swe",
+   "source": "greenhouse:Rocket Lab USA"
+  },
+  {
+   "title": "Design Architecture Engineer Intern",
+   "label": "not_swe",
+   "source": "greenhouse:Astera Labs"
+  },
+  {
+   "title": "Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027",
+   "label": "swe",
+   "source": "greenhouse:GITAI"
+  },
+  {
+   "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+   "label": "swe",
+   "source": "greenhouse:Astranis"
+  },
+  {
+   "title": "Software Engineering Intern (Full Stack) – Summer 2027",
+   "label": "swe",
+   "source": "greenhouse:Sage"
+  },
+  {
+   "title": "Emulation Engineering Intern",
+   "label": "not_swe",
+   "source": "greenhouse:Astera Labs"
+  },
+  {
+   "title": "Data Engineering Intern (January 2027)",
+   "label": "swe",
+   "source": "greenhouse:Clēnera"
+  },
+  {
+   "title": "Information Technology, Software Engineering, & Computer Science - 2027 Summer Internship",
+   "label": "swe",
+   "source": "icims:General Dynamics"
+  },
+  {
+   "title": "Summer 2027 - Embedded Firmware Engineering Intern - Boynton Beach, FL",
+   "label": "swe",
+   "source": "icims:Studentopportunities Lutron"
+  },
+  {
+   "title": "Software Engineering Intern - Summer 2027",
+   "label": "swe",
+   "source": "icims:Empirical Foods"
+  },
+  {
+   "title": "Software Developer Intern",
+   "label": "swe",
+   "source": "icims:Dayton Freight Lines"
+  },
+  {
+   "title": "Embedded and Real-Time Software Intern",
+   "label": "swe",
+   "source": "jazzhr:Quantum Signal AI"
+  },
+  {
+   "title": "AI Engineer Intern",
+   "label": "swe",
+   "source": "jazzhr:DiligenceVault"
+  },
+  {
+   "title": "Intern/Co-op- Summer 2027 - Software Engineering",
+   "label": "swe",
+   "source": "jazzhr:Innovative Systems"
+  },
+  {
+   "title": "Front-End Engineering Intern",
+   "label": "swe",
+   "source": "jazzhr:Nebo"
+  },
+  {
+   "title": "Agile Software Test Engineering Intern",
+   "label": "swe",
+   "source": "jazzhr:Space Dynamics Laboratory"
+  },
+  {
+   "title": "Scientific Software Developer Paid Co-op/Internship",
+   "label": "swe",
+   "source": "jazzhr:Stellar Science"
+  },
+  {
+   "title": "2027 Internship - Embedded Software Engineer",
+   "label": "swe",
+   "source": "lever:Cirrus Logic"
+  },
+  {
+   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+   "label": "swe",
+   "source": "lever:Palantir"
+  },
+  {
+   "title": "Software Engineer, Internship - Defense Tech",
+   "label": "swe",
+   "source": "lever:Palantir"
+  },
+  {
+   "title": "Summer 2027 - Software Engineer Intern",
+   "label": "swe",
+   "source": "lever:Shield AI"
+  },
+  {
+   "title": "Software Engineer, Internship",
+   "label": "swe",
+   "source": "lever:Palantir"
+  },
+  {
+   "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ",
+   "label": "swe",
+   "source": "oracle:American Express"
+  },
+  {
+   "title": "Software Engineering Intern - Compiler",
+   "label": "swe",
+   "source": "oracle:Texas Instruments"
+  },
+  {
+   "title": "Intern - Oracle Application Developer",
+   "label": "swe",
+   "source": "oracle:GM financial"
+  },
+  {
+   "title": "Intern - Software Development Engineer",
+   "label": "swe",
+   "source": "oracle:GM financial"
+  },
+  {
+   "title": "Software Engineering Intern - ADG System R&D",
+   "label": "swe",
+   "source": "oracle:Emerson Electric"
+  },
+  {
+   "title": "Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL",
+   "label": "swe",
+   "source": "oracle:American Express"
+  },
+  {
+   "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
+   "label": "swe",
+   "source": "smartrecruiters:Robert Bosch Venture Capital"
+  },
+  {
+   "title": "2027 Graduate Software, Firmware & AI Engineering Internships - US",
+   "label": "swe",
+   "source": "smartrecruiters:Solidigm"
+  },
+  {
+   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+   "label": "swe",
+   "source": "smartrecruiters:AbbVie"
+  },
+  {
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "label": "swe",
+   "source": "smartrecruiters:AbbVie"
+  },
+  {
+   "title": "Software Engineering Intern (Rochester, NY)",
+   "label": "swe",
+   "source": "successfactors:L3Harris Technologies"
+  },
+  {
+   "title": "Software Engineer Intern",
+   "label": "swe",
+   "source": "successfactors:NetApp"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "successfactors:L3Harris Technologies"
+  },
+  {
+   "title": "Software Engineer Intern",
+   "label": "swe",
+   "source": "successfactors:L3Harris Technologies"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "successfactors:L3Harris Technologies"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "successfactors:L3Harris Technologies"
+  },
+  {
+   "title": "LLM Post-training Engineer Intern (Research & Product) - 2027 Summer",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Data Engineer Intern (Monetization Data) - 2027 Summer",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Software Engineer Intern (Transaction Platform) - 2027 Summer",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Software Engineer Intern (TikTok - Shoot Experience Optimization) - 2027 Summer",
+   "label": "swe",
+   "source": "tiktok:TikTok"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "workday:Danaher Corporation"
+  },
+  {
+   "title": "2027 Summer Intern – Software Engineer, AV/AI Platform",
+   "label": "swe",
+   "source": "workday:General Motors"
+  },
+  {
+   "title": "University - Summer 2027 Quantum Computing Research Intern",
+   "label": "not_swe",
+   "source": "workday:Booz Allen Hamilton"
+  },
+  {
+   "title": "Associate Software Engineer - Junior Intern Summer 2027",
+   "label": "swe",
+   "source": "workday:Thrivent"
+  },
+  {
+   "title": "Software Internship Roles - HP Solutions (HPS)",
+   "label": "swe",
+   "source": "workday:Hewlett Packard (HP)"
+  },
+  {
+   "title": "Summer 2027 Intern, Software Engineering",
+   "label": "swe",
+   "source": "workday:ryan"
+  },
+  {
+   "title": "2027 Summer Internship - Software Engineer",
+   "label": "swe",
+   "source": "workday:Q2"
+  },
+  {
+   "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+   "label": "swe",
+   "source": "workday:Intel"
+  },
+  {
+   "title": "2027 Summer Internship - Software Developer",
+   "label": "swe",
+   "source": "workday:newrez"
+  },
+  {
+   "title": "2027 Guardian Summer Intern, Digital & Technology - Application Development",
+   "label": "swe",
+   "source": "workday:Guardian Life"
+  },
+  {
+   "title": "Software Intern",
+   "label": "swe",
+   "source": "workday:Cadence Design Systems"
+  },
+  {
+   "title": "Intern, AI Software Engineering (June-August 2027)",
+   "label": "swe",
+   "source": "workday:rockwellautomation"
+  },
+  {
+   "title": "Software Engineering Intern - Summer 2027",
+   "label": "swe",
+   "source": "workday:McKesson"
+  },
+  {
+   "title": "Technology Internship Program (Software Engineering)",
+   "label": "swe",
+   "source": "workday:CNA Insurance"
+  },
+  {
+   "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+   "label": "swe",
+   "source": "workday:Intel"
+  },
+  {
+   "title": "Software Engineer II (Co-op) - United States",
+   "label": "swe",
+   "source": "workday:Cisco"
+  },
+  {
+   "title": "Intern - System Test Automation Engineer – San Diego, CA – Summer 2027",
+   "label": "swe",
+   "source": "workday:Philips"
+  },
+  {
+   "title": "Intern-Engineering (Applications)",
+   "label": "not_swe",
+   "source": "workday:Microchip Technology"
+  },
+  {
+   "title": "AI/ML Engineer Intern",
+   "label": "swe",
+   "source": "workday:analogdevices"
+  },
+  {
+   "title": "Software Engineering Intern, Applied AI",
+   "label": "swe",
+   "source": "workday:thgrp"
+  },
+  {
+   "title": "Cloud Developer Intern",
+   "label": "swe",
+   "source": "workday:Hewlett Packard Enterprise"
+  },
+  {
+   "title": "Software Engineering - PhD Intern",
+   "label": "swe",
+   "source": "workday:Intel"
+  },
+  {
+   "title": "Quantitative Intern - Portfolio Engineering and Analytics",
+   "label": "not_swe",
+   "source": "workday:Invesco"
+  },
+  {
+   "title": "2027 Summer Internship - Software Engineer",
+   "label": "swe",
+   "source": "workday:q2ebanking"
+  },
+  {
+   "title": "ETS - Platform Engineering Intern",
+   "label": "swe",
+   "source": "workday:Nordson"
+  },
+  {
+   "title": "Software Engineering Intern (Summer 2027)",
+   "label": "swe",
+   "source": "workday:axiomspace"
+  },
+  {
+   "title": "Software Engineer Intern (Summer 2027)",
+   "label": "swe",
+   "source": "workday:RTX"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "workday:AeroVironment"
+  },
+  {
+   "title": "Summer 2027 Software Engineering Intern",
+   "label": "swe",
+   "source": "workday:AeroVironment"
+  },
+  {
+   "title": "Firmware Engineering Intern",
+   "label": "swe",
+   "source": "workday:Juniper Networks"
+  },
+  {
+   "title": "Summer 2027 Software Engineering Intern",
+   "label": "swe",
+   "source": "workday:T-Mobile"
+  },
+  {
+   "title": "Intern - IT Software Engineer .NET (Summer 2027)",
+   "label": "swe",
+   "source": "workday:Nelnet"
+  },
+  {
+   "title": "Software Engineering Intern (C++, Unix)",
+   "label": "swe",
+   "source": "workday:kla"
+  },
+  {
+   "title": "Software Engineering - PhD Intern",
+   "label": "swe",
+   "source": "workday:Intel"
+  },
+  {
+   "title": "Systems Engineer Intern - Summer 2027 - Canton, MS",
+   "label": "not_swe",
+   "source": "workday:Nissan"
+  },
+  {
+   "title": "Depuy Synthes Product Development Engineer",
+   "label": "not_swe",
+   "source": "workday:Johnson & Johnson"
+  },
+  {
+   "title": "Database Engineering Intern",
+   "label": "swe",
+   "source": "workday:Copart"
+  },
+  {
+   "title": "Software Test Engineer Intern - Spring 2027",
+   "label": "swe",
+   "source": "workday:CACI"
+  },
+  {
+   "title": "2027 Summer Internship - Machine Learning Engineer",
+   "label": "swe",
+   "source": "workday:Q2"
+  },
+  {
+   "title": "Software Engineering Intern",
+   "label": "swe",
+   "source": "workday:AeroVironment"
+  },
+  {
+   "title": "GDIT Summer Internship Program – Summer 2027 Generative AI Software Development Internship",
+   "label": "swe",
+   "source": "workday:General Dynamics Information Technology"
+  },
+  {
+   "title": "2027 Guardian Summer Intern, Digital & Technology – AI & Machine Learning",
+   "label": "swe",
+   "source": "workday:Guardian Life"
+  },
+  {
+   "title": "Software Engineer Intern",
+   "label": "swe",
+   "source": "workday:Cboe"
+  },
+  {
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
+   "label": "swe",
+   "source": "workday:General Motors"
+  },
+  {
+   "title": "Software Engineer - Intern",
+   "label": "swe",
+   "source": "workday:Light & Wonder"
+  }
+ ]
+}
