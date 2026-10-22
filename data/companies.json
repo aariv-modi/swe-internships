@@ -200,6 +200,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "ashby:alan": {
+  "ats": "ashby",
+  "company": "Alan",
+  "params": {
+   "board": "alan"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "ashby:algo1": {
   "ats": "ashby",
   "company": "algo1",
@@ -2829,6 +2839,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "ashby:heidihealth.com.au": {
+  "ats": "ashby",
+  "company": "Heidihealth Com Au",
+  "params": {
+   "board": "heidihealth.com.au"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "ashby:helion": {
   "ats": "ashby",
   "company": "Helion Energy",
@@ -5430,6 +5450,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "ashby:relling": {
+  "ats": "ashby",
+  "company": "Relling",
+  "params": {
+   "board": "relling"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "ashby:remarcable-inc": {
   "ats": "ashby",
   "company": "Remarcable",
@@ -6202,6 +6232,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "ashby:taktile": {
+  "ats": "ashby",
+  "company": "Taktile",
+  "params": {
+   "board": "taktile"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "ashby:talos-trading": {
@@ -7419,6 +7459,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "greenhouse:aechelontechnology": {
+  "ats": "greenhouse",
+  "company": "Aechelontechnology",
+  "params": {
+   "board": "aechelontechnology"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:aegworldwide": {
   "ats": "greenhouse",
   "company": "AEG",
@@ -8164,6 +8214,26 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:awardco": {
+  "ats": "greenhouse",
+  "company": "Awardco",
+  "params": {
+   "board": "awardco"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
+ "greenhouse:awetomaton": {
+  "ats": "greenhouse",
+  "company": "Awetomaton",
+  "params": {
+   "board": "awetomaton"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:axle": {
@@ -9091,6 +9161,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "greenhouse:coinbase": {
+  "ats": "greenhouse",
+  "company": "Coinbase",
+  "params": {
+   "board": "coinbase"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:commerceiq": {
   "ats": "greenhouse",
   "company": "CommerceIQ",
@@ -9922,6 +10002,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "greenhouse:epicgames": {
+  "ats": "greenhouse",
+  "company": "Epicgames",
+  "params": {
+   "board": "epicgames"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:epickids": {
   "ats": "greenhouse",
   "company": "Epic Kids",
@@ -10395,6 +10485,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "greenhouse:farmersmutualhailinsurancecompany": {
+  "ats": "greenhouse",
+  "company": "Farmersmutualhailinsurancecompany",
+  "params": {
+   "board": "farmersmutualhailinsurancecompany"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:fashionnova": {
   "ats": "greenhouse",
   "company": "Fashion Nova",
@@ -10597,6 +10697,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "greenhouse:formlabs": {
+  "ats": "greenhouse",
+  "company": "Formlabs",
+  "params": {
+   "board": "formlabs"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:formlabsinternships": {
@@ -10925,6 +11035,16 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:ginkgobioworks": {
+  "ats": "greenhouse",
+  "company": "Ginkgobioworks",
+  "params": {
+   "board": "ginkgobioworks"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:gitai": {
@@ -11792,6 +11912,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "greenhouse:ixllearning": {
+  "ats": "greenhouse",
+  "company": "Ixllearning",
+  "params": {
+   "board": "ixllearning"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:janestreet": {
   "ats": "greenhouse",
   "company": "Jane Street",
@@ -12271,6 +12401,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "greenhouse:lyft": {
+  "ats": "greenhouse",
+  "company": "Lyft",
+  "params": {
+   "board": "lyft"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:m3": {
@@ -12913,6 +13053,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "greenhouse:northmarq": {
+  "ats": "greenhouse",
+  "company": "Northmarq",
+  "params": {
+   "board": "northmarq"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:northspyre": {
   "ats": "greenhouse",
   "company": "Northspyre",
@@ -13478,6 +13628,16 @@
    "vanshb03/New-Grad-2027"
   ]
  },
+ "greenhouse:pinterest": {
+  "ats": "greenhouse",
+  "company": "Pinterest",
+  "params": {
+   "board": "pinterest"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:planetlabs": {
   "ats": "greenhouse",
   "company": "Planet",
@@ -13613,6 +13773,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "greenhouse:prizepicks": {
+  "ats": "greenhouse",
+  "company": "Prizepicks",
+  "params": {
+   "board": "prizepicks"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:proconex": {
@@ -13992,6 +14162,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "greenhouse:ritual": {
+  "ats": "greenhouse",
+  "company": "Ritual",
+  "params": {
+   "board": "ritual"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:riversidenaturalfoodsltd": {
   "ats": "greenhouse",
   "company": "Riverside Natural Foods",
@@ -14021,6 +14201,16 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:roblox": {
+  "ats": "greenhouse",
+  "company": "Roblox",
+  "params": {
+   "board": "roblox"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:roboforce": {
@@ -14119,6 +14309,16 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "greenhouse:sagesure": {
+  "ats": "greenhouse",
+  "company": "Sagesure",
+  "params": {
+   "board": "sagesure"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:samayaai": {
   "ats": "greenhouse",
   "company": "Samaya",
@@ -14127,6 +14327,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "greenhouse:samsara": {
+  "ats": "greenhouse",
+  "company": "Samsara",
+  "params": {
+   "board": "samsara"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:samsungresearchamericainternship": {
@@ -14265,6 +14475,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "greenhouse:seatgeek": {
+  "ats": "greenhouse",
+  "company": "Seatgeek",
+  "params": {
+   "board": "seatgeek"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:secretariatadvisorsllc": {
@@ -14838,6 +15058,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:stripe": {
+  "ats": "greenhouse",
+  "company": "Stripe",
+  "params": {
+   "board": "stripe"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "greenhouse:studiokraftonboard": {
@@ -15594,6 +15824,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "greenhouse:veeamsoftware": {
+  "ats": "greenhouse",
+  "company": "Veeamsoftware",
+  "params": {
+   "board": "veeamsoftware"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:vegaamericas": {
   "ats": "greenhouse",
   "company": "VEGA Americas",
@@ -16091,6 +16331,16 @@
    "vanshb03/New-Grad-2027"
   ]
  },
+ "greenhouse:xtillion": {
+  "ats": "greenhouse",
+  "company": "Xtillion",
+  "params": {
+   "board": "xtillion"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "greenhouse:xtxmarketstechnologies": {
   "ats": "greenhouse",
   "company": "XTX Markets",
@@ -16403,6 +16653,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "icims:careers-araglegal.icims.com": {
+  "ats": "icims",
+  "company": "Araglegal",
+  "params": {
+   "host": "careers-araglegal.icims.com"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "icims:careers-ardenteagle.icims.com": {
@@ -17609,6 +17869,16 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "icims:careers-iqt.icims.com": {
+  "ats": "icims",
+  "company": "Iqt",
+  "params": {
+   "host": "careers-iqt.icims.com"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "icims:careers-iridium.icims.com": {
@@ -18852,6 +19122,16 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "icims:careers-wginc.icims.com": {
+  "ats": "icims",
+  "company": "Wginc",
+  "params": {
+   "host": "careers-wginc.icims.com"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "icims:careers-wilson.icims.com": {
   "ats": "icims",
   "company": "United Wholesale Mortgage",
@@ -19130,6 +19410,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "icims:globalcareers-sas.icims.com": {
+  "ats": "icims",
+  "company": "Globalcareers Sas",
+  "params": {
+   "host": "globalcareers-sas.icims.com"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "icims:graduate-roi-dawnmeats.icims.com": {
   "ats": "icims",
   "company": "Dawn Meats",
@@ -19159,6 +19449,16 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "icims:hubcareers-docusign.icims.com": {
+  "ats": "icims",
+  "company": "Hubcareers Docusign",
+  "params": {
+   "host": "hubcareers-docusign.icims.com"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "icims:ideas-sas.icims.com": {
@@ -19211,6 +19511,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "icims:jmp-sas.icims.com": {
+  "ats": "icims",
+  "company": "Jmp Sas",
+  "params": {
+   "host": "jmp-sas.icims.com"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "icims:jobs-bylight.icims.com": {
@@ -27736,6 +28046,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "smartrecruiters:aumovio": {
+  "ats": "smartrecruiters",
+  "company": "Aumovio",
+  "params": {
+   "company": "aumovio"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "smartrecruiters:avanceconsultingservices2": {
   "ats": "smartrecruiters",
   "company": "Avance Consulting",
@@ -27929,6 +28249,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "smartrecruiters:cityofnewyork": {
+  "ats": "smartrecruiters",
+  "company": "Cityofnewyork",
+  "params": {
+   "company": "CityOfNewYork"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "smartrecruiters:cityofphiladelphia": {
@@ -28135,6 +28465,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "smartrecruiters:endeavoritsolution": {
+  "ats": "smartrecruiters",
+  "company": "Endeavoritsolution",
+  "params": {
+   "company": "EndeavorITSolution"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "smartrecruiters:entain": {
   "ats": "smartrecruiters",
   "company": "Entain",
@@ -28143,6 +28483,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "smartrecruiters:epochgames": {
+  "ats": "smartrecruiters",
+  "company": "Epochgames",
+  "params": {
+   "company": "EpochGames"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "smartrecruiters:erpanalysts1": {
@@ -29242,6 +29592,16 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "smartrecruiters:scalablegmbh": {
+  "ats": "smartrecruiters",
+  "company": "Scalablegmbh",
+  "params": {
+   "company": "ScalableGmbH"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "smartrecruiters:schrder": {
@@ -32298,6 +32658,18 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "workday:aoins.wd5.myworkdayjobs.com/concord": {
+  "ats": "workday",
+  "company": "Aoins",
+  "params": {
+   "host": "aoins.wd5.myworkdayjobs.com",
+   "tenant": "aoins",
+   "site": "Concord"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "workday:applebank.wd5.myworkdayjobs.com/applebankcareers": {
   "ats": "workday",
   "company": "Apple Bank",
@@ -32824,6 +33196,18 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "workday:athenago.wd108.myworkdayjobs.com/athena": {
+  "ats": "workday",
+  "company": "Athenago",
+  "params": {
+   "host": "athenago.wd108.myworkdayjobs.com",
+   "tenant": "athenago",
+   "site": "athena"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "workday:athenahealth.wd1.myworkdayjobs.com/external": {
@@ -40483,6 +40867,18 @@
    "vanshb03/Summer2027-Internships"
   ]
  },
+ "workday:hpe.wd5.myworkdayjobs.com/wfmathpe": {
+  "ats": "workday",
+  "company": "Hpe",
+  "params": {
+   "host": "hpe.wd5.myworkdayjobs.com",
+   "tenant": "hpe",
+   "site": "wfmathpe"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "workday:hpinc.wd5.myworkdayjobs.com/hpinc": {
   "ats": "workday",
   "company": "Helmerich & Payne",
@@ -45945,6 +46341,18 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "workday:permianres.wd12.myworkdayjobs.com/permian_resources_careers": {
+  "ats": "workday",
+  "company": "Permianres",
+  "params": {
+   "host": "permianres.wd12.myworkdayjobs.com",
+   "tenant": "permianres",
+   "site": "Permian_Resources_Careers"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "workday:pewtrusts.wd5.myworkdayjobs.com/centerexternal": {
   "ats": "workday",
   "company": "Pew Research Center",
@@ -46675,6 +47083,18 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "workday:pwc.wd3.myworkdayjobs.com/nonpublic_postings": {
+  "ats": "workday",
+  "company": "Pwc",
+  "params": {
+   "host": "pwc.wd3.myworkdayjobs.com",
+   "tenant": "pwc",
+   "site": "nonpublic_postings"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "workday:pwc.wd3.myworkdayjobs.com/us_entry_level_careers": {
@@ -49891,6 +50311,18 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "workday:thehartford.wd5.myworkdayjobs.com/careers_restricted": {
+  "ats": "workday",
+  "company": "Thehartford",
+  "params": {
+   "host": "thehartford.wd5.myworkdayjobs.com",
+   "tenant": "thehartford",
+   "site": "Careers_Restricted"
+  },
+  "sources": [
+   "common-crawl"
+  ]
+ },
  "workday:theirc.wd1.myworkdayjobs.com/external_careers": {
   "ats": "workday",
   "company": "International Rescue Committee (IRC)",
@@ -50377,6 +50809,18 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "workday:trinitylifesciences.wd108.myworkdayjobs.com/trinity": {
+  "ats": "workday",
+  "company": "Trinitylifesciences",
+  "params": {
+   "host": "trinitylifesciences.wd108.myworkdayjobs.com",
+   "tenant": "trinitylifesciences",
+   "site": "Trinity"
+  },
+  "sources": [
+   "common-crawl"
   ]
  },
  "workday:triumf.wd10.myworkdayjobs.com/careers-at-triumf-job-postings": {
