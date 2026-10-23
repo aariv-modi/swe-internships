@@ -23,6 +23,15 @@
  },
  {
   "reason": "board_unreadable",
+  "company": "Nokia",
+  "title": "AI Agent Development Co-op",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
+ },
+ {
+  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -206,6 +215,33 @@
    "Ashburn, VA"
   ],
   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Arizona State University",
+  "title": "Student Web Developer & Content Specialist Intern",
+  "locations": [
+   "Tempe, AZ"
+  ],
+  "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Ann & Robert H. Lurie Children’s Hospital of Chicago",
+  "title": "Research Student Assistant-Behavioral Health Intern",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Research-Student-Assistant-Behavioral-Health_JR2026-2801"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "University of Arkansas",
+  "title": "EAC Extra Help Assistant Intern",
+  "locations": [
+   "Little Rock, AR"
+  ],
+  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/EAC-Extra-Help-Assistant--Multiple-Open-Positions-_R0092584"
  },
  {
   "reason": "filtered:not_internship",
@@ -761,6 +797,15 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Elanco",
+  "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+  "locations": [
+   "Indianapolis, IN"
+  ],
+  "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Nissan Global",
   "title": "EA & Cloud Intern",
   "locations": [
@@ -776,6 +821,15 @@
    "Franklin, TN"
   ],
   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "NJ Department of Environmental Protection",
+  "title": "Watershed & Land Management Intern",
+  "locations": [
+   "Trenton, NJ"
+  ],
+  "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/vPwbyhmsxt/Watershed-Land-Management-Intern-WLM20265i"
  },
  {
   "reason": "filtered:not_swe",
@@ -1050,15 +1104,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Nokia",
-  "title": "AI Agent Development Co-op",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "CNA Insurance",
   "title": "Technology Intern - Agile Product Design",
   "locations": [
@@ -1303,12 +1348,48 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Aptiv",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Walnut Creek, CA"
+  ],
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Aptiv",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Walnut Creek, CA"
+  ],
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Papa John's",
+  "title": "Digital Development Intern",
+  "locations": [
+   "Atlanta, GA"
+  ],
+  "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Capstone Investment Advisors",
   "title": "Tech Execution Intern",
   "locations": [
    "NYC"
   ],
   "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "CoverMyMeds",
+  "title": "CMM Technology Intern",
+  "locations": [
+   "Columbus, OH"
+  ],
+  "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1514,6 +1595,15 @@
    "Palo Alto, CA"
   ],
   "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Belvedere Trading",
+  "title": "Software Engineer Intern - Summer 2027",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"
  },
  {
   "reason": "not_returned",
@@ -1764,12 +1854,30 @@
  },
  {
   "reason": "not_returned",
+  "company": "Pennsylvania State University",
+  "title": "Research Assistant Intern - Smeal Research Intelligence - Sri",
+  "locations": [
+   "University Park, State College, PA"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Smeal-Research-Intelligence--SRI-_REQ_0000083297-1"
+ },
+ {
+  "reason": "not_returned",
   "company": "onsemi",
   "title": "Manufacturing AI Engineering Intern",
   "locations": [
    "Hopewell Junction, NY"
   ],
   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Macy's",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Johns Creek, GA"
+  ],
+  "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"
  },
  {
   "reason": "not_returned",
@@ -1878,6 +1986,26 @@
    "Columbus, MS"
   ],
   "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "S&P Global",
+  "title": "Software Engineer Intern - Summer 2027",
+  "locations": [
+   "Cambridge, MA",
+   "NYC"
+  ],
+  "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Kensho",
+  "title": "Software Engineer Intern - Summer 2027",
+  "locations": [
+   "Cambridge, MA",
+   "NYC"
+  ],
+  "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
  },
  {
   "reason": "stale_on_simplify",
@@ -4071,6 +4199,15 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "R&D Software Engineer Intern",
+  "locations": [
+   "Calabasas, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54640?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "DocuSign",
   "title": "Software Engineer Intern",
   "locations": [
@@ -4147,6 +4284,27 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Electronic Arts",
+  "title": "Data and AI Engineer Intern",
+  "locations": [
+   "Austin, TX"
+  ],
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Boston Consulting Group",
+  "title": "Forward Deployed AI Engineer Intern",
+  "locations": [
+   "Boston, MA",
+   "LA",
+   "Chicago, IL",
+   "NYC"
+  ],
+  "url": "https://careers.bcg.com/global/en/job/59702"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Netflix",
   "title": "Software Engineer Intern",
   "locations": [
@@ -4154,6 +4312,15 @@
    "Los Gatos, CA"
   ],
   "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Medpace",
+  "title": "Python Developer Intern",
+  "locations": [
+   "Cincinnati, OH"
+  ],
+  "url": "https://careers.medpace.com/jobs/13059?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4319,5 +4486,14 @@
    "Atlanta, GA"
   ],
   "url": "https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Walgreens",
+  "title": "Mobile App Developer Intern",
+  "locations": [
+   "Deerfield, IL"
+  ],
+  "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723"
  }
 ]
