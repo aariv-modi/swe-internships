@@ -1801,15 +1801,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Nokia",
-  "title": "AI Agent Development Co-op",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
- },
- {
-  "reason": "not_returned",
   "company": "University of Texas at Austin",
   "title": "Student Technician - Applied Research Laboratories",
   "locations": [
@@ -2029,15 +2020,6 @@
  },
  {
   "reason": "stale_on_simplify",
-  "company": "Copart",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Dallas, TX"
-  ],
-  "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
- },
- {
-  "reason": "stale_on_simplify",
   "company": "Susquehanna International Group",
   "title": "Technology Co-op - Drexel University",
   "locations": [
@@ -2080,25 +2062,6 @@
    "Columbus, MS"
   ],
   "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "S&P Global",
-  "title": "Software Engineer Intern - Summer 2027",
-  "locations": [
-   "Cambridge, MA",
-   "NYC"
-  ],
-  "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Booz Allen",
-  "title": "Quantum Computing Research Intern",
-  "locations": [
-   "Washington, DC"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
  },
  {
   "reason": "stale_on_simplify",
@@ -2217,16 +2180,6 @@
    "Lincoln, NE"
   ],
   "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "TIFIN",
-  "title": "AI Engineering Intern",
-  "locations": [
-   "Charlotte, NC",
-   "Boulder, CO"
-  ],
-  "url": "https://tifin.com/careers/apply/?gh_jid=5981740004"
  },
  {
   "reason": "unsupported_ats",

@@ -13,27 +13,28 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1779 open roles** from 666 companies · updated 2026-10-23 21:19 UTC
+**1777 open roles** from 666 companies · updated 2026-10-23 22:18 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1248**; also on this list: **749** (60%)
-- On job systems this scraper supports: **733 / 968** (76%); excluding 19 Simplify listings already closed on the company's own board: **77%**
+- Simplify's open US software internships: **1243**; also on this list: **749** (60%)
+- On job systems this scraper supports: **733 / 964** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **495**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 42, stale_on_simplify 19, unsupported_ats 264
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 41, stale_on_simplify 16, unsupported_ats 263
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Skydio** | Embedded Software Engineer Intern - Winter 2027 | San Mateo, California, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366) | 0d |
 | **Trace Labs** | Robotics Engineering Intern — Hardware & Software | NYC | — | [Apply](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-NY-New York | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14105/summer-internship-program-2027---software-engineering-intern/job) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, FL, US | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14087/summer-internship-program-2027---release-engineering-intern/job) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern, Java | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14078/summer-internship-program-2027---software-engineering-intern%2c-java/job) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14077/summer-internship-program-2027---software-engineering-intern/job) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Developer Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14076/summer-internship-program-2027---software-developer-intern/job) | 0d |
-| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Development Engineer in Test Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14066/summer-internship-program-2027---software-development-engineer-in-test-intern/job) | 0d |
 | **Intercontinental Exchange** | Summer Internship Program 2027 - Infrastructure Development & Automation Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14064/summer-internship-program-2027---infrastructure-development-%26-automation-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Development Engineer in Test Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14066/summer-internship-program-2027---software-development-engineer-in-test-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14075/summer-internship-program-2027---software-engineering-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Developer Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14076/summer-internship-program-2027---software-developer-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern, Java | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14078/summer-internship-program-2027---software-engineering-intern%2c-java/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, FL, US | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14087/summer-internship-program-2027---release-engineering-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-NY-New York | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14105/summer-internship-program-2027---software-engineering-intern/job) | 0d |
 | **Epicgames** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) | 0d |
 | **Flagship Pioneering** | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) | 0d |
 | **Flagship Pioneering** | ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002) | 0d |
@@ -285,7 +286,6 @@ read directly from the company's own job board and refreshed automatically.
 | **TikTok** | Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer | Seattle, Washington, United States of America | Summer 2027 | [Apply](https://lifeattiktok.com/search/7694362230074673461) | 1d |
 | **TikTok** | Machine Learning Engineer Intern (E-Commerce Governance)- 2027 Summer | Seattle, Washington, United States of America | Summer 2027 | [Apply](https://lifeattiktok.com/search/7694366551807265029) | 1d |
 | **Allen Control Systems** | Android Developer Intern, 2027 | Austin, TX, United States | 2027 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | 1d |
-| **Skydio** | Embedded Software Engineer Intern - Winter 2027 | San Mateo, California, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34) | 1d |
 | **Aptiv** | Software Development Intern | Troy, MI - USA, United States of America | — | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | 1d |
 | **CAI** | Server Engineer Intern | PA-CLIENT-STATE, United States of America | — | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Server-Engineer-Intern_R8557) | 1d |
 | **FOX** | Spring 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, California, USA, United States of America | Spring 2027 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033927) | 1d |
@@ -524,7 +524,6 @@ read directly from the company's own job board and refreshed automatically.
 | **W.W. Grainger** | GTG Intern - Software Engineer | CHICAGO, IL, US, 60661-4555 | — | [Apply](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/) | 10d |
 | **Armadin** | Summer 2027 Internship -  Member of Technical Staff -  Frontend | Palo Alto, United States | Summer 2027 | [Apply](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b) | 10d |
 | **Skydio** | Software Engineer Intern - Summer 2027 | San Mateo, California, United States<br>Remote | Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) | 10d |
-| **Skydio** | Embedded Software Engineer Intern - Summer 2027 | San Mateo, California, United States<br>Remote | Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260) | 10d |
 | **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | 2027 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | 10d |
 | **Figma** | PhD Intern, Software Engineer - Graphics (2027) | San Francisco, CA • New York, NY | 2027 | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | 10d |
 | **Rhombus** | Software Engineering Intern - Summer 2027 | Sacramento, CA | Summer 2027 | [Apply](https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380) | 10d |
@@ -1151,7 +1150,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Veeam Software** | AI/ML Intern Summer 2027 | San Jose, CA, USA | Summer 2027 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | 42d |
 | **Klaviyo** | Software Engineer Intern (Summer 2027) | Boston, MA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | 42d |
 | **NewsBreak** | Nearby AI Internship Program - Engineering Track | Mountain View, California, United States | — | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4712896006) | 42d |
-| **SK Hynix Memory Solution** | Embedded Software Engineer Intern | San Jose | — | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009) | 42d |
 | **Cirrus Logic** | 2027 Internship - Embedded Software Test Engineer | Austin, Texas | 2027 | [Apply](https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175) | 42d |
 | **Xcimer Energy** | Summer 2027 Internship - Computational and Software Engineering | Denver, CO | Summer 2027 | [Apply](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911) | 42d |
 | **Avis Budget Group** | Accelerate - Transformation Engineer Summer 2027 Intern | 379 Interpace Pkwy, Parsippany, 07054, United States of America | Summer 2027 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388) | 42d |
