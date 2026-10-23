@@ -81,17 +81,6 @@
  },
  {
   "reason": "filtered:location_unknown",
-  "company": "National Information Solutions Cooperative",
-  "title": "Software Development Intern",
-  "locations": [
-   "Lake St Louis, MO",
-   "Mandan, ND",
-   "Cedar Rapids, IA"
-  ],
-  "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699"
- },
- {
-  "reason": "filtered:location_unknown",
   "company": "Cloudflare",
   "title": "Software Engineer Intern",
   "locations": [
@@ -188,15 +177,6 @@
    "NYC"
   ],
   "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "Assured Guaranty",
-  "title": "Product Software Developer - Back-End",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002"
  },
  {
   "reason": "filtered:not_internship",
@@ -341,15 +321,6 @@
    "Reno, NV"
   ],
   "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Inbulks",
-  "title": "Junior Front End Developer Intern",
-  "locations": [
-   "Long Island City, Queens, NY"
-  ],
-  "url": "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753"
  },
  {
   "reason": "filtered:not_swe",
@@ -533,15 +504,6 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "GE Vernova",
-  "title": "Project Engineer Intern - Summer 2027",
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "Replit",
   "title": "Cohort 0",
   "locations": [
@@ -674,15 +636,6 @@
    "Warren, OH"
   ],
   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Rundoo",
-  "title": "Marketing Engineer Intern",
-  "locations": [
-   "Redwood City, CA"
-  ],
-  "url": "https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application?embed=true"
  },
  {
   "reason": "filtered:not_swe",
@@ -1420,15 +1373,6 @@
   "locations": [
    "Fairport, NY"
   ],
-  "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Ralliant",
-  "title": "Research & Development Co-op",
-  "locations": [
-   "Fairport, NY"
-  ],
   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10634"
  },
  {
@@ -1623,24 +1567,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Verizon Communications",
-  "title": "Call Routing Optimization Engineer Intern",
-  "locations": [
-   "Basking Ridge, Bernards, NJ"
-  ],
-  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Verizon Communications",
-  "title": "Call Routing Optimization Engineering Intern",
-  "locations": [
-   "Basking Ridge, Bernards, NJ"
-  ],
-  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "K1",
   "title": "AI Intern",
   "locations": [
@@ -1692,18 +1618,6 @@
    "Austin, TX"
   ],
   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424"
- },
- {
-  "reason": "filtered:not_us",
-  "company": "HeyGen",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Toronto, ON, Canada",
-   "SF",
-   "LA",
-   "Singapore"
-  ],
-  "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007"
  },
  {
   "reason": "not_returned",
@@ -2157,6 +2071,15 @@
    "Des Moines, IA"
   ],
   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Pennsylvania State University",
+  "title": "Research Assistant Intern",
+  "locations": [
+   "University Park, State College, PA"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1"
  },
  {
   "reason": "stale_on_simplify",
@@ -2926,15 +2849,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "ByteDance",
-  "title": "Software Engineer Intern - CIS Knowledge Bank",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7675345626188335365/detail"
- },
- {
-  "reason": "unsupported_ats",
   "company": "AMD",
   "title": "Software Engineer Intern/Co-op",
   "locations": [
@@ -3083,15 +2997,6 @@
    "Fremont, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/281467"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Clerkie",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Remote in USA"
-  ],
-  "url": "http://getfiber.ai/careers?gh_jid=5225258007"
  },
  {
   "reason": "unsupported_ats",
@@ -3259,15 +3164,6 @@
    "Laurel, MD"
   ],
   "url": "https://careers.jhuapl.edu/jobs/59779?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Kinder Morgan",
-  "title": "Information Technology Intern - Application Development",
-  "locations": [
-   "Houston, TX"
-  ],
-  "url": "https://careers.kindermorgan.com/jobs/6032?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4027,17 +3923,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Rippling",
-  "title": "Full Stack Software Engineer Intern",
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
- },
- {
-  "reason": "unsupported_ats",
   "company": "William Blair",
   "title": "Software Engineering Intern - Wit",
   "locations": [
@@ -4053,15 +3938,6 @@
    "Chicago, IL"
   ],
   "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Semiconductor Systems Automation Intern",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54371?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4165,15 +4041,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "John Deere",
-  "title": "Software Engineer Part-Time Student",
-  "locations": [
-   "Champaign, IL"
-  ],
-  "url": "https://johndeere.eightfold.ai/careers/job/137483583981"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Software Developer Intern - Integration Tools",
   "locations": [
@@ -4247,15 +4114,6 @@
    "Pleasant Grove, UT"
   ],
   "url": "https://jobs.keysight.com/jobs/54671?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "IT Engineering Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54649?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4609,18 +4467,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Boston Consulting Group",
-  "title": "Forward Deployed AI Engineer Intern",
-  "locations": [
-   "Boston, MA",
-   "LA",
-   "Chicago, IL",
-   "NYC"
-  ],
-  "url": "https://careers.bcg.com/global/en/job/59702"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Netflix",
   "title": "Software Engineer Intern",
   "locations": [
@@ -4673,15 +4519,6 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/282292"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "SRC, Inc",
-  "title": "Engineering Intern",
-  "locations": [
-   "Syracuse, NY"
-  ],
-  "url": "https://jobs.jobvite.com/src-inc/job/oC3GAfwF?nl=1&nl=1&fr=false"
  },
  {
   "reason": "unsupported_ats",
