@@ -1,13 +1,15 @@
 """Where personal data lives: outside the repo, so it can never be committed to the public list."""
 import json
+import os
 import shutil
 import tomllib
 from pathlib import Path
 
-HOME = Path.home() / ".swe-internships"
+# SWE_INTERNSHIPS_HOME lets tests use a throwaway folder (faking USERPROFILE breaks Chrome's launch).
+HOME = Path(os.environ.get("SWE_INTERNSHIPS_HOME") or Path.home() / ".swe-internships")
 PROFILE = HOME / "profile.toml"
 STATE = HOME / "state.json"
-BROWSER_DIR = HOME / "browser"   # persistent Chrome profile: Workday sign-ins survive between runs
+COOKIES = HOME / "browser_state.json"   # cookies/local storage, so sign-ins survive between runs
 TEMPLATE = Path(__file__).with_name("profile.example.toml")
 LISTINGS_URL = "https://raw.githubusercontent.com/aariv-modi/swe-internships/main/data/listings.json"
 

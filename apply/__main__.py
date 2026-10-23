@@ -43,9 +43,13 @@ def cmd_open(target, profile, state, items):
         sys.exit("Needs Playwright: pip install playwright")
     print(f"Opening {rec.get('company', '')} {rec.get('title', '')}\n  {url}")
     with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(str(config.BROWSER_DIR), channel="chrome", headless=False,
-                                                   no_viewport=True)
-        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        # A persistent Chrome profile (launch_persistent_context) fails to start on this setup
+        # ("DevTools remote debugging requires a non-default data directory"), so the browser
+        # starts clean and cookies are saved/restored instead; Workday sign-ins still persist.
+        browser = p.chromium.launch(channel="chrome", headless=False, args=["--start-maximized"])
+        ctx = browser.new_context(no_viewport=True, storage_state=str(config.COOKIES)
+                                  if config.COOKIES.exists() else None)
+        page = ctx.new_page()
         page.goto(url, wait_until="networkidle", timeout=90000)
         if queue.autofill_supported(url):
             drafter = draft.claude_drafter if draft.available() else None
@@ -72,7 +76,11 @@ def cmd_open(target, profile, state, items):
             print("\n  Not a pre-fill system (e.g. Workday): sign in and complete it in this window.")
         print("\n  Review everything in the browser and submit there yourself.")
         outcome = input("  When you're done: applied / skipped / later? [a/s/L] ").strip().lower()
-        ctx.close()
+        try:
+            ctx.storage_state(path=str(config.COOKIES))   # keep sign-ins for next time
+        except Exception:
+            pass   # the user closed the window first
+        browser.close()
     if outcome in ("a", "applied", "s", "skipped"):
         state[lid] = {"status": "applied" if outcome.startswith("a") else "skipped",
                       "date": date.today().isoformat(), "company": rec.get("company"),
@@ -81,6 +89,8 @@ def cmd_open(target, profile, state, items):
 
 
 def main(argv=None):
+    # Form labels contain curly quotes and symbols; never crash a cp1252 console over them.
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser(prog="python -m apply")
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("init")

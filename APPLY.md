@@ -16,7 +16,8 @@ python -m apply init          # creates ~/.swe-internships/profile.toml
 ```
 
 Fill in `profile.toml` (contact details, resume path, school, work authorization, preferences).
-Playwright drives your installed Google Chrome, so no extra browser download is needed.
+Playwright drives your installed Google Chrome, so no extra browser download is needed. Sign-ins
+(e.g. Workday) are kept in `~/.swe-internships/browser_state.json` between runs.
 
 Optional: install the Claude Code CLI (`npm install -g @anthropic-ai/claude-code`, then run
 `claude` once to sign in with your subscription) to get drafts for long-answer questions.
