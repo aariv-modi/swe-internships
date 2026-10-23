@@ -41,30 +41,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
- },
- {
-  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -206,6 +182,30 @@
  },
  {
   "reason": "filtered:not_internship",
+  "company": "Accenture",
+  "title": "Technology Summer Analyst - Multiple Teams",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "Detroit, MI",
+   "LA",
+   "Morristown, NJ",
+   "Dallas, TX",
+   "Philadelphia, PA",
+   "Chicago, IL",
+   "Charlotte, NC",
+   "Arlington County, Arlington, VA",
+   "St. Louis, MO",
+   "NYC",
+   "Atlanta, GA",
+   "San Diego, CA"
+  ],
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
+ },
+ {
+  "reason": "filtered:not_internship",
   "company": "Booz Allen",
   "title": "Applied AI Intern",
   "locations": [
@@ -329,6 +329,15 @@
    "Upton, Brookhaven, NY"
   ],
   "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "ABB",
+  "title": "R&D Software Engineer Intern",
+  "locations": [
+   "Greenville, SC"
+  ],
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035"
  },
  {
   "reason": "filtered:not_swe",
@@ -1086,6 +1095,15 @@
    "Cambridge, MA"
   ],
   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "DoorDash",
+  "title": "Operations Research Intern",
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -3316,15 +3334,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Goldman Sachs",
-  "title": "Summer Analyst Intern - Engineering",
-  "locations": [
-   "Seattle, WA"
-  ],
-  "url": "https://higher.gs.com/roles/177808?type=students"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Amazon",
   "title": "Software Development Engineer Intern - Robotics",
   "locations": [
@@ -4513,27 +4522,6 @@
    "NYC"
   ],
   "url": "https://www.tower-research.com/open-positions/?gh_jid=7368106"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Databricks",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "SF",
-   "Bellevue, WA",
-   "Mountain View, CA",
-   "Vancouver, BC, Canada"
-  ],
-  "url": "https://boards.greenhouse.io/embed/job_app?token=6865687002"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Siemens",
-  "title": "Sales and Service Web Development Intern - Gscs",
-  "locations": [
-   "Mason, OH"
-  ],
-  "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/525502"
  },
  {
   "reason": "unsupported_ats",
