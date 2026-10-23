@@ -164,30 +164,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "Booz Allen",
   "title": "Applied AI Intern",
   "locations": [
@@ -1647,15 +1623,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Daimler Truck",
-  "title": "Applied Data & Technology Intern",
-  "locations": [
-   "Portland, OR"
-  ],
-  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-Data---Technology-Intern_DT-20262-1"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Verizon Communications",
   "title": "Call Routing Optimization Engineer Intern",
   "locations": [
@@ -2040,6 +2007,30 @@
  },
  {
   "reason": "not_returned",
+  "company": "Accenture",
+  "title": "Technology Summer Analyst - Multiple Teams",
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "SF",
+   "Austin, TX",
+   "Detroit, MI",
+   "LA",
+   "Morristown, NJ",
+   "Dallas, TX",
+   "Philadelphia, PA",
+   "Chicago, IL",
+   "Charlotte, NC",
+   "Arlington County, Arlington, VA",
+   "St. Louis, MO",
+   "NYC",
+   "Atlanta, GA",
+   "San Diego, CA"
+  ],
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
+ },
+ {
+  "reason": "not_returned",
   "company": "Wellmark",
   "title": "Software Engineer Intern",
   "locations": [
@@ -2223,6 +2214,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "Boeing",
+  "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
+  "locations": [
+   "Tukwila, WA"
+  ],
+  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Steel Dynamics",
   "title": "Software Development Intern",
   "locations": [
@@ -2277,6 +2277,24 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "T-Mobile",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Daimler Truck",
+  "title": "Applied Data & Technology Intern",
+  "locations": [
+   "Portland, OR"
+  ],
+  "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-Data---Technology-Intern_DT-20262-1"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Northrop Grumman",
   "title": "Software Engineer Intern",
   "locations": [
@@ -2310,6 +2328,15 @@
    "Colorado Springs, CO"
   ],
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "RTX",
+  "title": "Software Engineering Intern",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
  },
  {
   "reason": "unsupported_ats",

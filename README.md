@@ -11,19 +11,20 @@ read directly from the company's own job board and refreshed automatically.
 - Postings disappear from this list when the company removes them from its job board.
 
 <!-- LISTINGS:START -->
-**1775 open roles** from 670 companies · updated 2026-10-23 07:02 UTC
+**1772 open roles** from 669 companies · updated 2026-10-23 08:01 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1277**; also on this list: **765** (60%)
-- On job systems this scraper supports: **748 / 993** (75%); excluding 16 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **474**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 22, filtered:not_swe 85, filtered:not_swe_by_description 69, filtered:not_us 1, not_returned 43, stale_on_simplify 16, unsupported_ats 267
+- Simplify's open US software internships: **1276**; also on this list: **761** (60%)
+- On job systems this scraper supports: **744 / 992** (75%); excluding 20 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **475**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 21, filtered:not_swe 85, filtered:not_swe_by_description 68, filtered:not_us 1, not_returned 44, stale_on_simplify 20, unsupported_ats 267
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Qorvo** | Software Engineering Intern, SWR | Apopka, FL, US, 32703 | — | [Apply](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern%2C-SWR-FL-32703/1423577900/) | 0d |
 | **Genesys** | Software Engineering Intern (Summer 2027) | Indianapolis, IN, USA, United States of America<br>Indianapolis, IN, United States of America | Summer 2027 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421) | 1d |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Embedded Platforms (Summer 2027) | <details><summary>4 locations</summary>Palo Alto, California, United States<br>Irvine, California, United States<br>Champaign, Illinois, United States<br>Remote</details> | Summer 2027 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048) | 1d |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Connected Systems (Summer 2027) | Palo Alto, California, United States<br>Irvine, California, United States<br>Remote | Summer 2027 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f) | 1d |
@@ -321,7 +322,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Elevance Health** | Engineering Undergraduate Intern - Summer 2027 | <details><summary>4 locations</summary>GA-ATLANTA, 740 W PEACHTREE ST NW, United States of America<br>VA-RICHMOND, 2015 STAPLES MILL RD,, United States of America<br>IN-INDIANAPOLIS, 220 VIRGINIA AVE, United States of America<br>IL-CHICAGO, 233 S WACKER DR, STE 3700, United States of America</details> | Summer 2027 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081) | 3d |
 | **RTX** | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, United States of America | Co-op | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) | 3d |
 | **RTX** | Part time Software Engineer Co-op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17, United States of America | Co-op | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) | 3d |
-| **RTX** | Software Engineering Intern (Summer 2027) | US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, United States of America | Summer 2027 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026) | 3d |
 | **Juniper Networks** | Embedded Software Engineering Intern | Roseville, California, United States of America | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088) | 3d |
 | **Intel Corporation** | AI Data Science / Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro, United States of America | 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) | 3d |
 | **Intel Corporation** | AI Data Science / Software Engineering PhD Intern New 2027 | US, California, Santa Clara, United States of America | 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | 3d |
@@ -447,7 +447,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Kudu Dynamics** | Performance Enablement AI/ML Intern | 6314 Remote/Teleworker US, United States of America | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) | 8d |
 | **National Laboratory of the Rockies** | Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity | Golden, CO, United States of America<br>Remote Site, United States of America | — | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563) | 8d |
 | **Symbotic** | Co-Op- System Engineer | USA Brooksville, FL, United States of America | Co-op | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261) | 8d |
-| **T-Mobile** | Summer 2027 Software Engineering Intern | Bellevue, Washington, United States of America | Summer 2027 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) | 8d |
 | **Wawa** | Information Technology Development Internship | WAWA - Wawa, Inc. - Corporate Office, United States of America | — | [Apply](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) | 8d |
 | **General Dynamics Mission Systems** | Software Engineer Intern for Crypto & Cross Domain Solutions | Scottsdale, AZ, US | — | [Apply](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job) | 9d |
 | **General Dynamics Mission Systems** | Software Engineer Intern for Crypto and Cross Domain Solutions | Taunton, MA, US | — | [Apply](https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job) | 9d |
@@ -609,7 +608,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Viget** | Software Developer Intern (2027) | Boulder, CO | 2027 | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 15d |
 | **Badger Meter** | Software Engineering Intern | US  - CA - Escondido Facility, United States of America | — | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 15d |
 | **Booz Allen Hamilton** | University, Applied AI Software Development Intern | McLean, VA, United States of America | — | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) | 15d |
-| **The Boeing Company** | Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern | USA - Tukwila, WA, United States of America | — | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) | 15d |
 | **Direct Supply** | AI Engineer Intern | Milwaukee, WI, United States of America | — | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | 15d |
 | **General Motors** | 2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's) | Sunnyvale, California, United States of America | Summer 2027 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) | 15d |
 | **Gordon Food Service** | Software Engineer Intern (Transportation Routing ) | Wyoming, Michigan, United States of America | — | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374) | 15d |
@@ -878,7 +876,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Enterprise Mobility** | Intern - Data Engineer (EFM IT), Summer 2027 | St. Louis, MO, US | Summer 2027 | [Apply](https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29%2c-summer-2027/job) | 29d |
 | **GM financial** | Intern - Data Engineer | Arlington, TX, United States | — | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821) | 29d |
 | **Arconic** | Software Developer Intern | Davenport, IA, United States | — | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | 29d |
-| **Qorvo** | Software Engineering Intern, SWR | Apopka, FL, US, 32703 | — | [Apply](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern%2C-SWR-FL-32703/1423577900/) | 29d |
 | **Brightstar.AI** | Applied AI Engineer Intern - Advancing Agent Quality | Miami, United States | — | [Apply](https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024) | 29d |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, California, United States<br>New York, New York, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | 29d |
 | **Ramp** | Software Engineering Intern, Frontend | New York, NY (HQ), USA<br>Remote | — | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | 29d |
