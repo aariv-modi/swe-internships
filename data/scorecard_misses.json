@@ -11,18 +11,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "WhatNot",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "LA",
-   "NYC"
-  ],
-  "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true"
- },
- {
-  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -50,22 +38,6 @@
    "Hawthorne, CA"
   ],
   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
- },
- {
-  "reason": "filtered:location_unknown",
-  "company": "SpaceX",
-  "title": "Software Engineer Intern/Co-op",
-  "locations": [
-   "Palo Alto, CA",
-   "Bastrop, TX",
-   "Irvine, CA",
-   "Cape Canaveral, FL",
-   "Brownsville, TX",
-   "Redmond, WA",
-   "McGregor, TX",
-   "Hawthorne, CA"
-  ],
-  "url": "https://boards.greenhouse.io/spacex/jobs/8621756002"
  },
  {
   "reason": "filtered:location_unknown",
@@ -144,15 +116,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Vaxcyte",
-  "title": "AI Implementation Consultant - Legal",
-  "locations": [
-   "San Carlos, CA"
-  ],
-  "url": "https://boards.greenhouse.io/vaxcyte/jobs/5017289008"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "Booz Allen",
   "title": "Applied AI Intern",
   "locations": [
@@ -171,15 +134,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Assured Guaranty",
-  "title": "Product Software Developer - Front-End",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "Bluestaq",
   "title": "Software Engineering Resident - Multiple Teams",
   "locations": [
@@ -195,15 +149,6 @@
    "Ashburn, VA"
   ],
   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "CoStar Group",
-  "title": "Associate Software Engineer Intern",
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"
  },
  {
   "reason": "filtered:not_internship",
@@ -558,39 +503,12 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "Vertiv",
-  "title": "Innovation Lab Intern",
-  "locations": [
-   "Delaware, OH"
-  ],
-  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "Base Power",
   "title": "Supply Chain Tooling Engineer Intern",
   "locations": [
    "Austin, TX"
   ],
   "url": "https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2/application?embed=true"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Texas Instruments",
-  "title": "Smart Manufacturing and Automation Intern - SMA Quality & Test",
-  "locations": [
-   "Dallas, TX"
-  ],
-  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "InterSystems",
-  "title": "Angular/FHIR Development Micro-Intern - Iap",
-  "locations": [
-   "Boston, MA"
-  ],
-  "url": "https://job-boards.greenhouse.io/intersystems/jobs/7992645003"
  },
  {
   "reason": "filtered:not_swe",
@@ -627,15 +545,6 @@
    "Richardson, TX"
   ],
   "url": "https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Aptiv",
-  "title": "Summer Intern - Youngstown State University",
-  "locations": [
-   "Warren, OH"
-  ],
-  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519"
  },
  {
   "reason": "filtered:not_swe",
@@ -684,30 +593,12 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "Acuity",
-  "title": "Finance AI Engineering Intern",
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "NVIDIA",
   "title": "PhD Research Intern - Programming Systems",
   "locations": [
    "Santa Clara, CA"
   ],
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Varda Space",
-  "title": "Mission Operations Intern - Summer 2027",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003"
  },
  {
   "reason": "filtered:not_swe",
@@ -895,16 +786,6 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "DriveWealth",
-  "title": "AI Consulting Associate Program – AI Engineer Intern",
-  "locations": [
-   "Chicago, IL",
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "Zebra Technologies",
   "title": "Mechanical Engineer Intern",
   "locations": [
@@ -935,53 +816,6 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "DP World",
-  "title": "Application Analyst Intern",
-  "locations": [
-   "Itasca, IL"
-  ],
-  "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Anduril",
-  "title": "Business Operations Engineer Co-op",
-  "locations": [
-   "Ashville, OH",
-   "Costa Mesa, CA"
-  ],
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Anduril",
-  "title": "Business Operations Engineer Intern",
-  "locations": [
-   "Ashville, OH",
-   "Costa Mesa, CA"
-  ],
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Newell Brands",
-  "title": "Sales AI & Analytics Developer Intern",
-  "locations": [
-   "Huntersville, NC"
-  ],
-  "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "GlobalFoundries",
-  "title": "Systems/Process Engineering Intern - Tapeout Operations",
-  "locations": [
-   "Malta, NY"
-  ],
-  "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "NOX METALS",
   "title": "Factory Deployed Intern",
   "locations": [
@@ -997,15 +831,6 @@
    "United States"
   ],
   "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Ivalua",
-  "title": "Marketing Web Developer Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/ivalua/jobs/8293704"
  },
  {
   "reason": "filtered:not_swe",
@@ -1140,24 +965,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Qorvo",
-  "title": "Product Engineering Intern",
-  "locations": [
-   "Greensboro, NC"
-  ],
-  "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1425887900/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Qorvo",
-  "title": "Product Engineer Intern",
-  "locations": [
-   "Chelmsford, MA"
-  ],
-  "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Edison International",
   "title": "Computer Science Intern",
   "locations": [
@@ -1241,16 +1048,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "ABB",
-  "title": "Application Engineering Intern",
-  "locations": [
-   "Lombard, IL",
-   "Alpharetta, GA"
-  ],
-  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "RTX",
   "title": "Systems Co-op",
   "locations": [
@@ -1275,15 +1072,6 @@
    "NYC"
   ],
   "url": "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c/application?embed=true"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Veeam Software",
-  "title": "AI & Automation Engineering Intern - Summer 2027",
-  "locations": [
-   "Georgia"
-  ],
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1332,24 +1120,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Huntington Ingalls Industries",
-  "title": "Computer Engineering Intern",
-  "locations": [
-   "Pascagoula, MS"
-  ],
-  "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "LSEG",
-  "title": "Engineering Intern",
-  "locations": [
-   "Charlotte, NC"
-  ],
-  "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "AutoZone",
   "title": "Information Technology Intern",
   "locations": [
@@ -1373,34 +1143,7 @@
   "locations": [
    "Fairport, NY"
   ],
-  "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10634"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Ralliant",
-  "title": "Research & Development Co-op",
-  "locations": [
-   "Fairport, NY"
-  ],
   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10636"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Ralliant",
-  "title": "Research and Development Co-op",
-  "locations": [
-   "Fairport, NY"
-  ],
-  "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Lazard",
-  "title": "AI and Data Transformation Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1423,29 +1166,11 @@
  {
   "reason": "filtered:not_swe_by_description",
   "company": "Radiance Technologies",
-  "title": "Modeling Engineer Intern - Analytics and Simulation Sciences",
-  "locations": [
-   "Beavercreek, OH"
-  ],
-  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Radiance Technologies",
   "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
   "locations": [
    "Beavercreek, OH"
   ],
   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102437"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Radiance Technologies",
-  "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-  "locations": [
-   "Beavercreek, OH"
-  ],
-  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1464,16 +1189,6 @@
    "Malvern, PA"
   ],
   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Navy Federal",
-  "title": "Associate Intern - Lending Automation Technology & Solutions",
-  "locations": [
-   "Pensacola, FL",
-   "Vienna, VA"
-  ],
-  "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1537,15 +1252,6 @@
    "Walnut Creek, CA"
   ],
   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Papa John's",
-  "title": "Digital Development Intern",
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1618,6 +1324,18 @@
    "Austin, TX"
   ],
   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424"
+ },
+ {
+  "reason": "filtered:not_us",
+  "company": "HeyGen",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Toronto, ON, Canada",
+   "SF",
+   "LA",
+   "Singapore"
+  ],
+  "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007"
  },
  {
   "reason": "not_returned",
@@ -1733,15 +1451,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "American Express",
-  "title": "AI Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
- },
- {
-  "reason": "not_returned",
   "company": "RegDesk",
   "title": "Front End Developer Intern",
   "locations": [
@@ -1788,73 +1497,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "Leggett & Platt",
-  "title": "Systems Engineer Intern",
-  "locations": [
-   "Detroit, MI"
-  ],
-  "url": "https://careers.leggett.com/job/Detroit-Systems-Engineer-Intern-MI/1385085600/?ats=successfactors"
- },
- {
-  "reason": "not_returned",
   "company": "Star Dental Partners",
   "title": "Imaging Tech Student",
   "locations": [
    "Guntersville, AL"
   ],
   "url": "https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
-  "company": "Kokosing",
-  "title": "Co-op",
-  "locations": [
-   "Clarion, PA",
-   "Milford, OH",
-   "Athens, OH",
-   "Detroit, MI",
-   "Cleveland, OH",
-   "Annapolis Junction, MD",
-   "Westerville, OH",
-   "Colonial Heights, VA",
-   "Sheffield, OH",
-   "Elyria, OH",
-   "Wheelersburg, OH",
-   "Mantua, OH",
-   "Mansfield, OH",
-   "Medina, OH",
-   "Chesapeake, VA",
-   "Sault Ste. Marie, MI",
-   "Morgantown, WV",
-   "Wooster, OH",
-   "St. Louis, MO",
-   "Woodville, OH",
-   "Grand River, OH",
-   "Fredericktown, OH",
-   "Toledo, OH",
-   "Carnegie, PA",
-   "St Louisville, OH",
-   "Columbus, OH",
-   "Greenfield, IN",
-   "Upper Sandusky, OH",
-   "Claridon, OH",
-   "Fort Wayne, IN",
-   "Cheboygan, MI",
-   "Charleston, WV",
-   "Middletown, OH",
-   "Baltimore, MD",
-   "Columbia Station, OH"
-  ],
-  "url": "https://kokosing.wd5.myworkdayjobs.com/en-US/Kokosing_External_Career_Site/job/Westerville-OH/Fall-2026-Co-op_R-102048"
- },
- {
-  "reason": "not_returned",
-  "company": "Emerson Electric",
-  "title": "Product Engineer Intern",
-  "locations": [
-   "Round Rock, TX"
-  ],
-  "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009194"
  },
  {
   "reason": "not_returned",
@@ -1873,15 +1521,6 @@
    "Austin, TX"
   ],
   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194"
- },
- {
-  "reason": "not_returned",
-  "company": "Emerson Electric",
-  "title": "Software Development Intern - DeltaV",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"
  },
  {
   "reason": "not_returned",
@@ -1921,30 +1560,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Accenture",
-  "title": "Technology Summer Analyst - Multiple Teams",
-  "locations": [
-   "Boston, MA",
-   "Seattle, WA",
-   "SF",
-   "Austin, TX",
-   "Detroit, MI",
-   "LA",
-   "Morristown, NJ",
-   "Dallas, TX",
-   "Philadelphia, PA",
-   "Chicago, IL",
-   "Charlotte, NC",
-   "Arlington County, Arlington, VA",
-   "St. Louis, MO",
-   "NYC",
-   "Atlanta, GA",
-   "San Diego, CA"
-  ],
-  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
- },
- {
-  "reason": "not_returned",
   "company": "Wellmark",
   "title": "Software Engineer Intern",
   "locations": [
@@ -1971,15 +1586,6 @@
    "Des Moines, IA"
   ],
   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000149684819"
- },
- {
-  "reason": "not_returned",
-  "company": "LSEG",
-  "title": "Engineering Intern",
-  "locations": [
-   "Charlotte, NC"
-  ],
-  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
  },
  {
   "reason": "not_returned",
@@ -2038,30 +1644,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "Macy's",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Johns Creek, GA"
-  ],
-  "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"
- },
- {
-  "reason": "not_returned",
   "company": "Northrop Grumman",
   "title": "Software Engineer Intern",
   "locations": [
    "Wright-Patterson AFB, OH"
   ],
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"
- },
- {
-  "reason": "not_returned",
-  "company": "Dominion Energy",
-  "title": "Electric Transmission Asset Analyst Intern - Digital Solutions Team",
-  "locations": [
-   "Glen Allen, VA"
-  ],
-  "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Asset-Analyst-(Digital-Solutions-Team)-VA-23060/1441549200/?ats=successfactors"
  },
  {
   "reason": "not_returned",
@@ -2125,15 +1713,6 @@
    "Cincinnati, OH"
   ],
   "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "CIBC",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
  },
  {
   "reason": "stale_on_simplify",
@@ -2242,15 +1821,6 @@
    "Colorado Springs, CO"
   ],
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Northrop Grumman",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
  },
  {
   "reason": "stale_on_simplify",
@@ -2538,18 +2108,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Amazon",
-  "title": "Software Development Engineer Apprentice - Military Veterans",
-  "locations": [
-   "Arlington, VA",
-   "Bellevue, WA",
-   "Cupertino, CA",
-   "Denver, CO"
-  ],
-  "url": "https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
   "locations": [
@@ -2583,15 +2141,6 @@
    "San Jose, CA"
   ],
   "url": "https://jobs.bytedance.com/en/position/7668371003554138421/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "ByteDance",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Seattle, WA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
  },
  {
   "reason": "unsupported_ats",
@@ -2677,15 +2226,6 @@
  {
   "reason": "unsupported_ats",
   "company": "ByteDance",
-  "title": "Network Software Engineer Intern - Network Switch",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "ByteDance",
   "title": "Network Software Engineer Intern - Network Observation",
   "locations": [
    "San Jose, CA"
@@ -2712,15 +2252,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Medpace",
-  "title": "Software Development Co-op - Spring 2027",
-  "locations": [
-   "Cincinnati, OH"
-  ],
-  "url": "https://careers.medpace.com/jobs/12922?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Deloitte",
   "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
   "locations": [
@@ -2739,50 +2270,12 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Deloitte",
-  "title": "Software Engineering Analyst Intern - Government & Public Services",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Software Engineer Intern - AI Inference Co Design",
   "locations": [
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/279600"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Specter Aerospace",
-  "title": "Full Stack Developer Co-op",
-  "locations": [
-   "Boston, MA",
-   "Peabody, MA"
-  ],
-  "url": "https://specteraerospace.bamboohr.com/careers/122/"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Specter Aerospace",
-  "title": "Front-End Software Developer Co-op",
-  "locations": [
-   "Boston, MA",
-   "Peabody, MA"
-  ],
-  "url": "https://specteraerospace.bamboohr.com/careers/120/"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Calpion/Plutus Health",
-  "title": "AI Engineering Intern - Python & Agentic AI",
-  "locations": [
-   "Dallas, TX"
-  ],
-  "url": "https://calpionplutus.bamboohr.com/careers/310/"
  },
  {
   "reason": "unsupported_ats",
@@ -2810,15 +2303,6 @@
    "San Jose, CA"
   ],
   "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Deutsche Bank",
-  "title": "Technology, Data and Innovation Intern - Technology, Data and Innovation",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w"
  },
  {
   "reason": "unsupported_ats",
@@ -3013,30 +2497,12 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "C3.ai",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Redwood City, CA"
-  ],
-  "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Mobile App Intern - Mobile Applications - Automated Diagnostics",
   "locations": [
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/281625"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Cvent",
-  "title": "Software Engineer Intern - Summer 2027",
-  "locations": [
-   "Tysons, VA"
-  ],
-  "url": "https://careers.cvent.com/jobs/10806?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3050,29 +2516,11 @@
  {
   "reason": "unsupported_ats",
   "company": "Textron",
-  "title": "Software Engineer Co-op - Uncrewed Land & Air",
-  "locations": [
-   "Hunt Valley, Cockeysville, MD"
-  ],
-  "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Textron",
   "title": "Software Engineer Intern",
   "locations": [
    "Waterboro, ME"
   ],
   "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Textron",
-  "title": "Software Engineer Intern - Crewed Land",
-  "locations": [
-   "Slidell, LA"
-  ],
-  "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
  },
  {
   "reason": "unsupported_ats",
@@ -3131,15 +2579,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "ByteDance",
-  "title": "Software Engineer Intern - Relational Database",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Johns Hopkins Applied Physics Laboratory",
   "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
   "locations": [
@@ -3191,33 +2630,6 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/282147"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "ByteDance",
-  "title": "Research Intern - AI-Native Databases",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "ByteDance",
-  "title": "Research Intern - AI-Native Databases",
-  "locations": [
-   "Seattle, WA"
-  ],
-  "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Universal Health Services",
-  "title": "Software Engineer Intern - Data Analytics",
-  "locations": [
-   "King of Prussia, PA"
-  ],
-  "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3380,24 +2792,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Publicis Groupe",
-  "title": "Engineering Intern",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://careers.publicisgroupe.com/jobs/173032?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Publicis Groupe",
-  "title": "Engineering Intern",
-  "locations": [
-   "Irving, TX"
-  ],
-  "url": "https://careers.publicisgroupe.com/jobs/173034?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Herzog Railroad Services",
   "title": "Software Intern",
   "locations": [
@@ -3431,24 +2825,6 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/282825"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Collier Aerospace",
-  "title": "Software Engineer Intern - Web Applications - Summer 2027",
-  "locations": [
-   "Newport News, VA"
-  ],
-  "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Collier Aerospace",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Newport News, VA"
-  ],
-  "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
  },
  {
   "reason": "unsupported_ats",
@@ -3530,15 +2906,6 @@
    "Baltimore, MD"
   ],
   "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Tive",
-  "title": "Software Engineer Co-op",
-  "locations": [
-   "Boston, MA"
-  ],
-  "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
  },
  {
   "reason": "unsupported_ats",
@@ -3630,15 +2997,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "SimVentions",
-  "title": "Software Development Intern",
-  "locations": [
-   "Fredericksburg, VA"
-  ],
-  "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Zions Bank",
   "title": "Software Engineer Intern",
   "locations": [
@@ -3666,24 +3024,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "APEX Analytix",
-  "title": "Automation Developer Intern",
-  "locations": [
-   "Greensboro, NC"
-  ],
-  "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Trane Technologies",
-  "title": "Software Development Engineer Intern",
-  "locations": [
-   "St Paul, MN"
-  ],
-  "url": "https://careers.tranetechnologies.com/global/en/job/JR-15648"
- },
- {
-  "reason": "unsupported_ats",
   "company": "RAVE Aerospace",
   "title": "Software Engineer Intern",
   "locations": [
@@ -3700,15 +3040,6 @@
    "Mountain View, CA"
   ],
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54329?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3857,24 +3188,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Rivian",
-  "title": "Software Engineer Co-op Intern - Enterprise Applications",
-  "locations": [
-   "Plymouth, MI"
-  ],
-  "url": "https://careers.rivian.com/jobs/33804?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Rivian",
-  "title": "Software Engineer Co-op Intern - Enterprise Applications",
-  "locations": [
-   "Normal, IL"
-  ],
-  "url": "https://careers.rivian.com/jobs/33803?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Residential Energy Device Software Engineer Intern - Energy Engineering",
   "locations": [
@@ -3890,16 +3203,6 @@
    "Mountain View, CA"
   ],
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Udig",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Nashville, TN",
-   "Richmond, VA"
-  ],
-  "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
  },
  {
   "reason": "unsupported_ats",
@@ -3924,15 +3227,6 @@
  {
   "reason": "unsupported_ats",
   "company": "William Blair",
-  "title": "Software Engineering Intern - Wit",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "William Blair",
   "title": "Application Development Intern - Multiple Teams",
   "locations": [
    "Chicago, IL"
@@ -3950,24 +3244,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Illinois Tool Works",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Eden Prairie, MN"
-  ],
-  "url": "https://careers.itw.com/global/en/job/JR10261"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54395?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "ByteDance",
   "title": "Software Engineer Project Intern - Security Data",
   "locations": [
@@ -3978,30 +3254,11 @@
  {
   "reason": "unsupported_ats",
   "company": "Waymo",
-  "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Waymo",
   "title": "Software Engineering Intern - MS/PhD - Sys Intel & ML",
   "locations": [
    "Mountain View, CA"
   ],
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Developer Intern",
-  "locations": [
-   "Austin, TX",
-   "Raleigh, NC"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54638?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4023,15 +3280,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Research and Development Software Engineer Intern",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54414?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tesla",
   "title": "Software Engineer Intern - Data Transformations",
   "locations": [
@@ -4047,18 +3295,6 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/284924"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "MetLife",
-  "title": "Global Technology Intern",
-  "locations": [
-   "Tampa, FL",
-   "Hanover, NJ",
-   "Cary, NC",
-   "NYC"
-  ],
-  "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
  },
  {
   "reason": "unsupported_ats",
@@ -4089,34 +3325,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Rivian",
-  "title": "Engineer Intern Co-op - ML Compilers",
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "url": "https://careers.rivian.com/jobs/33829?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Stripe",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Seattle, WA",
-   "SF"
-  ],
-  "url": "https://stripe.com/jobs/search?gh_jid=8241260"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Development Intern",
-  "locations": [
-   "Pleasant Grove, UT"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54671?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Amazon",
   "title": "Software Engineer Intern",
   "locations": [
@@ -4129,15 +3337,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Riot Games",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "LA"
-  ],
-  "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Waymo",
   "title": "AI-driven ML Performance Engineering Intern - MS/PhD",
   "locations": [
@@ -4147,39 +3346,12 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Tewksbury, MA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54668?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Mindex",
-  "title": "Software Engineer Co-op",
-  "locations": [
-   "Rochester, NY"
-  ],
-  "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
- },
- {
-  "reason": "unsupported_ats",
   "company": "InComm Payments",
   "title": "Software Engineer Intern",
   "locations": [
    "Sandy, UT"
   ],
   "url": "https://jobs.incommpayments.com/jobs/22268?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "MasterControl",
-  "title": "Context Engineering Intern",
-  "locations": [
-   "United States"
-  ],
-  "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4738475005&gh_jid=4738475005"
  },
  {
   "reason": "unsupported_ats",
@@ -4193,51 +3365,12 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "R&D Software Engineering Intern",
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54388?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "DocuSign",
   "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
   "locations": [
    "Seattle, WA"
   ],
   "url": "https://careers.docusign.com/jobs/30464?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Ernst & Young",
-  "title": "Tax Intern - Other Tax - Americas Tax Technology Group",
-  "locations": [
-   "Nashville, TN",
-   "Dallas, TX",
-   "Chicago, IL",
-   "Atlanta, GA"
-  ],
-  "url": "https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "R&D Software Engineer Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54724?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Boston Scientific",
-  "title": "Equipment Engineering Software Engineer Intern",
-  "locations": [
-   "Maple Grove, MN"
-  ],
-  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
  },
  {
   "reason": "unsupported_ats",
@@ -4260,33 +3393,6 @@
  {
   "reason": "unsupported_ats",
   "company": "Meta",
-  "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
-  "locations": [
-   "Seattle, WA",
-   "Burlingame, CA",
-   "Redmond, WA",
-   "Menlo Park, CA",
-   "NYC",
-   "Bellevue, WA",
-   "Sunnyvale, CA"
-  ],
-  "url": "https://www.metacareers.com/jobs/945520495299801"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Meta",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Seattle, WA",
-   "Menlo Park, CA",
-   "NYC",
-   "Bellevue, WA"
-  ],
-  "url": "https://www.metacareers.com/jobs/1952991802037374"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Meta",
   "title": "Software Engineer Intern - Machine Learning",
   "locations": [
    "Seattle, WA",
@@ -4298,24 +3404,6 @@
    "Sunnyvale, CA"
   ],
   "url": "https://www.metacareers.com/jobs/2180490782513668"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Enterprise Software Development Intern - EDA Tools",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54578?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54319?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4370,15 +3458,6 @@
    "Fremont, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/286127"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "R&D Software Engineer Intern",
-  "locations": [
-   "Calabasas, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54640?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4458,15 +3537,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Electronic Arts",
-  "title": "Data and AI Engineer Intern",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Netflix",
   "title": "Software Engineer Intern",
   "locations": [
@@ -4474,15 +3544,6 @@
    "Los Gatos, CA"
   ],
   "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Medpace",
-  "title": "Python Developer Intern",
-  "locations": [
-   "Cincinnati, OH"
-  ],
-  "url": "https://careers.medpace.com/jobs/13059?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -4501,15 +3562,6 @@
    "Sunnyvale, CA"
   ],
   "url": "https://www.metacareers.com/jobs/954380870617862"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Evercore",
-  "title": "Summer Analyst: Global Technology Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3263-2028-Summer-Analyst-Program-Global-Technology-New-York/en-GB"
  },
  {
   "reason": "unsupported_ats",
@@ -4540,35 +3592,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "R&D Software Engineer Intern",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54848?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Optical Design Software & Automation Engineer Intern",
-  "locations": [
-   "Pasadena, CA",
-   "Santa Clara, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54614?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Photonics Design Software & Automation Engineer Intern",
-  "locations": [
-   "Pasadena, CA",
-   "Santa Clara, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54619?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Tyler Technologies",
   "title": "Software Developer Intern",
   "locations": [
@@ -4596,57 +3619,12 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Boston Scientific",
-  "title": "R&D Software Engineer Intern",
-  "locations": [
-   "Arden Hills, MN"
-  ],
-  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Textron",
-  "title": "Industrial Software Engineer Intern",
-  "locations": [
-   "Williamsport, PA"
-  ],
-  "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345735"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "R&D Software Engineer Intern",
-  "locations": [
-   "Santa Rosa, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/55110?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "John Deere",
-  "title": "Software Engineer Student Intern - Product Engineering",
-  "locations": [
-   "Cary, NC"
-  ],
-  "url": "https://johndeere.eightfold.ai/careers/job/137483990019"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Aon",
   "title": "IT / AI Engineer Intern",
   "locations": [
    "Chicago, IL"
   ],
   "url": "https://jobs.aon.com/jobs/110099?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "X Development",
-  "title": "PhD Resident - AI for Science - Lab Automation",
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "url": "https://x.company/careers/8907040002?gh_jid=8907040002"
  },
  {
   "reason": "unsupported_ats",
@@ -4657,15 +3635,6 @@
    "Stafford, VA"
   ],
   "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Keysight Technologies",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Calabasas, CA"
-  ],
-  "url": "https://jobs.keysight.com/jobs/55115?icims=1"
  },
  {
   "reason": "unsupported_ats",
