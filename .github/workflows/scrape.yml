@@ -1,26 +1,32 @@
 name: scrape
 
+# Hourly scraping as a self-perpetuating chain: each run scrapes once an hour for ~5 hours
+# (.github/scripts/hourly_loop.sh), then dispatches its successor. The cron below is only a
+# watchdog that restarts the chain if a run ever dies; GitHub fires it late and irregularly
+# (about every 3 hours in practice), which is why it can't be the clock itself.
 on:
   schedule:
-    - cron: "17 * * * *"     # hourly scrape
-    - cron: "41 6 * * 1"     # weekly board discovery (Mondays)
+    - cron: "17 */2 * * *"
   workflow_dispatch:
     inputs:
-      command:
-        description: "scrape | discover | all"
-        default: scrape
+      iterations:
+        description: "Hourly passes before handing off to the next run"
+        default: "5"
 
+# One run at a time. A newly queued run replaces any queued one, so the watchdog and the
+# successor never stack up behind a running chain.
 concurrency:
   group: scrape
   cancel-in-progress: false
 
 permissions:
   contents: write
+  actions: write   # to dispatch the successor run
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 340   # 5 passes x 60 min + margin; GitHub's job limit is 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,22 +35,13 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m unittest -q
-      - name: Run
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            CMD="${{ inputs.command }}"
-          elif [ "${{ github.event.schedule }}" = "41 6 * * 1" ]; then
-            CMD=all
-          else
-            CMD=scrape
-          fi
-          python -u -m scraper "$CMD"
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/
-          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
-          git commit -m "Update listings $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase --autostash
-          git push
+      - name: Scrape hourly
+        env:
+          ITERATIONS: ${{ inputs.iterations || '5' }}
+        run: bash .github/scripts/hourly_loop.sh
+      - name: Dispatch the next run
+        # Runs even if the loop failed, so one bad pass doesn't break the chain.
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run scrape.yml --ref "${{ github.ref_name }}"

@@ -8,8 +8,10 @@ on:
     - cron: "23 3 2 * *"
   workflow_dispatch:
 
+# Its own queue: in the shared "scrape" group it would sit behind the always-running hourly chain
+# and be replaced by the chain's next run. It only writes companies.json, and pushes with retries.
 concurrency:
-  group: scrape
+  group: crawl-discover
   cancel-in-progress: false
 
 permissions:
@@ -34,5 +36,8 @@ jobs:
           git add data/companies.json
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git commit -m "Promote boards found via Common Crawl"
-          git pull --rebase --autostash
-          git push
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep $((attempt * 15))
+          done
+          exit 1
