@@ -1198,15 +1198,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Nokia",
-  "title": "AI Agent Development Co-op",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "CNA Insurance",
   "title": "Technology Intern - Agile Product Design",
   "locations": [
@@ -1810,12 +1801,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "Rockefeller Capital Management",
-  "title": "Analyst Intern - Core Platforms",
+  "company": "Nokia",
+  "title": "AI Agent Development Co-op",
   "locations": [
-   "Hamilton Township, NJ"
+   "San Jose, CA"
   ],
-  "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false"
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
  },
  {
   "reason": "not_returned",
@@ -1843,33 +1834,6 @@
    "Texas"
   ],
   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298782"
- },
- {
-  "reason": "not_returned",
-  "company": "Rockefeller Capital Management",
-  "title": "Summer Analyst Intern - Core Platforms",
-  "locations": [
-   "Hamilton Township, NJ"
-  ],
-  "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
-  "company": "Rockefeller Capital Management",
-  "title": "Analyst Intern - Core Platforms",
-  "locations": [
-   "Hamilton Township, NJ"
-  ],
-  "url": "https://careers-rcm.icims.com/jobs/5573/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
-  "company": "Rockefeller Capital Management",
-  "title": "Summer Analyst Intern - Core Platforms",
-  "locations": [
-   "Hamilton Township, NJ"
-  ],
-  "url": "https://careers-rcm.icims.com/jobs/5575/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "not_returned",
@@ -2092,6 +2056,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "Rockefeller Capital Management",
+  "title": "Analyst Intern - Core Platforms",
+  "locations": [
+   "Hamilton Township, NJ"
+  ],
+  "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Steel Dynamics",
   "title": "Software Development Intern",
   "locations": [
@@ -2126,6 +2099,33 @@
    "Washington, DC"
   ],
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Rockefeller Capital Management",
+  "title": "Summer Analyst Intern - Core Platforms",
+  "locations": [
+   "Hamilton Township, NJ"
+  ],
+  "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Rockefeller Capital Management",
+  "title": "Analyst Intern - Core Platforms",
+  "locations": [
+   "Hamilton Township, NJ"
+  ],
+  "url": "https://careers-rcm.icims.com/jobs/5573/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Rockefeller Capital Management",
+  "title": "Summer Analyst Intern - Core Platforms",
+  "locations": [
+   "Hamilton Township, NJ"
+  ],
+  "url": "https://careers-rcm.icims.com/jobs/5575/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "stale_on_simplify",
