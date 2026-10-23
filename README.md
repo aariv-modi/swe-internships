@@ -9,16 +9,18 @@ read directly from the company's own job board and refreshed automatically.
   PM, design, IT support, hardware or quant trading.
 - **Completeness is measured, not claimed:** see the scorecard below.
 - Postings disappear from this list when the company removes them from its job board.
+- Applying: [APPLY.md](APPLY.md) describes a local review queue that pre-fills Greenhouse, Lever and
+  Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 669 companies · updated 2026-10-23 11:26 UTC
+**1770 open roles** from 669 companies · updated 2026-10-23 12:27 UTC
 
-<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
+<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 78%)</summary>
 
-- Simplify's open US software internships: **957**; also on this list: **587** (61%)
-- On job systems this scraper supports: **574 / 756** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **473**
-- Misses by reason: board_unreadable 2, filtered:location_unknown 5, filtered:not_internship 14, filtered:not_swe 65, filtered:not_swe_by_description 45, filtered:not_us 1, not_returned 35, stale_on_simplify 15, unsupported_ats 188
+- Simplify's open US software internships: **984**; also on this list: **605** (61%)
+- On job systems this scraper supports: **591 / 767** (77%); excluding 14 Simplify listings already closed on the company's own board: **78%**
+- Open roles here that Simplify doesn't list: **472**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 5, filtered:not_internship 13, filtered:not_swe 61, filtered:not_swe_by_description 44, filtered:not_us 1, not_returned 35, stale_on_simplify 14, unsupported_ats 203
 
 </details>
 
@@ -511,7 +513,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Rockwell Automation** | Intern, Information Technology | Milwaukee, Wisconsin, United States, United States of America | — | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) | 10d |
 | **Rolls-Royce** | Cloud Engineering Intern | Indianapolis, United States of America | — | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Cloud-Engineering-Intern_JR6161470) | 10d |
 | **Rolls-Royce** | Integrated Control Systems Engineer Intern (Software) | Indianapolis, United States of America | — | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) | 10d |
-| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Spokane Valley, United States of America | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) | 10d |
+| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Spokane Valley | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) | 10d |
 | **Symbotic** | Co-Op- System Engineer | USA Palestine, TX, United States of America | Co-op | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Palestine-TX/Co-Op--System-Engineer_R8211) | 10d |
 | **Symbotic** | Co-Op- System Engineer | USA Melrose Park, IL, United States of America | Co-op | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Melrose-Park-IL/Co-Op--System-Engineer_R8215) | 10d |
 | **Unity** | Machine Learning Engineer-Internship | Mountain View, CA, USA, United States of America<br>Remote, Washington, USA, United States of America | — | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965) | 10d |
@@ -600,7 +602,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Semgrep** | Software Engineer Intern | San Francisco Office, United States<br>Remote | — | [Apply](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) | 15d |
 | **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) | 15d |
 | **IMC Trading** | Machine Learning Engineer Intern - Summer 2027 | New York, United States | Summer 2027 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | 15d |
-| **GuidePoint Security** | AI & Data Science Intern - GPSU/NE | Remote | — | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) | 15d |
 | **GuidePoint Security** | Cloud Infrastructure Intern - GPSU/NE | Remote | — | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) | 15d |
 | **Perpay** | Super Day - Data Engineering Internship | Philadelphia, Pennsylvania, United States | — | [Apply](https://job-boards.greenhouse.io/perpay/jobs/5260444007) | 15d |
 | **Rugged Robotics** | Robotic Software Intern/Co-op (Spring or Summer 2027) | Houston, TX | Spring 2027, Summer 2027 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) | 15d |
@@ -963,7 +964,6 @@ read directly from the company's own job board and refreshed automatically.
 | **CME Group** | Year-Long Technology Internship (Summer 2027-Spring 2028) | Chicago - 20 S. Wacker, United States of America | Summer 2027, Spring 2028 | [Apply](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Year-Long-Technology-Internship--Summer-2027-Spring-2028-_34831) | 32d |
 | **Insulet Corporation** | Co-op, DevOps Engineer: January - June 2027 (Hybrid) | Acton, Massachusetts, United States of America | Winter 2027 | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027) | 32d |
 | **Monolithic Power Systems** | AI Developer Intern | San Jose - California, United States of America | — | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) | 32d |
-| **Parsons** | Engineering Internship Summer 2027 | US - VA, Herndon, United States of America<br>US - VA, Chantilly, United States of America | Summer 2027 | [Apply](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Herndon/Engineering-Internship-Summer-2027_R186304) | 32d |
 | **Premier** | Software Engineer Intern | Charlotte, NC, United States of America | — | [Apply](https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) | 32d |
 | **Johnson & Johnson** | Supplier Development Engineer Co-Op | Danvers, Massachusetts, United States of America | Co-op | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406) | 33d |
 | **Nordson** | Intern – Manufacturing Electronics / Software Engineering | USA - Texas - Allen, United States of America | — | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925) | 33d |
