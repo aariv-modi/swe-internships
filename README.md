@@ -13,19 +13,27 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1774 open roles** from 665 companies · updated 2026-10-23 20:20 UTC
+**1779 open roles** from 666 companies · updated 2026-10-23 21:19 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1249**; also on this list: **750** (60%)
-- On job systems this scraper supports: **733 / 969** (76%); excluding 20 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **487**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 42, stale_on_simplify 20, unsupported_ats 263
+- Simplify's open US software internships: **1248**; also on this list: **749** (60%)
+- On job systems this scraper supports: **733 / 968** (76%); excluding 19 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **495**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 42, stale_on_simplify 19, unsupported_ats 264
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Trace Labs** | Robotics Engineering Intern — Hardware & Software | NYC | — | [Apply](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-NY-New York | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14105/summer-internship-program-2027---software-engineering-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, FL, US | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14087/summer-internship-program-2027---release-engineering-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern, Java | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14078/summer-internship-program-2027---software-engineering-intern%2c-java/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Engineering Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14077/summer-internship-program-2027---software-engineering-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Developer Intern | US-FL-Jacksonville | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14076/summer-internship-program-2027---software-developer-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Software Development Engineer in Test Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14066/summer-internship-program-2027---software-development-engineer-in-test-intern/job) | 0d |
+| **Intercontinental Exchange** | Summer Internship Program 2027 - Infrastructure Development & Automation Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14064/summer-internship-program-2027---infrastructure-development-%26-automation-intern/job) | 0d |
 | **Epicgames** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) | 0d |
 | **Flagship Pioneering** | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) | 0d |
 | **Flagship Pioneering** | ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002) | 0d |
@@ -62,6 +70,7 @@ read directly from the company's own job board and refreshed automatically.
 | **CVS Health** | Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad | <details><summary>4 locations</summary>AZ - Scottsdale, United States of America<br>TX - Dallas, United States of America<br>CT - Hartford, United States of America<br>RI - Woonsocket, United States of America</details> | — | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193) | 0d |
 | **Qorvo** | Software Engineering Intern, SWR | Apopka, FL, US, 32703 | — | [Apply](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern%2C-SWR-FL-32703/1423577900/) | 0d |
 | **Alston & Bird Law Firm** | Developer Intern | Atlanta, United States of America | — | [Apply](https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986) | 0d |
+| **Badger Meter** | Software Engineering Intern | US  - CA - Escondido Facility, United States of America<br>US - FL - Melbourne Facility, United States of America | — | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 0d |
 | **CACI** | Software Engineer Intern - Summer 2027 | Omaha, NE, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | 0d |
 | **General Motors** | 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters) | Sunnyvale, California, United States of America | Summer 2027 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) | 0d |
 | **General Motors** | 2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD) | Sunnyvale, California, United States of America | Summer 2027 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) | 0d |
@@ -633,7 +642,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Rugged Robotics** | Robotic Software Intern/Co-op (Spring or Summer 2027) | Houston, TX | Spring 2027, Summer 2027 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) | 15d |
 | **SoloPulse** | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | Spring 2027 | [Apply](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef) | 15d |
 | **Viget** | Software Developer Intern (2027) | Boulder, CO | 2027 | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 15d |
-| **Badger Meter** | Software Engineering Intern | US  - CA - Escondido Facility, United States of America | — | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | 15d |
 | **Booz Allen Hamilton** | University, Applied AI Software Development Intern | McLean, VA, United States of America | — | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) | 15d |
 | **Direct Supply** | AI Engineer Intern | Milwaukee, WI, United States of America | — | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | 15d |
 | **General Motors** | 2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's) | Sunnyvale, California, United States of America | Summer 2027 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) | 15d |
@@ -1185,7 +1193,6 @@ read directly from the company's own job board and refreshed automatically.
 | **The Toro Company** | Hardware and Software Engineering Intern - Ditch Witch | Perry, OK, United States of America | — | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | 43d |
 | **Walmart** | Summer 2027 Intern:: Software Engineer II | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States of America | Summer 2027 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) | 43d |
 | **Hex Technologies** | Product Engineer Intern | San Francisco, United States<br>Remote | — | [Apply](https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30) | 44d |
-| **Epicgames** | Backend Services Programmer Intern | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) | 44d |
 | **Epicgames** | UI Programmer Intern | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) | 44d |
 | **General Dynamics Mission Systems** | Payload Control System - Software/Systems Engineering Intern (Summer 2027) | Manassas, VA, US<br>Middletown, RI, US | Summer 2027 | [Apply](https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job) | 44d |
 | **Peraton** | Spring 2027 Co-Op Engineer- Blacksburg, VA or Herndon, VA | Herndon, VA, US<br>Blacksburg, VA, US | Spring 2027 | [Apply](https://careers-peraton.icims.com/jobs/170319/spring-2027-co-op-engineer--blacksburg%2c-va-or-herndon%2c-va/job) | 44d |
@@ -1485,7 +1492,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Verkada** | Mobile Software Engineering Intern 2027 | San Mateo, CA United States | 2027 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 59d |
 | **Brunswick** | Mercury Marine - Systems/Software Engineering Co-op | Fond du Lac, WI, United States of America | Co-op | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212) | 59d |
 | **Brunswick** | Software Engineering Intern | Tulsa, OK, United States of America | — | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | 59d |
-| **Plexus** | Intern - Software Engineer (Spring 2027) | Neenah, WI, United States of America | Spring 2027 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060) | 59d |
 | **Springs Window Fashions** | Software Engineering Internship - Summer 2027 | LONG ISLAND CITY, NY, US | Summer 2027 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12891/software-engineering-internship---summer-2027/job) | 60d |
 | **BNY** | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251) | 60d |
 | **BNY** | 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL | Lake Mary, FL, United States | Summer 2027 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252) | 60d |
@@ -1493,7 +1499,6 @@ read directly from the company's own job board and refreshed automatically.
 | **BNY** | 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA | Pittsburgh, PA, United States | Summer 2027 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254) | 60d |
 | **Advanced Space** | 2027 Software Engineering Summer Internship | Westminster, CO | Summer 2027 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) | 60d |
 | **Advanced Space** | 2027 DevOps Summer Internship | Westminster, CO | Summer 2027 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009) | 60d |
-| **Audax Group** | AI Engineer Co-Op | Boston, MA | Co-op | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005) | 60d |
 | **Meridian Partners** | Flight Software Engineer Co-op | Cambridge, MA | Co-op | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) | 60d |
 | **Meridian Partners** | Cloud Software Engineer Co-op | Cambridge, MA | Co-op | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) | 60d |
 | **Meridian Partners** | Front End Software Engineer Co-op | Cambridge, MA | Co-op | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003) | 60d |
@@ -1763,7 +1768,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Shure** | Application Software Development Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) | 730d |
 | **Shure** | Application Systems Development Intern (Motive Mix) | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job) | 730d |
 | **Cole Engineering Services** | AI Intern | Orlando, FL, US | — | [Apply](https://jobs-cesi.icims.com/jobs/11367/ai-intern/job) | 730d |
-| **IDEMIA** | Software Engineering Internship - Credentialing Services | Brentwood, TN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8647/engineering-internship/job) | 730d |
+| **IDEMIA** | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job) | 730d |
 | **IDEMIA** | Software Engineer Internship - Summer 2027 | Reston, US | Summer 2027 | [Apply](https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job) | 730d |
 | **IDEMIA** | Software Engineering Internship | Reston, VA, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8657/software-engineering-internship/job) | 730d |
 | **IDEMIA** | Service Platform Engineering Internship | Eden Prairie, MN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8677/service-platform-engineering-internship/job) | 730d |

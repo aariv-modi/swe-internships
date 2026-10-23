@@ -2171,16 +2171,6 @@
    "Grand Rapids, MI",
    "Wauwatosa, WI"
   ],
-  "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "KION Group",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Grand Rapids, MI",
-   "Wauwatosa, WI"
-  ],
   "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
  },
  {
@@ -3358,6 +3348,15 @@
    "Chicago, IL"
   ],
   "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Epic Games",
+  "title": "Backend Services Programmer Intern - Epic Games Services",
+  "locations": [
+   "Cary, NC"
+  ],
+  "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
  },
  {
   "reason": "unsupported_ats",
