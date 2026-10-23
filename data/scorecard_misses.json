@@ -173,30 +173,30 @@
  },
  {
   "reason": "filtered:not_internship",
+  "company": "Assured Guaranty",
+  "title": "Product Software Developer - Front-End",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Assured Guaranty",
+  "title": "Product Software Developer - Back-End",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002"
+ },
+ {
+  "reason": "filtered:not_internship",
   "company": "CACI",
   "title": "AI Prompt Engineer Intern",
   "locations": [
    "Ashburn, VA"
   ],
   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "Ann & Robert H. Lurie Children’s Hospital of Chicago",
-  "title": "Research Student Assistant-Behavioral Health Intern",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Research-Student-Assistant-Behavioral-Health_JR2026-2801"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "University of Arkansas",
-  "title": "EAC Extra Help Assistant Intern",
-  "locations": [
-   "Little Rock, AR"
-  ],
-  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/EAC-Extra-Help-Assistant--Multiple-Open-Positions-_R0092584"
  },
  {
   "reason": "filtered:not_internship",
@@ -224,6 +224,15 @@
    "Greenville, SC"
   ],
   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "CoStar Group",
+  "title": "Associate Software Engineer Intern",
+  "locations": [
+   "Irvine, CA"
+  ],
+  "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
  },
  {
   "reason": "filtered:not_swe",
@@ -515,12 +524,39 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Texas Instruments",
+  "title": "Smart Manufacturing and Automation Intern - SMA Quality & Test",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "InterSystems",
+  "title": "Angular/FHIR Development Micro-Intern - Iap",
+  "locations": [
+   "Boston, MA"
+  ],
+  "url": "https://job-boards.greenhouse.io/intersystems/jobs/7992645003"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Teledyne",
   "title": "Systems Engineering Intern - Summer 2027",
   "locations": [
    "Huntsville, AL"
   ],
   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "KBR",
+  "title": "Data Processing Systems Engineer Intern",
+  "locations": [
+   "Sioux Falls, SD"
+  ],
+  "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
  },
  {
   "reason": "filtered:not_swe",
@@ -539,6 +575,24 @@
    "Richardson, TX"
   ],
   "url": "https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Rundoo",
+  "title": "Marketing Engineer Intern",
+  "locations": [
+   "Redwood City, CA"
+  ],
+  "url": "https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application?embed=true"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "American Family Insurance Group",
+  "title": "Web Developer Intern",
+  "locations": [
+   "Madison, WI"
+  ],
+  "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Web-Develper-Intern_R39373"
  },
  {
   "reason": "filtered:not_swe",
@@ -575,25 +629,6 @@
    "Minneapolis, MN"
   ],
   "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "DataRobot",
-  "title": "MCP & Memory Intern",
-  "locations": [
-   "Boston, MA",
-   "Massachusetts"
-  ],
-  "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/MCP---Memory-Intern_R-102755"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "SpartanNash",
-  "title": "IS Intern - IT Ecommerce & Marketing Developer",
-  "locations": [
-   "Byron Center, MI"
-  ],
-  "url": "https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
  },
  {
   "reason": "filtered:not_swe",
@@ -659,15 +694,6 @@
    "Canton, MS"
   ],
   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Elanco",
-  "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
-  "locations": [
-   "Indianapolis, IN"
-  ],
-  "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
  },
  {
   "reason": "filtered:not_swe",
@@ -746,21 +772,21 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Newell Brands",
+  "title": "Sales AI & Analytics Developer Intern",
+  "locations": [
+   "Huntersville, NC"
+  ],
+  "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "NOX METALS",
   "title": "Factory Deployed Intern",
   "locations": [
    "Detroit, MI"
   ],
   "url": "https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "FedEx Freight",
-  "title": "Media & Web Development Intern - Marketing",
-  "locations": [
-   "United States"
-  ],
-  "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
  },
  {
   "reason": "filtered:not_swe",
@@ -978,15 +1004,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Greenheck Group",
-  "title": "Engineering Co-op",
-  "locations": [
-   "Tulsa, OK"
-  ],
-  "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "RTX",
   "title": "Systems Co-op",
   "locations": [
@@ -1023,12 +1040,12 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Cleveland-Cliffs",
-  "title": "Computer Science Engineer Intern",
+  "company": "FNBO",
+  "title": "Technology Intern",
   "locations": [
-   "Rockport, IN"
+   "Omaha, NE"
   ],
-  "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553"
+  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1059,12 +1076,48 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Huntington Ingalls Industries",
+  "title": "Computer Engineering Intern",
+  "locations": [
+   "Pascagoula, MS"
+  ],
+  "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "LSEG",
+  "title": "Engineering Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "LSEG",
+  "title": "Engineering Intern - Multiple Teams",
+  "locations": [
+   "Boston, MA"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "AutoZone",
   "title": "Information Technology Intern",
   "locations": [
    "Memphis, TN"
   ],
   "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Procter & Gamble",
+  "title": "R&D Intern - AI Research Engineer",
+  "locations": [
+   "Mason, OH"
+  ],
+  "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1105,15 +1158,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Leidos",
-  "title": "Business Systems AI Intern",
-  "locations": [
-   "Remote in USA"
-  ],
-  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "The Aerospace Corporation",
   "title": "Network Systems Graduate Intern",
   "locations": [
@@ -1138,15 +1182,6 @@
    "Mayfield Heights, OH"
   ],
   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Aptiv",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Walnut Creek, CA"
-  ],
-  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1210,6 +1245,24 @@
    "Cambridge, MA"
   ],
   "url": "https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Macy's",
+  "title": "Summer Internship - Technology",
+  "locations": [
+   "Johns Creek, GA"
+  ],
+  "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "ACI Worldwide",
+  "title": "Technology Intern",
+  "locations": [
+   "Norcross, GA"
+  ],
+  "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943"
  },
  {
   "reason": "filtered:not_us",
@@ -1502,12 +1555,39 @@
  },
  {
   "reason": "not_returned",
+  "company": "LSEG",
+  "title": "Engineering Intern - Multiple Teams",
+  "locations": [
+   "Boston, MA"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
+ },
+ {
+  "reason": "not_returned",
+  "company": "LSEG",
+  "title": "Engineering Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1"
+ },
+ {
+  "reason": "not_returned",
   "company": "Wellmark",
   "title": "Software Engineer Intern - Technology Healthcare Innovation",
   "locations": [
    "Des Moines, IA"
   ],
   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"
+ },
+ {
+  "reason": "not_returned",
+  "company": "AbbVie",
+  "title": "Business Technology Solutions Intern - Data & Software Engineering",
+  "locations": [
+   "Irvine, CA"
+  ],
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684476"
  },
  {
   "reason": "not_returned",
@@ -1530,12 +1610,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "Pennsylvania State University",
-  "title": "Research Assistant Intern - Smeal Research Intelligence - Sri",
+  "company": "Dell Technologies",
+  "title": "AI Solutions Intern - Product & Content Management",
   "locations": [
-   "University Park, State College, PA"
+   "Round Rock, TX"
   ],
-  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Smeal-Research-Intelligence--SRI-_REQ_0000083297-1"
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
  },
  {
   "reason": "not_returned",
@@ -2950,6 +3030,15 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Tive",
+  "title": "Software Engineer Co-op",
+  "locations": [
+   "Boston, MA"
+  ],
+  "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Demco Products",
   "title": "IT Intern",
   "locations": [
@@ -3038,6 +3127,15 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "SimVentions",
+  "title": "Software Development Intern",
+  "locations": [
+   "Fredericksburg, VA"
+  ],
+  "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Zions Bank",
   "title": "Software Engineer Intern",
   "locations": [
@@ -3065,12 +3163,49 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "APEX Analytix",
+  "title": "Automation Developer Intern",
+  "locations": [
+   "Greensboro, NC"
+  ],
+  "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Trane Technologies",
+  "title": "Software Development Engineer Intern",
+  "locations": [
+   "St Paul, MN"
+  ],
+  "url": "https://careers.tranetechnologies.com/global/en/job/JR-15648"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "RAVE Aerospace",
   "title": "Software Engineer Intern",
   "locations": [
    "Laramie, WY"
   ],
   "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Waymo",
+  "title": "Quantitative Software Engineer Intern",
+  "locations": [
+   "SF",
+   "Mountain View, CA"
+  ],
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Santa Rosa, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54329?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3202,11 +3337,38 @@
  {
   "reason": "unsupported_ats",
   "company": "Rivian",
+  "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "url": "https://careers.rivian.com/jobs/33746?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Rivian",
   "title": "Software Engineer Intern Co-op - Design Automation",
   "locations": [
    "Palo Alto, CA"
   ],
   "url": "https://careers.rivian.com/jobs/33748?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Rivian",
+  "title": "Software Engineer Co-op Intern - Enterprise Applications",
+  "locations": [
+   "Plymouth, MI"
+  ],
+  "url": "https://careers.rivian.com/jobs/33804?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Rivian",
+  "title": "Software Engineer Co-op Intern - Enterprise Applications",
+  "locations": [
+   "Normal, IL"
+  ],
+  "url": "https://careers.rivian.com/jobs/33803?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3228,6 +3390,16 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Udig",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Nashville, TN",
+   "Richmond, VA"
+  ],
+  "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Eaton",
   "title": "Software Engineering Intern - Research & Development Engineering",
   "locations": [
@@ -3237,12 +3409,70 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Rippling",
+  "title": "Software Engineer Intern - Backend Focused",
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Rippling",
+  "title": "Full Stack Software Engineer Intern",
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "William Blair",
+  "title": "Software Engineering Intern - Wit",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "William Blair",
+  "title": "Application Development Intern - Multiple Teams",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "Semiconductor Systems Automation Intern",
+  "locations": [
+   "Santa Rosa, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54371?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Waymo",
   "title": "Software Engineer Intern - MS/PhD",
   "locations": [
    "Mountain View, CA"
   ],
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Illinois Tool Works",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Eden Prairie, MN"
+  ],
+  "url": "https://careers.itw.com/global/en/job/JR10261"
  },
  {
   "reason": "unsupported_ats",

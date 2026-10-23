@@ -13,22 +13,25 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 668 companies · updated 2026-10-23 13:28 UTC
+**1770 open roles** from 669 companies · updated 2026-10-23 14:29 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 78%)</summary>
 
-- Simplify's open US software internships: **1013**; also on this list: **621** (61%)
-- On job systems this scraper supports: **607 / 787** (77%); excluding 11 Simplify listings already closed on the company's own board: **78%**
-- Open roles here that Simplify doesn't list: **474**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 13, filtered:not_swe 61, filtered:not_swe_by_description 47, filtered:not_us 1, not_returned 38, stale_on_simplify 11, unsupported_ats 212
+- Simplify's open US software internships: **1062**; also on this list: **645** (61%)
+- On job systems this scraper supports: **630 / 819** (77%); excluding 11 Simplify listings already closed on the company's own board: **78%**
+- Open roles here that Simplify doesn't list: **471**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 14, filtered:not_swe 63, filtered:not_swe_by_description 50, filtered:not_us 1, not_returned 41, stale_on_simplify 11, unsupported_ats 228
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **1Password** | Developer Intern, Credential Brokering - Winter 2027 | Remote (United States \| Canada) | Winter 2027 | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba) | 0d |
+| **1Password** | Developer Intern, Developer Interfaces - Winter 2027 | Remote (United States \| Canada) | Winter 2027 | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39) | 0d |
+| **Kinaxis** | Co-op/Intern Developer, Machine Learning | CA-Remote | Co-op | [Apply](https://careers-kinaxis.icims.com/jobs/35297/co-op-intern-developer%2c-machine-learning/job) | 0d |
 | **CACI** | Cleared Software Engineer Intern - Summer 2027 | Denver, CO, US, United States of America<br>Sterling, VA, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999) | 0d |
-| **Cisco** | Software Engineer Full Stack / Backend I (Co-op) - United States | San Jose, California, US, United States of America<br>Carlsbad, California, US, United States of America | Co-op | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | 0d |
 | **Cisco** | Software Engineer Embedded Systems I (Co-op) - United States | San Jose, California, US, United States of America<br>Milpitas, California, US, United States of America<br>RTP, North Carolina, US, United States of America | Co-op | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701) | 0d |
+| **Cisco** | Software Engineer Full Stack / Backend I (Co-op) - United States | San Jose, California, US, United States of America<br>Carlsbad, California, US, United States of America | Co-op | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | 0d |
 | **Qorvo** | Software Engineering Intern, SWR | Apopka, FL, US, 32703 | — | [Apply](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern%2C-SWR-FL-32703/1423577900/) | 0d |
 | **CACI** | Software Engineer Intern - Summer 2027 | Omaha, NE, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | 0d |
 | **Genesys** | Software Engineering Intern (Summer 2027) | Indianapolis, IN, USA, United States of America<br>Indianapolis, IN, United States of America | Summer 2027 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421) | 1d |
@@ -848,10 +851,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Greenheck Group** | Application Developer Co-op | Schofield, WI, United States of America | Co-op | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721) | 28d |
 | **AbbVie** | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679346) | 28d |
 | **AbbVie** | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679386) | 28d |
-| **AbbVie** | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Irvine, CA, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684476) | 28d |
-| **AbbVie** | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | South San Francisco, CA, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684516) | 28d |
-| **AbbVie** | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684556) | 28d |
-| **AbbVie** | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015684626) | 28d |
 | **Bedrock Robotics** | 2027 Internship Safety Engineer, Agentic Safety Case Assessment | San Francisco, CA, United States | 2027 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178) | 28d |
 | **Rivian and Volkswagen Group Technologies** | Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027) | Champaign, Illinois, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e) | 28d |
 | **Astera Labs** | Packaging Automation & Data Engineering Intern (Spring 2027 - January Start) | San Jose, CA | Spring 2027 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005) | 28d |
@@ -1575,7 +1574,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Mercor** | Software Engineer Intern | San Francisco, United States | — | [Apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d) | 80d |
 | **Belvedere Trading** | Software Engineer Intern - Summer 2027 | Chicago, Illinois | Summer 2027 | [Apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | 80d |
 | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | — | [Apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | 81d |
-| **Studentopportunities Lutron** | Summer 2027 - Embedded Firmware Engineering Intern - Lehigh Valley, PA | Coopersburg, PA, US | Summer 2027 | [Apply](https://studentopportunities-lutron.icims.com/jobs/5353/summer-2027---embedded-firmware-engineering-intern---lehigh-valley%2c-pa/job) | 81d |
 | **Studentopportunities Lutron** | Spring 2027 - Embedded Firmware Engineering Co-Op - Philadelphia, PA | Philadelphia, PA, US | Spring 2027 | [Apply](https://studentopportunities-lutron.icims.com/jobs/5354/spring-2027---embedded-firmware-engineering-co-op---philadelphia%2c-pa/job) | 81d |
 | **Studentopportunities Lutron** | Spring 2027 - Embedded Firmware Engineering Co-Op - Boston, MA | Boston, MA, US | Spring 2027 | [Apply](https://studentopportunities-lutron.icims.com/jobs/5359/spring-2027---embedded-firmware-engineering-co-op---boston%2c-ma/job) | 81d |
 | **Studentopportunities Lutron** | Summer 2027 - Embedded Firmware Engineering Intern - Boston, MA | Boston, MA, US | Summer 2027 | [Apply](https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job) | 81d |
