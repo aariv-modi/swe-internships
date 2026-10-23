@@ -8,7 +8,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "ashby:1x": {
@@ -229,7 +230,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "ashby:allica-bank": {
@@ -2896,6 +2898,16 @@
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/Summer2027-Internships",
    "speedyapply/2027-SWE-College-Jobs"
+  ]
+ },
+ "ashby:hex": {
+  "ats": "ashby",
+  "company": "Hex Technologies",
+  "params": {
+   "board": "hex"
+  },
+  "sources": [
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "ashby:higharc": {
@@ -6879,7 +6891,8 @@
    "board": "veeda-ai"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "ashby:veeda-labs": {
@@ -7584,12 +7597,13 @@
  },
  "greenhouse:aidashinc": {
   "ats": "greenhouse",
-  "company": "aidashinc",
+  "company": "AiDASH",
   "params": {
    "board": "aidashinc"
   },
   "sources": [
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:aircapture": {
@@ -7950,7 +7964,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:archer56": {
@@ -8830,6 +8845,16 @@
   "company": "Capco",
   "params": {
    "board": "capco"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:capitalontap": {
+  "ats": "greenhouse",
+  "company": "Capital on Tap",
+  "params": {
+   "board": "capitalontap"
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
@@ -10266,7 +10291,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:eu/nice": {
@@ -10978,7 +11004,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:gelbergroup": {
@@ -12885,6 +12912,16 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "greenhouse:moxxidigital": {
+  "ats": "greenhouse",
+  "company": "Moxxi Digital",
+  "params": {
+   "board": "moxxidigital"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "greenhouse:mozilla": {
   "ats": "greenhouse",
   "company": "Mozilla",
@@ -12936,7 +12973,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:murj": {
@@ -13351,7 +13389,8 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:opentable": {
@@ -15230,7 +15269,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/New-Grad-2027",
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:taketwo": {
@@ -15768,7 +15808,9 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/New-Grad-2027",
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "greenhouse:twosixtechnologies": {
@@ -16097,7 +16139,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "greenhouse:vscfiresecurityinc": {
@@ -17888,7 +17931,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "icims:careers-humanscale.icims.com": {
@@ -19233,7 +19277,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "icims:careers-wginc.icims.com": {
@@ -19955,7 +20000,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "icims:uscareers-lennox.icims.com": {
@@ -24128,7 +24174,8 @@
    "eu": false
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "lever:pditechnologies": {
@@ -24420,7 +24467,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "lever:quantumworkplace": {
@@ -24949,7 +24997,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "lever:steerbridge": {
@@ -25262,7 +25311,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "lever:trio": {
@@ -25419,7 +25469,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "lever:vitana-pediatric": {
@@ -28913,7 +28964,8 @@
    "company": "InfiniteQuant"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "smartrecruiters:info-ways": {
@@ -29681,7 +29733,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "smartrecruiters:respecinc": {
@@ -32467,7 +32520,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:alston.wd1.myworkdayjobs.com/externalcareer": {
@@ -32573,7 +32627,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:amcor.wd5.myworkdayjobs.com/amcor_external_career_site": {
@@ -32715,7 +32770,8 @@
    "site": "AmFamGroupInternCareers"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:amfam.wd1.myworkdayjobs.com/careers": {
@@ -32876,14 +32932,15 @@
  },
  "workday:aoins.wd5.myworkdayjobs.com/concord": {
   "ats": "workday",
-  "company": "Aoins",
+  "company": "Auto-Owners Insurance",
   "params": {
    "host": "aoins.wd5.myworkdayjobs.com",
    "tenant": "aoins",
    "site": "Concord"
   },
   "sources": [
-   "common-crawl"
+   "common-crawl",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:applebank.wd5.myworkdayjobs.com/applebankcareers": {
@@ -33221,7 +33278,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:aspendental.wd1.myworkdayjobs.com/careers_aspen_dental": {
@@ -33925,7 +33983,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:baincapital.wd1.myworkdayjobs.com/external_public": {
@@ -34526,7 +34585,8 @@
    "site": "external"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:bilh.wd1.myworkdayjobs.com/external": {
@@ -34750,7 +34810,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:boarshead.wd1.myworkdayjobs.com/bhc": {
@@ -34964,14 +35025,15 @@
  },
  "workday:bracco.wd103.myworkdayjobs.com/braccocareers": {
   "ats": "workday",
-  "company": "bracco",
+  "company": "Bracco",
   "params": {
    "host": "bracco.wd103.myworkdayjobs.com",
    "tenant": "bracco",
    "site": "braccocareers"
   },
   "sources": [
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:brambles.wd5.myworkdayjobs.com/brambles_careers": {
@@ -36226,7 +36288,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:churchdwight.wd1.myworkdayjobs.com/chdcareers": {
@@ -37376,7 +37439,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/New-Grad-2027",
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:cvshealth.wd1.myworkdayjobs.com/private_postings_intern_conversion_only": {
@@ -39219,7 +39283,8 @@
    "site": "fnbocareers"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:firstquality.wd5.myworkdayjobs.com/firstquality": {
@@ -39572,7 +39637,8 @@
    "site": "FXF_External_Career_Site"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:freseniusglobal.wd3.myworkdayjobs.com/fk_careers": {
@@ -40436,7 +40502,8 @@
    "site": "GSKCareers"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:gsknch.wd3.myworkdayjobs.com/gskcareers": {
@@ -41754,7 +41821,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:insulet.wd5.myworkdayjobs.com/insuletcareers": {
@@ -41769,7 +41837,8 @@
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/New-Grad-2027",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:intactfc.wd3.myworkdayjobs.com/intactfc": {
@@ -43798,7 +43867,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:mastercard.wd1.myworkdayjobs.com/campusapplyonly": {
@@ -44652,7 +44722,8 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "vanshb03/New-Grad-2027",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:morganlewis.wd5.myworkdayjobs.com/morganlewis": {
@@ -44865,7 +44936,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:mtb.wd5.myworkdayjobs.com/mtb": {
@@ -47553,7 +47625,8 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "speedyapply/2027-SWE-College-Jobs",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:rakuten.wd1.myworkdayjobs.com/kobo": {
@@ -48041,7 +48114,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:rfcuny.wd108.myworkdayjobs.com/rfcuny": {
@@ -48281,7 +48355,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:rockwoolgroup.wd3.myworkdayjobs.com/rockwool": {
@@ -48384,7 +48459,8 @@
    "site": "RSMCareers"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:rxo.wd501.myworkdayjobs.com/rxojobs": {
@@ -49634,7 +49710,8 @@
    "site": "SPS"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:sralab.wd1.myworkdayjobs.com/sralabcareers": {
@@ -50358,7 +50435,8 @@
    "site": "external"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf": {
@@ -52162,7 +52240,8 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:vfc.wd5.myworkdayjobs.com/northface_careers": {
@@ -52560,7 +52639,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:warnerbros.wd5.myworkdayjobs.com/global": {
@@ -52983,7 +53063,8 @@
    "site": "Workday_Early_Career"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:workday.wd5.myworkdayjobs.com/workday_jobs": {
