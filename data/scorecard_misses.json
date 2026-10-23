@@ -1,23 +1,5 @@
 [
  {
-  "reason": "board_unknown",
-  "company": "FedEx Freight",
-  "title": "Media & Web Development Intern - Marketing",
-  "locations": [
-   "United States"
-  ],
-  "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
- },
- {
-  "reason": "board_unknown",
-  "company": "Ivalua",
-  "title": "Marketing Web Developer Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/ivalua/jobs/8293704"
- },
- {
   "reason": "board_unreadable",
   "company": "Atomic Semi",
   "title": "Infrastructure Software Engineering Intern",
@@ -755,15 +737,6 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "TC Energy",
-  "title": "Work Management Capabilities & Platforms Intern",
-  "locations": [
-   "Houston, TX"
-  ],
-  "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "Motorola",
   "title": "CPE Software End-to-End Triage Intern - Summer 2027",
   "locations": [
@@ -1086,6 +1059,24 @@
    "Detroit, MI"
   ],
   "url": "https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "FedEx Freight",
+  "title": "Media & Web Development Intern - Marketing",
+  "locations": [
+   "United States"
+  ],
+  "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Ivalua",
+  "title": "Marketing Web Developer Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://boards.greenhouse.io/ivalua/jobs/8293704"
  },
  {
   "reason": "filtered:not_swe",
@@ -2223,6 +2214,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "CIBC",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Steel Dynamics",
   "title": "Software Development Intern",
   "locations": [
@@ -2274,6 +2274,42 @@
    "Middletown, RI"
   ],
   "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Aurora, CO"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Boulder, CO"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Northrop Grumman",
+  "title": "Software Engineering Intern",
+  "locations": [
+   "Colorado Springs, CO"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Colorado Springs, CO"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
  },
  {
   "reason": "unsupported_ats",
@@ -4525,6 +4561,18 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Databricks",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "SF",
+   "Bellevue, WA",
+   "Mountain View, CA",
+   "Vancouver, BC, Canada"
+  ],
+  "url": "https://boards.greenhouse.io/embed/job_app?token=6865687002"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Electronic Arts",
   "title": "Data and AI Engineer Intern",
   "locations": [
@@ -4772,5 +4820,41 @@
    "Berthoud, CO"
   ],
   "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Amazon",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Redmond, WA"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Amazon",
+  "title": "Systems Development Engineer Intern",
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Amazon",
+  "title": "Software Engineer Intern - AWS Database",
+  "locations": [
+   "United States"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Amazon",
+  "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
+  "locations": [
+   "Detroit, MI"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
  }
 ]

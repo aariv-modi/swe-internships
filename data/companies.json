@@ -888,7 +888,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "ashby:bree": {
@@ -1519,7 +1520,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "ashby:ctgt": {
@@ -2089,7 +2091,7 @@
  },
  "ashby:fab2": {
   "ats": "ashby",
-  "company": "Fab2",
+  "company": "Atomic Semi",
   "params": {
    "board": "fab2"
   },
@@ -2433,7 +2435,7 @@
  },
  "ashby:gamechanger": {
   "ats": "ashby",
-  "company": "Gamechanger",
+  "company": "GameChanger",
   "params": {
    "board": "gamechanger"
   },
@@ -2734,7 +2736,7 @@
  },
  "ashby:handshake": {
   "ats": "ashby",
-  "company": "Handshake",
+  "company": "Handshake AI",
   "params": {
    "board": "handshake"
   },
@@ -4011,7 +4013,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "ashby:metamorphic": {
@@ -5556,7 +5559,8 @@
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "ashby:ridealso": {
@@ -6836,6 +6840,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "ashby:veeda-ai": {
+  "ats": "ashby",
+  "company": "Veeda AI",
+  "params": {
+   "board": "veeda-ai"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
  "ashby:veeda-labs": {
   "ats": "ashby",
   "company": "Veeda AI",
@@ -6889,7 +6903,7 @@
  },
  "ashby:vital-lyfe": {
   "ats": "ashby",
-  "company": "Vital Lyfe",
+  "company": "VITAL LYFE",
   "params": {
    "board": "vital-lyfe"
   },
@@ -6959,7 +6973,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "ashby:watershed": {
@@ -7015,7 +7030,7 @@
  },
  "ashby:whatnot": {
   "ats": "ashby",
-  "company": "Whatnot",
+  "company": "WhatNot",
   "params": {
    "board": "whatnot"
   },
@@ -7226,7 +7241,7 @@
  },
  "greenhouse:2k": {
   "ats": "greenhouse",
-  "company": "2K",
+  "company": "2K Games",
   "params": {
    "board": "2k"
   },
@@ -7659,7 +7674,7 @@
  },
  "greenhouse:alphataraxia": {
   "ats": "greenhouse",
-  "company": "Alphataraxia",
+  "company": "Alphataraxia Management (ATX)",
   "params": {
    "board": "alphataraxia"
   },
@@ -11912,6 +11927,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "greenhouse:ivalua": {
+  "ats": "greenhouse",
+  "company": "Ivalua",
+  "params": {
+   "board": "ivalua"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
  "greenhouse:ixllearning": {
   "ats": "greenhouse",
   "company": "Ixllearning",
@@ -12980,6 +13005,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "greenhouse:nexla": {
+  "ats": "greenhouse",
+  "company": "Nexla",
+  "params": {
+   "board": "nexla"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "greenhouse:niantic": {
   "ats": "greenhouse",
   "company": "Niantic",
@@ -13243,7 +13278,8 @@
    "board": "opensesame"
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "greenhouse:opentable": {
@@ -13693,7 +13729,7 @@
  },
  "greenhouse:point72": {
   "ats": "greenhouse",
-  "company": "Point72",
+  "company": "Cubist Systematic Strategies",
   "params": {
    "board": "point72"
   },
@@ -14096,7 +14132,8 @@
    "board": "rendezvousrobotics"
   },
   "sources": [
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "greenhouse:rexfordindustrial": {
@@ -14434,7 +14471,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "greenhouse:scotch": {
@@ -15119,7 +15157,8 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "greenhouse:taketwo": {
@@ -15656,7 +15695,8 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "greenhouse:twosixtechnologies": {
@@ -16286,7 +16326,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "greenhouse:xantium": {
@@ -18841,7 +18882,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "icims:careers-stonex.icims.com": {
@@ -19520,7 +19562,8 @@
    "host": "jmp-sas.icims.com"
   },
   "sources": [
-   "common-crawl"
+   "common-crawl",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "icims:jobs-bylight.icims.com": {
@@ -19585,7 +19628,7 @@
  },
  "icims:jobs-legrand.icims.com": {
   "ats": "icims",
-  "company": "Legrand",
+  "company": "Legrand North America",
   "params": {
    "host": "jobs-legrand.icims.com"
   },
@@ -21800,6 +21843,17 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "lever:algorex": {
+  "ats": "lever",
+  "company": "N1 Health",
+  "params": {
+   "board": "algorex",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:allegiantair": {
   "ats": "lever",
   "company": "Allegiant Air",
@@ -22408,7 +22462,8 @@
    "eu": false
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "lever:cologix": {
@@ -23926,7 +23981,7 @@
  },
  "lever:palantir": {
   "ats": "lever",
-  "company": "Palantir",
+  "company": "Palantir Technologies",
   "params": {
    "board": "palantir",
    "eu": false
@@ -25367,7 +25422,7 @@
  },
  "lever:whoop": {
   "ats": "lever",
-  "company": "Whoop",
+  "company": "WHOOP",
   "params": {
    "board": "whoop",
    "eu": false
@@ -26152,7 +26207,8 @@
    "site": "CX"
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "oracle:eimy.fa.us6.oraclecloud.com/CX_1": {
@@ -30332,7 +30388,8 @@
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
    "vanshb03/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "smartrecruiters:westerndigital": {
@@ -31667,7 +31724,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:aderant.wd5.myworkdayjobs.com/aderant_external_careers": {
@@ -33384,7 +33442,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:avaap.wd501.myworkdayjobs.com/avaapcareers": {
@@ -33707,7 +33766,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:baincapital.wd1.myworkdayjobs.com/external_public": {
@@ -34600,6 +34660,18 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "workday:boeing.wd1.myworkdayjobs.com/tap2": {
+  "ats": "workday",
+  "company": "Boeing",
+  "params": {
+   "host": "boeing.wd1.myworkdayjobs.com",
+   "tenant": "boeing",
+   "site": "tap2"
+  },
+  "sources": [
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:bonterra.wd1.myworkdayjobs.com/bonterratech": {
@@ -35570,7 +35642,7 @@
  },
  "workday:cboe.wd1.myworkdayjobs.com/external_career_cboe": {
   "ats": "workday",
-  "company": "Cboe",
+  "company": "Cboe Global Markets",
   "params": {
    "host": "cboe.wd1.myworkdayjobs.com",
    "tenant": "cboe",
@@ -35717,12 +35789,13 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:centene.wd5.myworkdayjobs.com/centene_external": {
   "ats": "workday",
-  "company": "Centene",
+  "company": "Centene Corporation",
   "params": {
    "host": "centene.wd5.myworkdayjobs.com",
    "tenant": "centene",
@@ -35731,7 +35804,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:centerstone.wd5.myworkdayjobs.com/centerstonecareers": {
@@ -36136,7 +36210,8 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "speedyapply/2027-SWE-College-Jobs",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:cisecurity.wd1.myworkdayjobs.com/cis_external_career_site": {
@@ -36483,6 +36558,18 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "workday:collegeboard.wd1.myworkdayjobs.com/cbcareers": {
+  "ats": "workday",
+  "company": "College Board",
+  "params": {
+   "host": "collegeboard.wd1.myworkdayjobs.com",
+   "tenant": "collegeboard",
+   "site": "cbcareers"
+  },
+  "sources": [
+   "vanshb03/New-Grad-2027"
+  ]
+ },
  "workday:colpipe.wd1.myworkdayjobs.com/search": {
   "ats": "workday",
   "company": "Colonial Pipeline Company",
@@ -36694,7 +36781,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "vanshb03/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:copeland.wd5.myworkdayjobs.com/copeland_external_careers_page": {
@@ -36867,7 +36955,7 @@
  },
  "workday:cox.wd1.myworkdayjobs.com/cox_external_career_site_1": {
   "ats": "workday",
-  "company": "Cox",
+  "company": "Cox Automotive",
   "params": {
    "host": "cox.wd1.myworkdayjobs.com",
    "tenant": "cox",
@@ -36928,6 +37016,18 @@
   },
   "sources": [
    "vanshb03/New-Grad-2027"
+  ]
+ },
+ "workday:crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers": {
+  "ats": "workday",
+  "company": "Crescent Energy",
+  "params": {
+   "host": "crescentenergyco.wd108.myworkdayjobs.com",
+   "tenant": "crescentenergyco",
+   "site": "crescent_energy_careers"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:crestnicholson.wd103.myworkdayjobs.com/cn": {
@@ -37117,7 +37217,8 @@
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "workday:cvshealth.wd1.myworkdayjobs.com/private_postings_intern_conversion_only": {
@@ -37720,7 +37821,8 @@
    "site": "draftkings"
   },
   "sources": [
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:draftkings.wd1.myworkdayjobs.com/employee_referral_portal": {
@@ -37772,7 +37874,8 @@
    "site": "DriveTime"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:dssmith.wd3.myworkdayjobs.com/dss_internal": {
@@ -38924,7 +39027,7 @@
  },
  "workday:finra.wd1.myworkdayjobs.com/finra": {
   "ats": "workday",
-  "company": "Finra",
+  "company": "FINRA",
   "params": {
    "host": "finra.wd1.myworkdayjobs.com",
    "tenant": "finra",
@@ -39012,6 +39115,18 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "vanshb03/Summer2027-Internships"
+  ]
+ },
+ "workday:flexerasoftware.wd1.myworkdayjobs.com/flexerasoftware": {
+  "ats": "workday",
+  "company": "Flexera",
+  "params": {
+   "host": "flexerasoftware.wd1.myworkdayjobs.com",
+   "tenant": "flexerasoftware",
+   "site": "FlexeraSoftware"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:flextronics.wd1.myworkdayjobs.com/careers": {
@@ -39285,6 +39400,18 @@
    "host": "freese.wd1.myworkdayjobs.com",
    "tenant": "freese",
    "site": "Freese_Nichols_External"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "workday:freight.wd108.myworkdayjobs.com/fxf_external_career_site": {
+  "ats": "workday",
+  "company": "FedEx Freight",
+  "params": {
+   "host": "freight.wd108.myworkdayjobs.com",
+   "tenant": "freight",
+   "site": "FXF_External_Career_Site"
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
@@ -39615,6 +39742,18 @@
    "speedyapply/2027-SWE-College-Jobs",
    "vanshb03/New-Grad-2027",
    "vanshb03/Summer2027-Internships"
+  ]
+ },
+ "workday:genesys.wd1.myworkdayjobs.com/2_genesys_jobs": {
+  "ats": "workday",
+  "company": "Genesys",
+  "params": {
+   "host": "genesys.wd1.myworkdayjobs.com",
+   "tenant": "genesys",
+   "site": "2_genesys_jobs"
+  },
+  "sources": [
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:genmab.wd3.myworkdayjobs.com/genmab_careers_site": {
@@ -40202,7 +40341,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:guidestone.wd1.myworkdayjobs.com/guidestone": {
@@ -40665,7 +40805,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:hkex.wd3.myworkdayjobs.com/hkexcareerpage": {
@@ -41537,7 +41678,7 @@
  },
  "workday:intel.wd1.myworkdayjobs.com/external": {
   "ats": "workday",
-  "company": "Intel",
+  "company": "Intel Corporation",
   "params": {
    "host": "intel.wd1.myworkdayjobs.com",
    "tenant": "intel",
@@ -42514,7 +42655,7 @@
  },
  "workday:labcorp.wd1.myworkdayjobs.com/external": {
   "ats": "workday",
-  "company": "Labcorp",
+  "company": "LabCorp",
   "params": {
    "host": "labcorp.wd1.myworkdayjobs.com",
    "tenant": "labcorp",
@@ -42523,7 +42664,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:lambweston.wd1.myworkdayjobs.com/cte": {
@@ -42637,7 +42779,7 @@
  },
  "workday:leidos.wd5.myworkdayjobs.com/external": {
   "ats": "workday",
-  "company": "Leidos",
+  "company": "Kudu Dynamics",
   "params": {
    "host": "leidos.wd5.myworkdayjobs.com",
    "tenant": "leidos",
@@ -42998,7 +43140,8 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "vanshb03/New-Grad-2027",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:logitech.wd5.myworkdayjobs.com/logitech": {
@@ -43509,7 +43652,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:mastercard.wd1.myworkdayjobs.com/public_posting_site": {
@@ -44327,7 +44471,7 @@
  },
  "workday:moog.wd5.myworkdayjobs.com/moog_external_career_site": {
   "ats": "workday",
-  "company": "Moog",
+  "company": "Moog ",
   "params": {
    "host": "moog.wd5.myworkdayjobs.com",
    "tenant": "moog",
@@ -44379,7 +44523,7 @@
  },
  "workday:mosaic.wd5.myworkdayjobs.com/mosaic": {
   "ats": "workday",
-  "company": "Mosaic",
+  "company": "The Mosaic Company",
   "params": {
    "host": "mosaic.wd5.myworkdayjobs.com",
    "tenant": "mosaic",
@@ -44413,7 +44557,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:movadogroup.wd1.myworkdayjobs.com/careers": {
@@ -45191,7 +45336,7 @@
  },
  "workday:nike.wd1.myworkdayjobs.com/nke": {
   "ats": "workday",
-  "company": "Nike",
+  "company": "Converse",
   "params": {
    "host": "nike.wd1.myworkdayjobs.com",
    "tenant": "nike",
@@ -45884,7 +46029,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:osu.wd1.myworkdayjobs.com/osucareers": {
@@ -46028,7 +46174,7 @@
  },
  "workday:otis.wd5.myworkdayjobs.com/rec_ext_gateway": {
   "ats": "workday",
-  "company": "Otis",
+  "company": "Otis Worldwide",
   "params": {
    "host": "otis.wd5.myworkdayjobs.com",
    "tenant": "otis",
@@ -46091,7 +46237,7 @@
  },
  "workday:ovative.wd12.myworkdayjobs.com/ovative": {
   "ats": "workday",
-  "company": "Ovative",
+  "company": "Ovative Group",
   "params": {
    "host": "ovative.wd12.myworkdayjobs.com",
    "tenant": "ovative",
@@ -47664,7 +47810,7 @@
  },
  "workday:resmed.wd3.myworkdayjobs.com/resmed_external_careers": {
   "ats": "workday",
-  "company": "Resmed",
+  "company": "ResMed",
   "params": {
    "host": "resmed.wd3.myworkdayjobs.com",
    "tenant": "resmed",
@@ -47672,7 +47818,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:resolvetech.wd1.myworkdayjobs.com/rts": {
@@ -48727,7 +48874,8 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "speedyapply/2027-SWE-College-Jobs"
   ]
  },
  "workday:sifive.wd1.myworkdayjobs.com/sifivecareers": {
@@ -50723,7 +50871,7 @@
  },
  "workday:travelers.wd5.myworkdayjobs.com/external": {
   "ats": "workday",
-  "company": "Travelers",
+  "company": "The Travelers Companies",
   "params": {
    "host": "travelers.wd5.myworkdayjobs.com",
    "tenant": "travelers",
@@ -51174,7 +51322,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/Summer2027-Internships"
   ]
  },
  "workday:ulse.wd5.myworkdayjobs.com/ulricareers": {
@@ -51777,6 +51926,18 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "workday:verily.wd1.myworkdayjobs.com/verily_careers": {
+  "ats": "workday",
+  "company": "Verily",
+  "params": {
+   "host": "verily.wd1.myworkdayjobs.com",
+   "tenant": "verily",
+   "site": "verily_careers"
+  },
+  "sources": [
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:verizon.wd12.myworkdayjobs.com/verizon-careers": {
@@ -52931,7 +53092,7 @@
  },
  "workday:zoetis.wd5.myworkdayjobs.com/zoetis": {
   "ats": "workday",
-  "company": "Zoetis",
+  "company": "Zoetis Services",
   "params": {
    "host": "zoetis.wd5.myworkdayjobs.com",
    "tenant": "zoetis",
