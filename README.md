@@ -13,20 +13,24 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1770 open roles** from 669 companies · updated 2026-10-23 12:27 UTC
+**1772 open roles** from 668 companies · updated 2026-10-23 13:28 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 78%)</summary>
 
-- Simplify's open US software internships: **984**; also on this list: **605** (61%)
-- On job systems this scraper supports: **591 / 767** (77%); excluding 14 Simplify listings already closed on the company's own board: **78%**
-- Open roles here that Simplify doesn't list: **472**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 5, filtered:not_internship 13, filtered:not_swe 61, filtered:not_swe_by_description 44, filtered:not_us 1, not_returned 35, stale_on_simplify 14, unsupported_ats 203
+- Simplify's open US software internships: **1013**; also on this list: **621** (61%)
+- On job systems this scraper supports: **607 / 787** (77%); excluding 11 Simplify listings already closed on the company's own board: **78%**
+- Open roles here that Simplify doesn't list: **474**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 13, filtered:not_swe 61, filtered:not_swe_by_description 47, filtered:not_us 1, not_returned 38, stale_on_simplify 11, unsupported_ats 212
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **CACI** | Cleared Software Engineer Intern - Summer 2027 | Denver, CO, US, United States of America<br>Sterling, VA, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999) | 0d |
+| **Cisco** | Software Engineer Full Stack / Backend I (Co-op) - United States | San Jose, California, US, United States of America<br>Carlsbad, California, US, United States of America | Co-op | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | 0d |
+| **Cisco** | Software Engineer Embedded Systems I (Co-op) - United States | San Jose, California, US, United States of America<br>Milpitas, California, US, United States of America<br>RTP, North Carolina, US, United States of America | Co-op | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701) | 0d |
 | **Qorvo** | Software Engineering Intern, SWR | Apopka, FL, US, 32703 | — | [Apply](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern%2C-SWR-FL-32703/1423577900/) | 0d |
+| **CACI** | Software Engineer Intern - Summer 2027 | Omaha, NE, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | 0d |
 | **Genesys** | Software Engineering Intern (Summer 2027) | Indianapolis, IN, USA, United States of America<br>Indianapolis, IN, United States of America | Summer 2027 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421) | 1d |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Embedded Platforms (Summer 2027) | <details><summary>4 locations</summary>Palo Alto, California, United States<br>Irvine, California, United States<br>Champaign, Illinois, United States<br>Remote</details> | Summer 2027 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048) | 1d |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Connected Systems (Summer 2027) | Palo Alto, California, United States<br>Irvine, California, United States<br>Remote | Summer 2027 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f) | 1d |
@@ -241,7 +245,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Allen Control Systems** | Android Developer Intern, 2027 | Austin, TX, United States | 2027 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | 1d |
 | **Skydio** | Embedded Software Engineer Intern - Winter 2027 | San Mateo, California, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34) | 1d |
 | **Aptiv** | Software Development Intern | Troy, MI - USA, United States of America | — | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | 1d |
-| **CACI** | Software Engineer Intern - Summer 2027 | Omaha, NE, US, United States of America | Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | 1d |
 | **CAI** | Server Engineer Intern | PA-CLIENT-STATE, United States of America | — | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Server-Engineer-Intern_R8557) | 1d |
 | **FOX** | Spring 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, California, USA, United States of America | Spring 2027 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Spring-2027-FOX-Technology-Internship-Program---Los-Angeles--CA_R50033927) | 1d |
 | **NVIDIA** | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara, United States of America | 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 1d |
@@ -295,7 +298,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Smith+Nephew** | Intern Computer Vision Software Engineering | Andover, MA, United States of America | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964) | 2d |
 | **Smith+Nephew** | Intern Embedded Software Engineering | Andover, MA, United States of America | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | 2d |
 | **Zillow** | Software Development Engineer - Intern | Seattle-WA-2nd Ave, United States of America | — | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) | 2d |
-| **Prizepicks** | Machine Learning Engineering Internship - Spring 2027 | Atlanta, Georgia, United States | Spring 2027 | [Apply](http://prizepicks.com/position?gh_jid=8038883003) | 3d |
 | **General Dynamics Mission Systems** | Software Engineer Intern | Pittsburgh, PA, US | — | [Apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job) | 3d |
 | **RoviSys** | Engineering Co-op - Summer 2027 | Indianapolis, IN, US | Summer 2027 | [Apply](https://careers-rovisys.icims.com/jobs/2198/engineering-co-op---summer-2027/job) | 3d |
 | **Texas Instruments** | Software Engineering Intern - Compiler | United States<br>Sugar Land, TX, United States | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) | 3d |
@@ -513,7 +515,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Rockwell Automation** | Intern, Information Technology | Milwaukee, Wisconsin, United States, United States of America | — | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) | 10d |
 | **Rolls-Royce** | Cloud Engineering Intern | Indianapolis, United States of America | — | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Cloud-Engineering-Intern_JR6161470) | 10d |
 | **Rolls-Royce** | Integrated Control Systems Engineer Intern (Software) | Indianapolis, United States of America | — | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) | 10d |
-| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Spokane Valley | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) | 10d |
+| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Spokane Valley, United States of America | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) | 10d |
 | **Symbotic** | Co-Op- System Engineer | USA Palestine, TX, United States of America | Co-op | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Palestine-TX/Co-Op--System-Engineer_R8211) | 10d |
 | **Symbotic** | Co-Op- System Engineer | USA Melrose Park, IL, United States of America | Co-op | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Melrose-Park-IL/Co-Op--System-Engineer_R8215) | 10d |
 | **Unity** | Machine Learning Engineer-Internship | Mountain View, CA, USA, United States of America<br>Remote, Washington, USA, United States of America | — | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965) | 10d |
