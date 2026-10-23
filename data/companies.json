@@ -699,7 +699,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "ashby:baseten": {
@@ -761,7 +762,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "ashby:binance.us": {
@@ -4809,6 +4811,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "ashby:parker": {
+  "ats": "ashby",
+  "company": "Parker",
+  "params": {
+   "board": "parker"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "ashby:parspec": {
   "ats": "ashby",
   "company": "Parspec",
@@ -7722,6 +7734,16 @@
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
    "speedyapply/2027-SWE-College-Jobs"
+  ]
+ },
+ "greenhouse:amendconsulting": {
+  "ats": "greenhouse",
+  "company": "AMEND Consulting",
+  "params": {
+   "board": "amendconsulting"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "greenhouse:americaninstitutesforresearch": {
@@ -20246,6 +20268,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "jazzhr:bluematterconsulting": {
+  "ats": "jazzhr",
+  "company": "Blue Matter",
+  "params": {
+   "company": "bluematterconsulting"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "jazzhr:bookerdimaio": {
   "ats": "jazzhr",
   "company": "Booker DiMaio, LLC",
@@ -23765,6 +23797,17 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "lever:mytos": {
+  "ats": "lever",
+  "company": "Mytos",
+  "params": {
+   "board": "mytos",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:neighbor": {
   "ats": "lever",
   "company": "Neighbor",
@@ -24398,6 +24441,17 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "lever:regal.ai": {
+  "ats": "lever",
+  "company": "Regal",
+  "params": {
+   "board": "regal.ai",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:regalvoice": {
   "ats": "lever",
   "company": "Regal",
@@ -24959,6 +25013,17 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "lever:teamsnap": {
+  "ats": "lever",
+  "company": "TeamSnap",
+  "params": {
+   "board": "teamsnap",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:tekton": {
   "ats": "lever",
   "company": "Tekton",
@@ -25235,7 +25300,8 @@
    "eu": false
   },
   "sources": [
-   "vanshb03/New-Grad-2027"
+   "vanshb03/New-Grad-2027",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "lever:veeva": {
@@ -25486,6 +25552,17 @@
   },
   "sources": [
    "vanshb03/New-Grad-2027"
+  ]
+ },
+ "lever:worldscape-technology": {
+  "ats": "lever",
+  "company": "Worldscape Technology",
+  "params": {
+   "board": "worldscape-technology",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "lever:woven-by-toyota": {

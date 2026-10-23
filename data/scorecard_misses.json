@@ -240,21 +240,21 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "National Laboratory of the Rockies",
-  "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
-  "locations": [
-   "Golden, CO"
-  ],
-  "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "University of Nevada, Reno",
   "title": "Web Development Intern - Marketing & Communications",
   "locations": [
    "Reno, NV"
   ],
   "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Inbulks",
+  "title": "Junior Front End Developer Intern",
+  "locations": [
+   "Long Island City, Queens, NY"
+  ],
+  "url": "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753"
  },
  {
   "reason": "filtered:not_swe",
@@ -858,17 +858,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Ecolab",
-  "title": "Digital & AI Technology Intern",
-  "locations": [
-   "Naperville, IL",
-   "Eagan, MN",
-   "St Paul, MN"
-  ],
-  "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Commerce Bank",
   "title": "IT Intern - Summer 2027",
   "locations": [
@@ -1349,6 +1338,15 @@
  },
  {
   "reason": "not_returned",
+  "company": "American Express",
+  "title": "AI Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
+ },
+ {
+  "reason": "not_returned",
   "company": "RegDesk",
   "title": "Front End Developer Intern",
   "locations": [
@@ -1681,24 +1679,6 @@
    "Boulder, CO"
   ],
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Northrop Grumman",
-  "title": "Software Engineering Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "RTX",
-  "title": "Software Engineering Intern",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
  },
  {
   "reason": "unsupported_ats",
@@ -2181,6 +2161,35 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/279600"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Specter Aerospace",
+  "title": "Full Stack Developer Co-op",
+  "locations": [
+   "Boston, MA",
+   "Peabody, MA"
+  ],
+  "url": "https://specteraerospace.bamboohr.com/careers/122/"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Specter Aerospace",
+  "title": "Front-End Software Developer Co-op",
+  "locations": [
+   "Boston, MA",
+   "Peabody, MA"
+  ],
+  "url": "https://specteraerospace.bamboohr.com/careers/120/"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Calpion/Plutus Health",
+  "title": "AI Engineering Intern - Python & Agentic AI",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "url": "https://calpionplutus.bamboohr.com/careers/310/"
  },
  {
   "reason": "unsupported_ats",
