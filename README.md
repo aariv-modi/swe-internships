@@ -13,19 +13,20 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1777 open roles** from 666 companies · updated 2026-10-23 22:18 UTC
+**1777 open roles** from 665 companies · updated 2026-10-23 23:17 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1243**; also on this list: **749** (60%)
-- On job systems this scraper supports: **733 / 964** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **495**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 41, stale_on_simplify 16, unsupported_ats 263
+- Simplify's open US software internships: **1263**; also on this list: **760** (60%)
+- On job systems this scraper supports: **743 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **476**
+- Misses by reason: board_unknown 1, board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 41, stale_on_simplify 15, unsupported_ats 268
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United States | — | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) | 0d |
 | **Skydio** | Embedded Software Engineer Intern - Winter 2027 | San Mateo, California, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366) | 0d |
 | **Trace Labs** | Robotics Engineering Intern — Hardware & Software | NYC | — | [Apply](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525) | 0d |
 | **Intercontinental Exchange** | Summer Internship Program 2027 - Infrastructure Development & Automation Intern | US-GA-Atlanta | Summer 2027 | [Apply](https://careers-ice.icims.com/jobs/14064/summer-internship-program-2027---infrastructure-development-%26-automation-intern/job) | 0d |
@@ -303,7 +304,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Rhoda AI** | Software Engineer Intern, Inference | Mountain View, United States | — | [Apply](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4) | 2d |
 | **Rhoda AI** | Software Engineer Intern, Rhoda Platform | Mountain View, United States | — | [Apply](https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5) | 2d |
 | **Walrus** | Full Stack Developer Intern | New York City (Hybrid)<br>Remote | — | [Apply](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5) | 2d |
-| **KnowBe4** | AI Customer Success Intern | Clearwater, Florida | — | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8903101002) | 2d |
 | **Aerospace Corporation** | 2027 Digital Communication Grad Intern | El Segundo, CA, United States of America | 2027 | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Grad-Intern_R016966) | 2d |
 | **Aerospace Corporation** | 2027 Digital Communication Undergraduate Intern | El Segundo, CA, United States of America | 2027 | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948) | 2d |
 | **Aerospace Corporation** | 2027 Embedded Software Engineering Grad Intern | El Segundo, CA, United States of America | 2027 | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950) | 2d |

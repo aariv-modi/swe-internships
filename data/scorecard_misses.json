@@ -1,5 +1,14 @@
 [
  {
+  "reason": "board_unknown",
+  "company": "Linkup",
+  "title": "Member of Technical Staff Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true"
+ },
+ {
   "reason": "board_unreadable",
   "company": "Atomic Semi",
   "title": "Infrastructure Software Engineering Intern",
@@ -287,6 +296,52 @@
    "Irvine, CA"
   ],
   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Tampa, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Irving, TX"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Production Support",
+  "locations": [
+   "Tampa, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Analyst Intern - Application Development",
+  "locations": [
+   "Jacksonville, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Jersey City, NJ",
+   "NYC"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
  },
  {
   "reason": "filtered:not_swe",
@@ -954,15 +1009,6 @@
    "Huntersville, NC"
   ],
   "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "GlobalFoundries",
-  "title": "Systems/Process Engineering Intern - Tapeout Operations",
-  "locations": [
-   "Malta, NY"
-  ],
-  "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924"
  },
  {
   "reason": "filtered:not_swe",
@@ -2125,16 +2171,6 @@
    "Middletown, RI"
   ],
   "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "KION Group",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Grand Rapids, MI",
-   "Wauwatosa, WI"
-  ],
-  "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
  },
  {
   "reason": "unsupported_ats",
@@ -4646,5 +4682,50 @@
    "Remote in USA"
   ],
   "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "MSA Safety",
+  "title": "AI Engineer Co-op",
+  "locations": [
+   "Cranberry Township, PA"
+  ],
+  "url": "https://careers.msasafety.com/jobs/10243?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Amazon",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Redmond, WA"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Microsoft",
+  "title": "Software Engineer Intern - Security & Identity",
+  "locations": [
+   "United States"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Siemens",
+  "title": "Python Backend Developer Intern - Energy Flexibility Platform",
+  "locations": [
+   "Princeton, NJ"
+  ],
+  "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "R&D Hardware Engineering Intern",
+  "locations": [
+   "Santa Rosa, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/55239?icims=1"
  }
 ]
