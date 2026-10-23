@@ -116,7 +116,7 @@ HARDWARE_DOMAIN_RE = re.compile(
     # (from the 2026-10-22 accuracy audit: Astera Labs, Microchip, Nissan, J&J, Invesco)
     r"physical design|design architecture|emulation|design verification|verification engineer\w*|"
     r"rtl|fpga|systems engineer\w*|product development|applications|quantitative|quant|"
-    r"controls engineer\w*|flight test|product intern)\b", re.I)
+    r"controls engineer\w*|flight test|product intern|data scien\w*)\b", re.I)
 
 
 def swe_verdict(title: str) -> str:

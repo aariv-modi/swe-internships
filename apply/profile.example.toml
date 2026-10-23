@@ -1,0 +1,53 @@
+# Copy to ~/.swe-internships/profile.toml (run `python -m apply init`) and fill in.
+# That file lives outside the repo, so nothing here is ever committed or published.
+
+[contact]
+first_name = ""
+last_name = ""
+preferred_name = ""
+pronouns = ""
+email = ""
+phone = ""
+location = ""            # "Austin, TX"
+linkedin = ""
+github = ""
+website = ""
+
+[files]
+resume = ""              # absolute path to a PDF, e.g. "C:/Users/you/Documents/resume.pdf"
+
+[education]
+school = ""              # "The University of Texas at Austin"
+degree = ""              # "Bachelor's Degree" / "Bachelor of Science"
+major = ""               # "Computer Science"
+gpa = ""
+grad_month = ""          # "May"
+grad_year = ""           # "2028"
+currently_enrolled = true
+
+[work]
+authorized_us = true     # legally authorized to work in the US
+needs_sponsorship = false
+us_citizen = false       # some defense roles ask (export control / clearance)
+security_clearance = "None"
+earliest_start = ""      # "May 2027"
+willing_to_relocate = true
+
+# Voluntary self-identification. Leave as "Decline" to decline everywhere.
+[eeo]
+gender = "Decline"
+hispanic = "Decline"
+race = "Decline"
+veteran = "Decline"
+disability = "Decline"
+
+[queue]
+terms = ["Summer 2027"]  # postings with no stated term are still shown, ranked lower
+locations = []           # e.g. ["TX", "Austin", "Remote"]; empty = anywhere in the US
+exclude_companies = []
+interests = []           # title words that raise rank, e.g. ["backend", "infrastructure"]
+
+# Used only to draft long-answer questions (when the `claude` CLI is installed).
+[about]
+summary = ""             # 3-5 sentences about you
+projects = ""            # a few projects with one line each

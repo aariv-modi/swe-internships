@@ -17,6 +17,8 @@ read directly from the company's own job board and refreshed automatically.
   PM, design, IT support, hardware or quant trading.
 - **Completeness is measured, not claimed:** see the scorecard below.
 - Postings disappear from this list when the company removes them from its job board.
+- Applying: [APPLY.md](APPLY.md) describes a local review queue that pre-fills Greenhouse, Lever and
+  Ashby forms and stops before Submit.
 
 """
 

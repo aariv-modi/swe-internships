@@ -32,12 +32,14 @@ published as a GitHub-style README, with completeness measured on every run rath
      US SWE internship into the registry.
    - Open: Workday boards can't be guessed from a company name (unknown and real tenants return
      identical responses), so name lists (S&P 500, LCA filers) only help for Greenhouse/Lever/Ashby.
-4. **Review queue (apply assistant)** — deliberately *not* fully automatic:
+4. **Review queue (apply assistant)** — built 2026-10-23 (apply/, APPLY.md); deliberately *not* fully automatic:
    - Profile + answer library (work authorization, sponsorship, start dates, links, EEO choices).
    - Match new postings against the profile; daily digest ranked by fit.
    - For Greenhouse / Lever / Ashby: open the form pre-filled (resume attached, standard answers,
      drafted short answers) and **stop before Submit**; the user reviews and submits.
-   - For Workday: pre-fill only after the user signs in themselves.
+   - For Workday: pre-fill only after the user signs in themselves. (Not built yet: Workday pages
+     open for manual completion; Simplify Copilot covers it meanwhile.)
+   - Pages forbidding tool/AI-completed applications are detected and left entirely untouched.
    - Never: account creation, password handling, CAPTCHA bypass, unattended submission.
      Why: no applicant API exists, Workday needs one account per company (1,000+), forms
      contain signed attestations, and the classifier's false positives would become real applications.
