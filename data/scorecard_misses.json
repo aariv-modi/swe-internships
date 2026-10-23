@@ -1836,6 +1836,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "Copart",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Susquehanna International Group",
   "title": "Technology Co-op - Drexel University",
   "locations": [
@@ -3912,6 +3921,24 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "R&D Software Engineer Intern",
+  "locations": [
+   "Colorado Springs, CO"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54724?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Boston Scientific",
+  "title": "Equipment Engineering Software Engineer Intern",
+  "locations": [
+   "Maple Grove, MN"
+  ],
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Waymo",
   "title": "Intern",
   "locations": [
@@ -3931,6 +3958,33 @@
  {
   "reason": "unsupported_ats",
   "company": "Meta",
+  "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
+  "locations": [
+   "Seattle, WA",
+   "Burlingame, CA",
+   "Redmond, WA",
+   "Menlo Park, CA",
+   "NYC",
+   "Bellevue, WA",
+   "Sunnyvale, CA"
+  ],
+  "url": "https://www.metacareers.com/jobs/945520495299801"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Meta",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Seattle, WA",
+   "Menlo Park, CA",
+   "NYC",
+   "Bellevue, WA"
+  ],
+  "url": "https://www.metacareers.com/jobs/1952991802037374"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Meta",
   "title": "Software Engineer Intern - Machine Learning",
   "locations": [
    "Seattle, WA",
@@ -3942,6 +3996,24 @@
    "Sunnyvale, CA"
   ],
   "url": "https://www.metacareers.com/jobs/2180490782513668"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "Enterprise Software Development Intern - EDA Tools",
+  "locations": [
+   "Santa Rosa, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54578?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Keysight Technologies",
+  "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
+  "locations": [
+   "Santa Rosa, CA"
+  ],
+  "url": "https://jobs.keysight.com/jobs/54319?icims=1"
  },
  {
   "reason": "unsupported_ats",
@@ -3960,6 +4032,15 @@
    "Eden Prairie, MN"
   ],
   "url": "https://careers.itw.com/global/en/job/JR10491"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "John Deere",
+  "title": "Part-Time Student Intern",
+  "locations": [
+   "Champaign, IL"
+  ],
+  "url": "https://johndeere.eightfold.ai/careers/job/137483757988"
  },
  {
   "reason": "unsupported_ats",

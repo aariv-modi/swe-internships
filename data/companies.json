@@ -2284,6 +2284,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "ashby:focused": {
+  "ats": "ashby",
+  "company": "Focused",
+  "params": {
+   "board": "focused"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "ashby:fortell": {
   "ats": "ashby",
   "company": "Fortell",
@@ -3256,6 +3266,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "ashby:jampack-ai": {
+  "ats": "ashby",
+  "company": "Jampack AI",
+  "params": {
+   "board": "jampack-ai"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "ashby:jerry.ai": {
@@ -10842,6 +10862,16 @@
    "speedyapply/2027-SWE-College-Jobs"
   ]
  },
+ "greenhouse:freestonecapitalmanagement": {
+  "ats": "greenhouse",
+  "company": "Freestone Capital Management",
+  "params": {
+   "board": "freestonecapitalmanagement"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
  "greenhouse:fschumacherco": {
   "ats": "greenhouse",
   "company": "F. Schumacher & Co.",
@@ -11717,6 +11747,16 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:infinitumelectric": {
+  "ats": "greenhouse",
+  "company": "Infinitum",
+  "params": {
+   "board": "infinitumelectric"
+  },
+  "sources": [
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
@@ -12819,6 +12859,16 @@
   "company": "Monzo",
   "params": {
    "board": "monzo"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:morsecorp": {
+  "ats": "greenhouse",
+  "company": "MORSE Corp",
+  "params": {
+   "board": "morsecorp"
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
@@ -23420,6 +23470,17 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "lever:jupiterintel": {
+  "ats": "lever",
+  "company": "Jupiter Intelligence",
+  "params": {
+   "board": "jupiterintel",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:kabam": {
   "ats": "lever",
   "company": "Kabam",
@@ -30029,6 +30090,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "smartrecruiters:stefanini1": {
+  "ats": "smartrecruiters",
+  "company": "Stefanini",
+  "params": {
+   "company": "Stefanini1"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "smartrecruiters:stemxpert1": {
   "ats": "smartrecruiters",
   "company": "STEM Expert",
@@ -30541,6 +30612,16 @@
   "company": "Worldwide TechServices",
   "params": {
    "company": "WorldwideTechServices"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "smartrecruiters:zen31": {
+  "ats": "smartrecruiters",
+  "company": "Zen3",
+  "params": {
+   "company": "Zen31"
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
@@ -41464,6 +41545,18 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "workday:ilitch.wd5.myworkdayjobs.com/detroit-tigers": {
+  "ats": "workday",
+  "company": "Detroit Tigers",
+  "params": {
+   "host": "ilitch.wd5.myworkdayjobs.com",
+   "tenant": "ilitch",
+   "site": "detroit-tigers"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "workday:ilitch.wd5.myworkdayjobs.com/lc": {
   "ats": "workday",
   "company": "Little Caesars Enterprises",
@@ -42114,7 +42207,8 @@
    "site": "ExternalSiteJCDUK"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:jci.wd5.myworkdayjobs.com/jci": {
