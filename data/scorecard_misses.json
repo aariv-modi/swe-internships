@@ -552,15 +552,6 @@
  {
   "reason": "filtered:not_swe",
   "company": "Booz Allen",
-  "title": "Quantum Computing Research Intern",
-  "locations": [
-   "Washington, DC"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Booz Allen",
   "title": "Systems Engineer Intern - Summer Games",
   "locations": [
    "Huntsville, AL"
@@ -1746,15 +1737,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Belvedere Trading",
-  "title": "Software Engineer Intern - Summer 2027",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"
- },
- {
-  "reason": "not_returned",
   "company": "American Express",
   "title": "AI Engineer Intern - Enterprise Technology Services",
   "locations": [
@@ -1947,24 +1929,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Lean TECHniques",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Johnston, IA"
-  ],
-  "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c/application?embed=true"
- },
- {
-  "reason": "not_returned",
-  "company": "AbbVie",
-  "title": "Business Technology Solutions Intern - Data & Software Engineering",
-  "locations": [
-   "Irvine, CA"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684476"
- },
- {
-  "reason": "not_returned",
   "company": "Rockwell Automation",
   "title": "AI Software Engineering Co-op - 6 months - 8 months",
   "locations": [
@@ -1990,6 +1954,15 @@
    "Round Rock, TX"
   ],
   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
+ },
+ {
+  "reason": "not_returned",
+  "company": "IEX",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8171239"
  },
  {
   "reason": "not_returned",
@@ -2147,13 +2120,12 @@
  },
  {
   "reason": "stale_on_simplify",
-  "company": "Kensho",
-  "title": "Software Engineer Intern - Summer 2027",
+  "company": "Booz Allen",
+  "title": "Quantum Computing Research Intern",
   "locations": [
-   "Cambridge, MA",
-   "NYC"
+   "Washington, DC"
   ],
-  "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
  },
  {
   "reason": "stale_on_simplify",
@@ -2371,15 +2343,6 @@
    "Keene, NH"
   ],
   "url": "https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Optiver",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
  },
  {
   "reason": "unsupported_ats",

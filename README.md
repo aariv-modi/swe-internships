@@ -13,20 +13,23 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1776 open roles** from 666 companies · updated 2026-10-23 17:55 UTC
+**1776 open roles** from 666 companies · updated 2026-10-23 18:54 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1254**; also on this list: **753** (60%)
-- On job systems this scraper supports: **736 / 973** (76%); excluding 14 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **482**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 81, filtered:not_swe_by_description 65, filtered:not_us 1, not_returned 47, stale_on_simplify 14, unsupported_ats 264
+- Simplify's open US software internships: **1249**; also on this list: **752** (60%)
+- On job systems this scraper supports: **735 / 969** (76%); excluding 14 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **485**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 20, filtered:not_swe 80, filtered:not_swe_by_description 65, filtered:not_us 1, not_returned 45, stale_on_simplify 14, unsupported_ats 263
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
-| **American Family Insurance Group** | Product Data Engineering Intern (Hybrid) | WI Madison, United States of America | — | [Apply](https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) | 0d |
+| **Flagship Pioneering** | ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002) | 0d |
+| **Flagship Pioneering** | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA USA | Co-op | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002) | 0d |
+| **ASML** | Internship - Application Software QA Engineer | San Jose, CA, USA, United States of America | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565) | 0d |
+| **American Family Insurance Group** | AI Platform Engineering Intern (Hybrid) | WI Madison, United States of America | — | [Apply](https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) | 0d |
 | **Carrier Global** | Software Engineering Intern - Summer | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA, United States of America | Summer | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588) | 0d |
 | **Hubcareers Docusign** | Software Developer Intern | San Francisco, CA, US | — | [Apply](https://uscareers-docusign.icims.com/jobs/30571/software-developer-intern/job) | 0d |
 | **Hubcareers Docusign** | AI Platform Engineer Intern | San Francisco, CA, US | — | [Apply](https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job) | 0d |
@@ -1012,7 +1015,6 @@ read directly from the company's own job board and refreshed automatically.
 | **ConductorAI** | Software Engineer Intern | New York City, United States<br>Remote | — | [Apply](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891) | 36d |
 | **Amperesand** | Software Intern, Factory & Ops | Reno, Nevada, United States | — | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4409254009) | 36d |
 | **Astera Labs** | Firmware Engineer Intern (Leo) | San Jose, CA | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005) | 36d |
-| **IEX** | Data Engineer Intern | New York | — | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8210998) | 36d |
 | **SharkNinja** | Applied AI & Analytics Co-op Opportunities | Miami, Florida, United States; Needham, MA, United States; New York, New York, United States | Co-op | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713793006) | 36d |
 | **SharkNinja** | Applied AI & Analytics Intern Opportunities | Miami, Florida, United States; Needham, MA, United States | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006) | 36d |
 | **Church & Dwight** | AI Developer Co-op - Graduate Program (9 Months) | USA, Ewing, NJ, United States of America | Co-op | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) | 36d |
@@ -1122,6 +1124,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Viavi Solutions** | Software Engineering Co-Op | Germantown, MD USA, United States of America | Co-op | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1) | 39d |
 | **Klaviyo** | Software Engineer Co-op (Spring 2027) | Boston, MA | Spring 2027 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003) | 41d |
 | **AnaVation** | Computer Science Internship Summer 2027 | Chantilly, VA | Summer 2027 | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | 41d |
+| **Farmersmutualhailinsurancecompany** | Software Developer Intern | West Des Moines, IA | — | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009) | 42d |
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - SF) | San Francisco, CA | Summer 2027 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | 42d |
 | **Veeamsoftware** | Kasten Engineering Intern - Summer 2027 | Remote, California, USA | Summer 2027 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101) | 42d |
 | **Veeamsoftware** | Policy Engineering Intern- Summer 2027 | San Jose, CA, USA | Summer 2027 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101) | 42d |
@@ -1143,7 +1146,6 @@ read directly from the company's own job board and refreshed automatically.
 | **SK Hynix Memory Solution** | Embedded Software Engineer Intern | San Jose | — | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009) | 42d |
 | **Cirrus Logic** | 2027 Internship - Embedded Firmware Engineer | Phoenix, Arizona<br>Austin, Texas | 2027 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8) | 42d |
 | **Cirrus Logic** | 2027 Internship - Embedded Software Test Engineer | Austin, Texas | 2027 | [Apply](https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175) | 42d |
-| **Cirrus Logic** | 2027 Internship - Embedded Software Engineer | Austin, Texas | 2027 | [Apply](https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec) | 42d |
 | **Xcimer Energy** | Summer 2027 Internship - Computational and Software Engineering | Denver, CO | Summer 2027 | [Apply](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911) | 42d |
 | **Avis Budget Group** | Accelerate - Transformation Engineer Summer 2027 Intern | 379 Interpace Pkwy, Parsippany, 07054, United States of America | Summer 2027 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388) | 42d |
 | **DraftKings** | Software Engineer Intern-Referral (Summer 2027) | Boston, MA, United States of America | Summer 2027 | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932) | 42d |
@@ -1374,8 +1376,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Valon** | Software Engineer Intern | New York, United States<br>San Francisco, United States | — | [Apply](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) | 52d |
 | **Eulerity** | Backend Developer Intern | New York, New York | — | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) | 52d |
 | **HP IQ** | Software Engineering Intern, Connectivity (Summer 2027) | San Francisco, CA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | 52d |
-| **IEX** | Platform Engineer Intern | New York | — | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8171127) | 52d |
-| **IEX** | Software Engineer Intern | New York | — | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8171239) | 52d |
 | **IEX** | Software Development Engineer in Test Intern | New York | — | [Apply](https://job-boards.greenhouse.io/iex-interns/jobs/8172248) | 52d |
 | **K2 Space** | GNC Engineering Intern – Summer 2027 | Los Angeles, CA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) | 52d |
 | **K2 Space** | Software Engineering Intern – Summer 2027 | Los Angeles, CA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) | 52d |
