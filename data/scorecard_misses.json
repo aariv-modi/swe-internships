@@ -41,6 +41,22 @@
  },
  {
   "reason": "filtered:location_unknown",
+  "company": "SpaceX",
+  "title": "Software Engineer Intern/Co-op",
+  "locations": [
+   "Palo Alto, CA",
+   "Bastrop, TX",
+   "Irvine, CA",
+   "Cape Canaveral, FL",
+   "Brownsville, TX",
+   "Redmond, WA",
+   "McGregor, TX",
+   "Hawthorne, CA"
+  ],
+  "url": "https://boards.greenhouse.io/spacex/jobs/8621756002"
+ },
+ {
+  "reason": "filtered:location_unknown",
   "company": "Atoms",
   "title": "Machine Learning PhD Software Engineer Intern",
   "locations": [
@@ -134,15 +150,6 @@
  },
  {
   "reason": "filtered:not_internship",
-  "company": "Bluestaq",
-  "title": "Software Engineering Resident - Multiple Teams",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009"
- },
- {
-  "reason": "filtered:not_internship",
   "company": "CACI",
   "title": "AI Prompt Engineer Intern",
   "locations": [
@@ -194,24 +201,6 @@
    "Remote in USA"
   ],
   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "Colibri Group",
-  "title": "Product Builder Returnship Intern",
-  "locations": [
-   "Pleasanton, CA"
-  ],
-  "url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply"
- },
- {
-  "reason": "filtered:not_internship",
-  "company": "Brookhaven Lab",
-  "title": "Data Engineering Student Assistant Intern",
-  "locations": [
-   "Upton, Brookhaven, NY"
-  ],
-  "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753"
  },
  {
   "reason": "filtered:not_internship",
@@ -302,15 +291,6 @@
    "Chicago, IL"
   ],
   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Qorvo",
-  "title": "Electrical Engineer Intern - Physical Verification",
-  "locations": [
-   "Greensboro, NC"
-  ],
-  "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors"
  },
  {
   "reason": "filtered:not_swe",
@@ -455,15 +435,6 @@
    "Foster City, CA"
   ],
   "url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c/application?embed=true"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "Merck",
-  "title": "Computer Scientist Co-op - Agentic & Augmented Authoring Systems",
-  "locations": [
-   "West Point, PA"
-  ],
-  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857"
  },
  {
   "reason": "filtered:not_swe",
@@ -722,15 +693,6 @@
  },
  {
   "reason": "filtered:not_swe",
-  "company": "NJ Department of Environmental Protection",
-  "title": "Watershed & Land Management Intern",
-  "locations": [
-   "Trenton, NJ"
-  ],
-  "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/vPwbyhmsxt/Watershed-Land-Management-Intern-WLM20265i"
- },
- {
-  "reason": "filtered:not_swe",
   "company": "NVIDIA",
   "title": "Sparse Linear Algebra Libraries Intern",
   "locations": [
@@ -773,16 +735,6 @@
    "Auburn Hills, MI"
   ],
   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
- },
- {
-  "reason": "filtered:not_swe",
-  "company": "DriveWealth",
-  "title": "AI Consulting Associate Program Product Owner Intern",
-  "locations": [
-   "Chicago, IL",
-   "NYC"
-  ],
-  "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
  },
  {
   "reason": "filtered:not_swe",
@@ -917,15 +869,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Philips",
-  "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
-  "locations": [
-   "Plymouth, MN"
-  ],
-  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Commerce Bank",
   "title": "IT Intern - Summer 2027",
   "locations": [
@@ -1048,15 +991,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "RTX",
-  "title": "Systems Co-op",
-  "locations": [
-   "Cedar Rapids, IA"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Federated Insurance",
   "title": "IT Intern",
   "locations": [
@@ -1138,39 +1072,12 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Ralliant",
-  "title": "Research & Development Co-op",
-  "locations": [
-   "Fairport, NY"
-  ],
-  "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10636"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Radiance Technologies",
-  "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-  "locations": [
-   "Beavercreek, OH"
-  ],
-  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "Radiance Technologies",
   "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
   "locations": [
    "Beavercreek, OH"
   ],
   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Radiance Technologies",
-  "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-  "locations": [
-   "Beavercreek, OH"
-  ],
-  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102437"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1288,15 +1195,6 @@
    "Burbank, CA"
   ],
   "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226344004"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Heidelberg Materials",
-  "title": "Digital Growth Intern",
-  "locations": [
-   "Irving, TX"
-  ],
-  "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1569,17 +1467,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Citizens Financial Group",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Plano, TX",
-   "Johnston, RI",
-   "Phoenix, AZ"
-  ],
-  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
- },
- {
-  "reason": "not_returned",
   "company": "Wellmark",
   "title": "Software Engineer Intern",
   "locations": [
@@ -1614,15 +1501,6 @@
    "Rochester, NY"
   ],
   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Multimedia-Web-DeveloperProgrammer-(Technical-Training)-NY-14609/1425480300/?ats=successfactors"
- },
- {
-  "reason": "not_returned",
-  "company": "Dell Technologies",
-  "title": "AI Solutions Intern - Product & Content Management",
-  "locations": [
-   "Round Rock, TX"
-  ],
-  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
  },
  {
   "reason": "not_returned",
@@ -1713,15 +1591,6 @@
    "Cincinnati, OH"
   ],
   "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Boeing",
-  "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
-  "locations": [
-   "Tukwila, WA"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
  },
  {
   "reason": "stale_on_simplify",
@@ -2145,6 +2014,15 @@
  {
   "reason": "unsupported_ats",
   "company": "ByteDance",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Seattle, WA"
+  ],
+  "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "ByteDance",
   "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
   "locations": [
    "San Jose, CA"
@@ -2226,6 +2104,15 @@
  {
   "reason": "unsupported_ats",
   "company": "ByteDance",
+  "title": "Network Software Engineer Intern - Network Switch",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "ByteDance",
   "title": "Network Software Engineer Intern - Network Observation",
   "locations": [
    "San Jose, CA"
@@ -2252,6 +2139,15 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "Medpace",
+  "title": "Software Development Co-op - Spring 2027",
+  "locations": [
+   "Cincinnati, OH"
+  ],
+  "url": "https://careers.medpace.com/jobs/12922?icims=1"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Deloitte",
   "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
   "locations": [
@@ -2267,6 +2163,15 @@
    "Fairborn, OH"
   ],
   "url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Deloitte",
+  "title": "Software Engineering Analyst Intern - Government & Public Services",
+  "locations": [
+   "Austin, TX"
+  ],
+  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448"
  },
  {
   "reason": "unsupported_ats",
@@ -2361,15 +2266,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Medpace",
-  "title": "Python Intern - Summer 2027",
-  "locations": [
-   "Cincinnati, OH"
-  ],
-  "url": "https://careers.medpace.com/jobs/12962?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Google",
   "title": "Software Engineer Intern",
   "locations": [
@@ -2405,16 +2301,6 @@
    "San Diego, CA"
   ],
   "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "John Deere",
-  "title": "Robotics Engineer Part-Time Student - Product Engineering",
-  "locations": [
-   "Urbandale, IA",
-   "Ames, IA"
-  ],
-  "url": "https://johndeere.eightfold.ai/careers/job/137482782400"
  },
  {
   "reason": "unsupported_ats",
@@ -2512,15 +2398,6 @@
    "Palo Alto, CA"
   ],
   "url": "https://www.tesla.com/careers/search/job/281951"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Textron",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Waterboro, ME"
-  ],
-  "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
  },
  {
   "reason": "unsupported_ats",
@@ -2774,15 +2651,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Coretek Services",
-  "title": "AI & Automation Development Intern",
-  "locations": [
-   "Farmington Hills, MI"
-  ],
-  "url": "https://apply.workable.com/coretek-services/j/8D69C6C871/apply"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Two Sigma",
   "title": "Software Engineering Intern - Summer 2027",
   "locations": [
@@ -2798,15 +2666,6 @@
    "St Joseph, MO"
   ],
   "url": "https://careers.herzog.com/jobs/2931?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Domino Data Lab",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
  },
  {
   "reason": "unsupported_ats",
@@ -2843,15 +2702,6 @@
    "Chicago, IL"
   ],
   "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Domino Data Lab",
-  "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534"
  },
  {
   "reason": "unsupported_ats",
@@ -3033,16 +2883,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "Waymo",
-  "title": "Quantitative Software Engineer Intern",
-  "locations": [
-   "SF",
-   "Mountain View, CA"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
- },
- {
-  "reason": "unsupported_ats",
   "company": "American Equity",
   "title": "Solutions Architecture Intern - AI",
   "locations": [
@@ -3171,15 +3011,6 @@
  {
   "reason": "unsupported_ats",
   "company": "Rivian",
-  "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "url": "https://careers.rivian.com/jobs/33746?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Rivian",
   "title": "Software Engineer Intern Co-op - Design Automation",
   "locations": [
    "Palo Alto, CA"
@@ -3212,26 +3043,6 @@
    "Plymouth, MN"
   ],
   "url": "https://eaton.eightfold.ai/careers/job/687239256112"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Rippling",
-  "title": "Software Engineer Intern - Backend Focused",
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "William Blair",
-  "title": "Application Development Intern - Multiple Teams",
-  "locations": [
-   "Chicago, IL"
-  ],
-  "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
  },
  {
   "reason": "unsupported_ats",
@@ -3425,15 +3236,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "John Deere",
-  "title": "Part-Time Student Intern",
-  "locations": [
-   "Champaign, IL"
-  ],
-  "url": "https://johndeere.eightfold.ai/careers/job/137483757988"
- },
- {
-  "reason": "unsupported_ats",
   "company": "DocuSign",
   "title": "Software Engineer Intern",
   "locations": [
@@ -3547,15 +3349,6 @@
  },
  {
   "reason": "unsupported_ats",
-  "company": "H&R Block",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Kansas City, MO"
-  ],
-  "url": "https://careers.hrblock.com/jobs/76987?icims=1"
- },
- {
-  "reason": "unsupported_ats",
   "company": "Meta",
   "title": "Manufacturing Test Engineer Intern - AI",
   "locations": [
@@ -3644,15 +3437,6 @@
    "NYC"
   ],
   "url": "https://apply.workable.com/rokt/j/616F2D0286/apply"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Ursa Major",
-  "title": "Software Development Intern",
-  "locations": [
-   "Berthoud, CO"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
  },
  {
   "reason": "unsupported_ats",

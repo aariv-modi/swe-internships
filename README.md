@@ -11,14 +11,14 @@ read directly from the company's own job board and refreshed automatically.
 - Postings disappear from this list when the company removes them from its job board.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 669 companies · updated 2026-10-23 10:01 UTC
+**1772 open roles** from 669 companies · updated 2026-10-23 11:02 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 78%)</summary>
 
-- Simplify's open US software internships: **1049**; also on this list: **656** (63%)
-- On job systems this scraper supports: **643 / 842** (76%); excluding 18 Simplify listings already closed on the company's own board: **78%**
-- Open roles here that Simplify doesn't list: **475**
-- Misses by reason: board_unreadable 2, filtered:location_unknown 4, filtered:not_internship 17, filtered:not_swe 69, filtered:not_swe_by_description 52, filtered:not_us 1, not_returned 36, stale_on_simplify 18, unsupported_ats 194
+- Simplify's open US software internships: **965**; also on this list: **596** (62%)
+- On job systems this scraper supports: **583 / 767** (76%); excluding 17 Simplify listings already closed on the company's own board: **78%**
+- Open roles here that Simplify doesn't list: **473**
+- Misses by reason: board_unreadable 2, filtered:location_unknown 5, filtered:not_internship 14, filtered:not_swe 65, filtered:not_swe_by_description 46, filtered:not_us 1, not_returned 34, stale_on_simplify 17, unsupported_ats 185
 
 </details>
 
