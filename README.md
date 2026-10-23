@@ -11,7 +11,7 @@ read directly from the company's own job board and refreshed automatically.
 - Postings disappear from this list when the company removes them from its job board.
 
 <!-- LISTINGS:START -->
-**1775 open roles** from 670 companies · updated 2026-10-23 06:39 UTC
+**1775 open roles** from 670 companies · updated 2026-10-23 07:02 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
