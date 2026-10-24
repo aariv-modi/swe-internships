@@ -1,14 +1,5 @@
 [
  {
-  "reason": "board_unknown",
-  "company": "Linkup",
-  "title": "Member of Technical Staff Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true"
- },
- {
   "reason": "board_unreadable",
   "company": "Atomic Semi",
   "title": "Infrastructure Software Engineering Intern",
@@ -1647,6 +1638,15 @@
    "San Jose, CA"
   ],
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Linkup",
+  "title": "Member of Technical Staff Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true"
  },
  {
   "reason": "filtered:not_us",

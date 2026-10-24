@@ -2407,6 +2407,16 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "ashby:fuel-cycle": {
+  "ats": "ashby",
+  "company": "Fuel Cycle",
+  "params": {
+   "board": "fuel-cycle"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "ashby:fundamentalresearchlabs": {
   "ats": "ashby",
   "company": "Fundamental Research Labs",
@@ -3654,6 +3664,16 @@
   "company": "Lindy",
   "params": {
    "board": "lindy"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "ashby:linkup": {
+  "ats": "ashby",
+  "company": "Linkup",
+  "params": {
+   "board": "linkup"
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
@@ -6026,6 +6046,16 @@
    "SimplifyJobs/Summer2027-Internships"
   ]
  },
+ "ashby:sola": {
+  "ats": "ashby",
+  "company": "Sola",
+  "params": {
+   "board": "sola"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "ashby:solace": {
   "ats": "ashby",
   "company": "Solace Health",
@@ -6537,7 +6567,8 @@
    "board": "tracelabs"
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "ashby:tracer": {
@@ -8440,6 +8471,16 @@
   "company": "Bevi",
   "params": {
    "board": "bevicareers"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
+ "greenhouse:beyondtrust": {
+  "ats": "greenhouse",
+  "company": "BeyondTrust",
+  "params": {
+   "board": "beyondtrust"
   },
   "sources": [
    "SimplifyJobs/New-Grad-Positions"
@@ -11211,7 +11252,8 @@
    "board": "glydways"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "greenhouse:gofundme": {
@@ -22196,6 +22238,17 @@
    "SimplifyJobs/New-Grad-Positions"
   ]
  },
+ "lever:auw": {
+  "ats": "lever",
+  "company": "Applied Underwriters",
+  "params": {
+   "board": "auw",
+   "eu": false
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "lever:aviahealth": {
   "ats": "lever",
   "company": "Avia Health",
@@ -22363,7 +22416,8 @@
    "eu": false
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "lever:brightmachines": {
@@ -24872,7 +24926,8 @@
    "eu": false
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "lever:simulmedia": {
@@ -25400,7 +25455,8 @@
    "eu": false
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "lever:valkyrietrading": {
@@ -28358,7 +28414,8 @@
    "company": "Bertelsmann-Jobs"
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "smartrecruiters:bet3651": {
@@ -32277,6 +32334,18 @@
    "host": "albemarle.wd5.myworkdayjobs.com",
    "tenant": "albemarle",
    "site": "ketjenexternal"
+  },
+  "sources": [
+   "SimplifyJobs/Summer2027-Internships"
+  ]
+ },
+ "workday:albertamotorassociation.wd3.myworkdayjobs.com/ama": {
+  "ats": "workday",
+  "company": "AMA",
+  "params": {
+   "host": "albertamotorassociation.wd3.myworkdayjobs.com",
+   "tenant": "albertamotorassociation",
+   "site": "ama"
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships"
@@ -41096,7 +41165,8 @@
   },
   "sources": [
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:hoganas.wd3.myworkdayjobs.com/careers": {
@@ -45353,7 +45423,8 @@
    "site": "secu"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:nebraskablue.wd1.myworkdayjobs.com/bcbsne": {

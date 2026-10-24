@@ -13,19 +13,20 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1777 open roles** from 664 companies · updated 2026-10-24 00:17 UTC
+**1778 open roles** from 664 companies · updated 2026-10-24 00:39 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
 - Simplify's open US software internships: **1263**; also on this list: **759** (60%)
 - On job systems this scraper supports: **742 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **477**
-- Misses by reason: board_unknown 1, board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 42, stale_on_simplify 15, unsupported_ats 268
+- Open roles here that Simplify doesn't list: **478**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 65, filtered:not_us 1, not_returned 42, stale_on_simplify 15, unsupported_ats 268
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Figure** | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 1d |
 | **ASML** | Platform Software Engineer In Test ( Internship) | San Jose, CA, USA, United States of America | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558) | 1d |
 | **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United States | — | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) | 1d |
 | **Skydio** | Embedded Software Engineer Intern - Winter 2027 | San Mateo, California, United States<br>Remote | Winter 2027 | [Apply](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366) | 1d |
@@ -1732,46 +1733,46 @@ read directly from the company's own job board and refreshed automatically.
 | **Neuralink** | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | — | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | 648d |
 | **Neuralink** | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | — | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) | 680d |
 | **Neuralink** | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | — | [Apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | 697d |
-| **Araglegal** | Test Automation Specialist Intern | Des Moines, IA, US | — | [Apply](https://careers-araglegal.icims.com/jobs/2572/test-automation-specialist-intern/job) | 731d |
-| **Wginc** | Intern - Geospatial AI Fall 2026 | Huntsville, AL, US | Fall 2026 | [Apply](https://careers-wginc.icims.com/jobs/3748/intern---geospatial-ai-fall-2026/job) | 731d |
-| **Iridium Communications** | Iridium Software Engineering Internship – Summer 2027 | <details><summary>4 locations</summary>McLean, VA, US<br>Tempe, AZ, US<br>Leesburg, VA, US<br>Chandler, AZ, US</details> | Summer 2027 | [Apply](https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job) | 731d |
-| **Careershub Shure** | Application Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4956/application-software-engineering-intern/job) | 731d |
-| **Careershub Shure** | Automated Test Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) | 731d |
-| **Careershub Shure** | Artificial Intelligence (AI) Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4966/artificial-intelligence-%28ai%29-engineering-intern/job) | 731d |
-| **Careershub Shure** | Cloud DevOps Engineer Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) | 731d |
-| **Careershub Shure** | Cloud Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job) | 731d |
-| **Careershub Shure** | Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4982/data-engineering-intern/job) | 731d |
-| **Careershub Shure** | Quality Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4995/quality-data-engineering-intern/job) | 731d |
-| **Careershub Shure** | Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job) | 731d |
-| **Careershub Shure** | Mobile Applications (Android) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job) | 731d |
-| **Careershub Shure** | Mobile Applications (iOS) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job) | 731d |
-| **Careershub Shure** | Embedded Software Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job) | 731d |
-| **Careershub Shure** | Application Software Development Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) | 731d |
-| **Careershub Shure** | Application Systems Development Intern (Motive Mix) | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job) | 731d |
-| **Corgan** | Software Development Internship \| Summer 2027 | Dallas, TX, US | Summer 2027 | [Apply](https://campus-us-corgan.icims.com/jobs/4109/software-development-internship-%7c-summer-2027/job) | 731d |
-| **Western & Southern Financial Group** | Artificial Intelligence Developer Intern (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job) | 731d |
-| **Western & Southern Financial Group** | Software Developer Intern (Agency Systems) (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job) | 731d |
-| **Western & Southern Financial Group** | Java Programming Intern (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25320/java-programming-intern-%28full-year-2027%29/job) | 731d |
-| **Shure** | Application Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4956/application-software-engineering-intern/job) | 731d |
-| **Shure** | Automated Test Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) | 731d |
-| **Shure** | Artificial Intelligence (AI) Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4966/artificial-intelligence-%28ai%29-engineering-intern/job) | 731d |
-| **Shure** | Cloud DevOps Engineer Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) | 731d |
-| **Shure** | Cloud Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job) | 731d |
-| **Shure** | Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4982/data-engineering-intern/job) | 731d |
-| **Shure** | Quality Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4995/quality-data-engineering-intern/job) | 731d |
-| **Shure** | Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job) | 731d |
-| **Shure** | Mobile Applications (Android) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job) | 731d |
-| **Shure** | Mobile Applications (iOS) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job) | 731d |
-| **Shure** | Embedded Software Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job) | 731d |
-| **Shure** | Application Software Development Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) | 731d |
-| **Shure** | Application Systems Development Intern (Motive Mix) | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job) | 731d |
-| **Cole Engineering Services** | AI Intern | Orlando, FL, US | — | [Apply](https://jobs-cesi.icims.com/jobs/11367/ai-intern/job) | 731d |
-| **IDEMIA** | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job) | 731d |
-| **IDEMIA** | Software Engineer Internship - Summer 2027 | Reston, US | Summer 2027 | [Apply](https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job) | 731d |
-| **IDEMIA** | Software Engineering Internship | Reston, VA, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8657/software-engineering-internship/job) | 731d |
-| **IDEMIA** | Service Platform Engineering Internship | Eden Prairie, MN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8677/service-platform-engineering-internship/job) | 731d |
-| **IDEMIA** | Device Platform Engineering Internship | Brentwood, TN, US<br>Remote, | — | [Apply](https://uscareers-idemia.icims.com/jobs/8678/device-platform-engineering-internship/job) | 731d |
-| **IDEMIA** | Cloud Software Engineering Internship | Reston, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job) | 731d |
+| **Araglegal** | Test Automation Specialist Intern | Des Moines, IA, US | — | [Apply](https://careers-araglegal.icims.com/jobs/2572/test-automation-specialist-intern/job) | 730d |
+| **Wginc** | Intern - Geospatial AI Fall 2026 | Huntsville, AL, US | Fall 2026 | [Apply](https://careers-wginc.icims.com/jobs/3748/intern---geospatial-ai-fall-2026/job) | 730d |
+| **Iridium Communications** | Iridium Software Engineering Internship – Summer 2027 | <details><summary>4 locations</summary>McLean, VA, US<br>Tempe, AZ, US<br>Leesburg, VA, US<br>Chandler, AZ, US</details> | Summer 2027 | [Apply](https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job) | 730d |
+| **Careershub Shure** | Application Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4956/application-software-engineering-intern/job) | 730d |
+| **Careershub Shure** | Automated Test Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) | 730d |
+| **Careershub Shure** | Artificial Intelligence (AI) Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4966/artificial-intelligence-%28ai%29-engineering-intern/job) | 730d |
+| **Careershub Shure** | Cloud DevOps Engineer Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) | 730d |
+| **Careershub Shure** | Cloud Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job) | 730d |
+| **Careershub Shure** | Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4982/data-engineering-intern/job) | 730d |
+| **Careershub Shure** | Quality Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4995/quality-data-engineering-intern/job) | 730d |
+| **Careershub Shure** | Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job) | 730d |
+| **Careershub Shure** | Mobile Applications (Android) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job) | 730d |
+| **Careershub Shure** | Mobile Applications (iOS) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job) | 730d |
+| **Careershub Shure** | Embedded Software Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job) | 730d |
+| **Careershub Shure** | Application Software Development Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) | 730d |
+| **Careershub Shure** | Application Systems Development Intern (Motive Mix) | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job) | 730d |
+| **Corgan** | Software Development Internship \| Summer 2027 | Dallas, TX, US | Summer 2027 | [Apply](https://campus-us-corgan.icims.com/jobs/4109/software-development-internship-%7c-summer-2027/job) | 730d |
+| **Western & Southern Financial Group** | Artificial Intelligence Developer Intern (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job) | 730d |
+| **Western & Southern Financial Group** | Software Developer Intern (Agency Systems) (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job) | 730d |
+| **Western & Southern Financial Group** | Java Programming Intern (Full Year 2027) | CINCINNATI, OH, US | 2027 | [Apply](https://careers-westernsouthern.icims.com/jobs/25320/java-programming-intern-%28full-year-2027%29/job) | 730d |
+| **Shure** | Application Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4956/application-software-engineering-intern/job) | 730d |
+| **Shure** | Automated Test Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) | 730d |
+| **Shure** | Artificial Intelligence (AI) Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4966/artificial-intelligence-%28ai%29-engineering-intern/job) | 730d |
+| **Shure** | Cloud DevOps Engineer Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) | 730d |
+| **Shure** | Cloud Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job) | 730d |
+| **Shure** | Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4982/data-engineering-intern/job) | 730d |
+| **Shure** | Quality Data Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4995/quality-data-engineering-intern/job) | 730d |
+| **Shure** | Software Engineering Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job) | 730d |
+| **Shure** | Mobile Applications (Android) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job) | 730d |
+| **Shure** | Mobile Applications (iOS) Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job) | 730d |
+| **Shure** | Embedded Software Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job) | 730d |
+| **Shure** | Application Software Development Intern | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) | 730d |
+| **Shure** | Application Systems Development Intern (Motive Mix) | Niles, IL, US | — | [Apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job) | 730d |
+| **Cole Engineering Services** | AI Intern | Orlando, FL, US | — | [Apply](https://jobs-cesi.icims.com/jobs/11367/ai-intern/job) | 730d |
+| **IDEMIA** | Software Engineering Internship - Enrollment and Credentialing Services | Brentwood, TN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job) | 730d |
+| **IDEMIA** | Software Engineer Internship - Summer 2027 | Reston, US | Summer 2027 | [Apply](https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job) | 730d |
+| **IDEMIA** | Software Engineering Internship | Reston, VA, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8657/software-engineering-internship/job) | 730d |
+| **IDEMIA** | Service Platform Engineering Internship | Eden Prairie, MN, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8677/service-platform-engineering-internship/job) | 730d |
+| **IDEMIA** | Device Platform Engineering Internship | Brentwood, TN, US<br>Remote, | — | [Apply](https://uscareers-idemia.icims.com/jobs/8678/device-platform-engineering-internship/job) | 730d |
+| **IDEMIA** | Cloud Software Engineering Internship | Reston, US | — | [Apply](https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job) | 730d |
 | **RESPEC** | Student Software Engineering Intern | Albuquerque, NM, United States | — | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000012676985) | 775d |
 | **Palantir Technologies** | Software Engineer, Internship | Denver, CO | — | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) | 786d |
 | **Cubist Systematic Strategies** | Quantitative Developer Intern | New York | — | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 792d |
