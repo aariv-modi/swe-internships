@@ -1,24 +1,6 @@
 [
  {
   "reason": "board_unreadable",
-  "company": "Axos Bank",
-  "title": "Automation Analyst Intern",
-  "locations": [
-   "San Diego, CA"
-  ],
-  "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507"
- },
- {
-  "reason": "board_unreadable",
-  "company": "University of Arkansas",
-  "title": "Graduate Research Assistant Intern",
-  "locations": [
-   "Little Rock, AR"
-  ],
-  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
- },
- {
-  "reason": "board_unreadable",
   "company": "Atomic Semi",
   "title": "Infrastructure Software Engineering Intern",
   "locations": [
@@ -26,18 +8,6 @@
    "Austin, TX"
   ],
   "url": "https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Travelers",
-  "title": "Engineering Development Intern",
-  "locations": [
-   "Hunt Valley, Cockeysville, MD",
-   "Hartford, CT",
-   "Atlanta, GA",
-   "St Paul, MN"
-  ],
-  "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270"
  },
  {
   "reason": "board_unreadable",
@@ -53,219 +23,49 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "GE Vernova",
-  "title": "Project Engineer Intern - Summer 2027",
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
- },
- {
-  "reason": "board_unreadable",
-  "company": "GE Vernova",
-  "title": "Project Engineer Intern - Summer 2027",
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Merck",
-  "title": "Computer Scientist Co-op - Agentic & Augmented Authoring Systems",
-  "locations": [
-   "West Point, PA"
-  ],
-  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857"
- },
- {
-  "reason": "board_unreadable",
-  "company": "RTX",
-  "title": "Systems Co-op",
-  "locations": [
-   "Cedar Rapids, IA"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Baird",
-  "title": "IT AI & Automation Intern",
-  "locations": [
-   "Milwaukee, WI"
-  ],
-  "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1"
- },
- {
-  "reason": "board_unreadable",
-  "company": "KBR",
-  "title": "Data Processing Systems Engineer Intern",
-  "locations": [
-   "Sioux Falls, SD"
-  ],
-  "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Vanguard",
-  "title": "Co-op - Multiple Teams",
-  "locations": [
-   "Dallas, TX"
-  ],
-  "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Delta Dental",
-  "title": "Knowledge Science Intern",
-  "locations": [
-   "Okemos, MI"
-  ],
-  "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101462"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Procter & Gamble",
-  "title": "R&D Intern - AI Research Engineer",
-  "locations": [
-   "Mason, OH"
-  ],
-  "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Allegion",
-  "title": "Digital Manufacturing Intern",
-  "locations": [
-   "Colorado Springs, CO"
-  ],
-  "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Motorola",
-  "title": "CPE Software End-to-End Triage Intern - Summer 2027",
-  "locations": [
-   "Plantation, FL"
-  ],
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Thrivent",
-  "title": "Application Engineer Intern - Investments",
-  "locations": [
-   "Minneapolis, MN"
-  ],
-  "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
- },
- {
-  "reason": "board_unreadable",
-  "company": "CACI",
-  "title": "AI Prompt Engineer Intern",
-  "locations": [
-   "Ashburn, VA"
-  ],
-  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Vanguard",
-  "title": "College to Corporate Investment Systems Intern",
-  "locations": [
-   "Malvern, PA"
-  ],
-  "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
- },
- {
-  "reason": "board_unreadable",
-  "company": "National Laboratory of the Rockies",
-  "title": "Undergraduate / Graduate Cyber Security Research Intern - 5G",
-  "locations": [
-   "Golden, CO"
-  ],
-  "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Leidos",
-  "title": "Business Systems AI Intern",
-  "locations": [
-   "Remote in USA"
-  ],
-  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
- },
- {
-  "reason": "board_unreadable",
-  "company": "The Aerospace Corporation",
-  "title": "Network Systems Graduate Intern",
-  "locations": [
-   "El Segundo, CA"
-  ],
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Aptiv",
+  "company": "Atlassian",
   "title": "Software Engineer Intern",
   "locations": [
-   "Walnut Creek, CA"
+   "Seattle, WA",
+   "SF"
   ],
-  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
+  "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
  },
  {
   "reason": "board_unreadable",
-  "company": "Aptiv",
-  "title": "Software Engineer Intern",
+  "company": "Western & Southern Financial Group",
+  "title": "Software Development Intern",
   "locations": [
-   "Walnut Creek, CA"
+   "Cincinnati, OH"
   ],
-  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
+  "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "board_unreadable",
-  "company": "Elanco",
-  "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern",
   "locations": [
-   "Indianapolis, IN"
+   "Scottsdale, AZ"
   ],
-  "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
+  "url": "https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "board_unreadable",
-  "company": "Arizona State University",
-  "title": "Student Web Developer & Content Specialist Intern",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
   "locations": [
-   "Tempe, AZ"
+   "Scottsdale, AZ"
   ],
-  "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546"
+  "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "board_unreadable",
-  "company": "NVIDIA",
-  "title": "Sparse Linear Algebra Libraries Intern",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software/Systems Engineering Intern",
   "locations": [
-   "Santa Clara, CA"
+   "Middletown, RI"
   ],
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
- },
- {
-  "reason": "board_unreadable",
-  "company": "University of Arkansas",
-  "title": "EAC Extra Help Assistant Intern",
-  "locations": [
-   "Little Rock, AR"
-  ],
-  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/EAC-Extra-Help-Assistant--Multiple-Open-Positions-_R0092584"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Humana",
-  "title": "Technology Intern - Society of Women Engineers Conference",
-  "locations": [
-   "Louisville, KY"
-  ],
-  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228"
+  "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "board_unreadable",
@@ -283,121 +83,12 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "BorgWarner",
-  "title": "EPMO Support Intern",
-  "locations": [
-   "Auburn Hills, MI"
-  ],
-  "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
- },
- {
-  "reason": "board_unreadable",
   "company": "Zebra Technologies",
   "title": "Mechanical Engineer Intern",
   "locations": [
    "Holtsville, NY"
   ],
   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
- },
- {
-  "reason": "board_unreadable",
-  "company": "ICF International",
-  "title": "Seasonal Associate Intern - Full Stack Developer",
-  "locations": [
-   "Remote in USA"
-  ],
-  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571"
- },
- {
-  "reason": "board_unreadable",
-  "company": "ICF International",
-  "title": "Full-Stack Developer Intern",
-  "locations": [
-   "Remote in USA"
-  ],
-  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
- },
- {
-  "reason": "board_unreadable",
-  "company": "General Dynamics Information Technology",
-  "title": "AI and Estimation Intern",
-  "locations": [
-   "Falls Church, VA"
-  ],
-  "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Brookhaven Lab",
-  "title": "Data Engineering Student Assistant Intern",
-  "locations": [
-   "Upton, Brookhaven, NY"
-  ],
-  "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Synchrony Financial",
-  "title": "Digital Technology Center Intern",
-  "locations": [
-   "Stamford, CT"
-  ],
-  "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Adobe",
-  "title": "AI & Architecture Intern",
-  "locations": [
-   "San Jose, CA"
-  ],
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Citi",
-  "title": "Technology Summer Analyst Intern - Application Development",
-  "locations": [
-   "Tampa, FL"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Citi",
-  "title": "Technology Summer Analyst Intern - Application Development",
-  "locations": [
-   "Irving, TX"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Citi",
-  "title": "Technology Summer Analyst Intern - Production Support",
-  "locations": [
-   "Tampa, FL"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Citi",
-  "title": "Technology Analyst Intern - Application Development",
-  "locations": [
-   "Jacksonville, FL"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Citi",
-  "title": "Technology Summer Analyst Intern - Application Development",
-  "locations": [
-   "Jersey City, NJ",
-   "NYC"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
  },
  {
   "reason": "filtered:location_unknown",
@@ -564,6 +255,24 @@
  },
  {
   "reason": "filtered:not_internship",
+  "company": "CACI",
+  "title": "AI Prompt Engineer Intern",
+  "locations": [
+   "Ashburn, VA"
+  ],
+  "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Arizona State University",
+  "title": "Student Web Developer & Content Specialist Intern",
+  "locations": [
+   "Tempe, AZ"
+  ],
+  "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546"
+ },
+ {
+  "reason": "filtered:not_internship",
   "company": "Ann & Robert H. Lurie Children’s Hospital of Chicago",
   "title": "Research Student Assistant-Behavioral Health Intern",
   "locations": [
@@ -573,12 +282,48 @@
  },
  {
   "reason": "filtered:not_internship",
+  "company": "University of Arkansas",
+  "title": "EAC Extra Help Assistant Intern",
+  "locations": [
+   "Little Rock, AR"
+  ],
+  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/EAC-Extra-Help-Assistant--Multiple-Open-Positions-_R0092584"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "ICF International",
+  "title": "Seasonal Associate Intern - Full Stack Developer",
+  "locations": [
+   "Remote in USA"
+  ],
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "ICF International",
+  "title": "Full-Stack Developer Intern",
+  "locations": [
+   "Remote in USA"
+  ],
+  "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
+ },
+ {
+  "reason": "filtered:not_internship",
   "company": "Colibri Group",
   "title": "Product Builder Returnship Intern",
   "locations": [
    "Pleasanton, CA"
   ],
   "url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Brookhaven Lab",
+  "title": "Data Engineering Student Assistant Intern",
+  "locations": [
+   "Upton, Brookhaven, NY"
+  ],
+  "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753"
  },
  {
   "reason": "filtered:not_internship",
@@ -597,6 +342,61 @@
    "Irvine, CA"
   ],
   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Tampa, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Irving, TX"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Production Support",
+  "locations": [
+   "Tampa, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Analyst Intern - Application Development",
+  "locations": [
+   "Jacksonville, FL"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
+ },
+ {
+  "reason": "filtered:not_internship",
+  "company": "Citi",
+  "title": "Technology Summer Analyst Intern - Application Development",
+  "locations": [
+   "Jersey City, NJ",
+   "NYC"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Axos Bank",
+  "title": "Automation Analyst Intern",
+  "locations": [
+   "San Diego, CA"
+  ],
+  "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507"
  },
  {
   "reason": "filtered:not_swe",
@@ -807,6 +607,33 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "GE Vernova",
+  "title": "Project Engineer Intern - Summer 2027",
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "GE Vernova",
+  "title": "Project Engineer Intern - Summer 2027",
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Merck",
+  "title": "Computer Scientist Co-op - Agentic & Augmented Authoring Systems",
+  "locations": [
+   "West Point, PA"
+  ],
+  "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Pilot Company",
   "title": "Process Automation Intern - Process Automation",
   "locations": [
@@ -870,6 +697,24 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "KBR",
+  "title": "Data Processing Systems Engineer Intern",
+  "locations": [
+   "Sioux Falls, SD"
+  ],
+  "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Vanguard",
+  "title": "Co-op - Multiple Teams",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Lennox International",
   "title": "IoT Intern",
   "locations": [
@@ -894,6 +739,42 @@
    "Madison, WI"
   ],
   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Web-Develper-Intern_R39373"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Delta Dental",
+  "title": "Knowledge Science Intern",
+  "locations": [
+   "Okemos, MI"
+  ],
+  "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101462"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Allegion",
+  "title": "Digital Manufacturing Intern",
+  "locations": [
+   "Colorado Springs, CO"
+  ],
+  "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Motorola",
+  "title": "CPE Software End-to-End Triage Intern - Summer 2027",
+  "locations": [
+   "Plantation, FL"
+  ],
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Thrivent",
+  "title": "Application Engineer Intern - Investments",
+  "locations": [
+   "Minneapolis, MN"
+  ],
+  "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
  },
  {
   "reason": "filtered:not_swe",
@@ -981,6 +862,15 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "National Laboratory of the Rockies",
+  "title": "Undergraduate / Graduate Cyber Security Research Intern - 5G",
+  "locations": [
+   "Golden, CO"
+  ],
+  "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Astera Labs",
   "title": "Applied AI Intern - Non-Silicon",
   "locations": [
@@ -996,6 +886,15 @@
    "Canton, MS"
   ],
   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "Elanco",
+  "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+  "locations": [
+   "Indianapolis, IN"
+  ],
+  "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
  },
  {
   "reason": "filtered:not_swe",
@@ -1026,6 +925,15 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "NVIDIA",
+  "title": "Sparse Linear Algebra Libraries Intern",
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Groma",
   "title": "Finance Systems Co-op",
   "locations": [
@@ -1035,12 +943,30 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Humana",
+  "title": "Technology Intern - Society of Women Engineers Conference",
+  "locations": [
+   "Louisville, KY"
+  ],
+  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Palantir",
   "title": "Meritocracy Fellow",
   "locations": [
    "NYC"
   ],
   "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply"
+ },
+ {
+  "reason": "filtered:not_swe",
+  "company": "BorgWarner",
+  "title": "EPMO Support Intern",
+  "locations": [
+   "Auburn Hills, MI"
+  ],
+  "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
  },
  {
   "reason": "filtered:not_swe",
@@ -1269,6 +1195,18 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Travelers",
+  "title": "Engineering Development Intern",
+  "locations": [
+   "Hunt Valley, Cockeysville, MD",
+   "Hartford, CT",
+   "Atlanta, GA",
+   "St Paul, MN"
+  ],
+  "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Edison International",
   "title": "Computer Science Intern",
   "locations": [
@@ -1352,6 +1290,15 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "RTX",
+  "title": "Systems Co-op",
+  "locations": [
+   "Cedar Rapids, IA"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Federated Insurance",
   "title": "IT Intern",
   "locations": [
@@ -1397,6 +1344,15 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Baird",
+  "title": "IT AI & Automation Intern",
+  "locations": [
+   "Milwaukee, WI"
+  ],
+  "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Huntington Ingalls Industries",
   "title": "Computer Engineering Intern",
   "locations": [
@@ -1430,6 +1386,15 @@
    "Memphis, TN"
   ],
   "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Procter & Gamble",
+  "title": "R&D Intern - AI Research Engineer",
+  "locations": [
+   "Mason, OH"
+  ],
+  "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1496,6 +1461,15 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Vanguard",
+  "title": "College to Corporate Investment Systems Intern",
+  "locations": [
+   "Malvern, PA"
+  ],
+  "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Navy Federal",
   "title": "Associate Intern - Lending Automation Technology & Solutions",
   "locations": [
@@ -1515,6 +1489,24 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "Leidos",
+  "title": "Business Systems AI Intern",
+  "locations": [
+   "Remote in USA"
+  ],
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "The Aerospace Corporation",
+  "title": "Network Systems Graduate Intern",
+  "locations": [
+   "El Segundo, CA"
+  ],
+  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Rockwell Automation",
   "title": "Customer Response Engineer Intern",
   "locations": [
@@ -1530,6 +1522,24 @@
    "Mayfield Heights, OH"
   ],
   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Aptiv",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Walnut Creek, CA"
+  ],
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Aptiv",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Walnut Creek, CA"
+  ],
+  "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1596,6 +1606,15 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "General Dynamics Information Technology",
+  "title": "AI and Estimation Intern",
+  "locations": [
+   "Falls Church, VA"
+  ],
+  "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "OpenSesame",
   "title": "AI Product Builder Intern",
   "locations": [
@@ -1629,6 +1648,24 @@
    "Norcross, GA"
   ],
   "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Synchrony Financial",
+  "title": "Digital Technology Center Intern",
+  "locations": [
+   "Stamford, CT"
+  ],
+  "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Adobe",
+  "title": "AI & Architecture Intern",
+  "locations": [
+   "San Jose, CA"
+  ],
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1705,6 +1742,15 @@
    "Austin, TX"
   ],
   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725"
+ },
+ {
+  "reason": "not_returned",
+  "company": "University of Arkansas",
+  "title": "Graduate Research Assistant Intern",
+  "locations": [
+   "Little Rock, AR"
+  ],
+  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
  },
  {
   "reason": "not_returned",
@@ -1802,16 +1848,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Atlassian",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Seattle, WA",
-   "SF"
-  ],
-  "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
- },
- {
-  "reason": "not_returned",
   "company": "Apogee Engineering",
   "title": "Systems Engineer Apprentice",
   "locations": [
@@ -1845,6 +1881,24 @@
    "Austin, TX"
   ],
   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Steel Dynamics",
+  "title": "Software Development Intern",
+  "locations": [
+   "Columbus, MS"
+  ],
+  "url": "https://careers-steeldynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Steel Dynamics",
+  "title": "Software Development Intern",
+  "locations": [
+   "Columbus, MS"
+  ],
+  "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "not_returned",
@@ -1938,6 +1992,15 @@
    "Milwaukee, WI"
   ],
   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+ },
+ {
+  "reason": "not_returned",
+  "company": "SAS",
+  "title": "Software Development and Testing Intern",
+  "locations": [
+   "Cary, NC"
+  ],
+  "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "not_returned",
@@ -2067,39 +2130,12 @@
  },
  {
   "reason": "stale_on_simplify",
-  "company": "Western & Southern Financial Group",
-  "title": "Software Development Intern",
-  "locations": [
-   "Cincinnati, OH"
-  ],
-  "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
   "company": "Rockefeller Capital Management",
   "title": "Analyst Intern - Core Platforms",
   "locations": [
    "Hamilton Township, NJ"
   ],
   "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Steel Dynamics",
-  "title": "Software Development Intern",
-  "locations": [
-   "Columbus, MS"
-  ],
-  "url": "https://careers-steeldynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "Steel Dynamics",
-  "title": "Software Development Intern",
-  "locations": [
-   "Columbus, MS"
-  ],
-  "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "stale_on_simplify",
@@ -2130,15 +2166,6 @@
  },
  {
   "reason": "stale_on_simplify",
-  "company": "General Dynamics Mission Systems",
-  "title": "Systems Engineer Intern",
-  "locations": [
-   "Scottsdale, AZ"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
   "company": "General Dynamics",
   "title": "Information Technology Intern - Software Engineering - Computer Science",
   "locations": [
@@ -2152,30 +2179,12 @@
  },
  {
   "reason": "stale_on_simplify",
-  "company": "General Dynamics Mission Systems",
-  "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
+  "company": "RTX",
+  "title": "Software Engineer Co-op",
   "locations": [
-   "Scottsdale, AZ"
+   "Aurora, CO"
   ],
-  "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "SAS",
-  "title": "Software Development and Testing Intern",
-  "locations": [
-   "Cary, NC"
-  ],
-  "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "stale_on_simplify",
-  "company": "General Dynamics Mission Systems",
-  "title": "Software/Systems Engineering Intern",
-  "locations": [
-   "Middletown, RI"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
+  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452"
  },
  {
   "reason": "stale_on_simplify",
@@ -4160,15 +4169,6 @@
    "Colorado Springs, CO"
   ],
   "url": "https://jobs.keysight.com/jobs/54724?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Boston Scientific",
-  "title": "Equipment Engineering Software Engineer Intern",
-  "locations": [
-   "Maple Grove, MN"
-  ],
-  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
  },
  {
   "reason": "unsupported_ats",

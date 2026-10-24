@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 661 companies · updated 2026-10-24 08:01 UTC
+**1772 open roles** from 661 companies · updated 2026-10-24 09:06 UTC
 
-<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
+<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 76%)</summary>
 
-- Simplify's open US software internships: **1258**; also on this list: **755** (60%)
-- On job systems this scraper supports: **738 / 974** (76%); excluding 17 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **476**
-- Misses by reason: board_unreadable 43, filtered:location_unknown 6, filtered:not_internship 14, filtered:not_swe 63, filtered:not_swe_by_description 52, filtered:not_us 1, not_returned 40, stale_on_simplify 17, unsupported_ats 267
+- Simplify's open US software internships: **1254**; also on this list: **751** (60%)
+- On job systems this scraper supports: **734 / 971** (76%); excluding 11 Simplify listings already closed on the company's own board: **76%**
+- Open roles here that Simplify doesn't list: **477**
+- Misses by reason: board_unreadable 9, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 78, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 43, stale_on_simplify 11, unsupported_ats 266
 
 </details>
 
@@ -369,7 +369,6 @@ read directly from the company's own job board and refreshed automatically.
 | **CoStar Group** | Security Engineer Intern - Arlington, VA | US-VA Arlington, United States of America | — | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) | 4d |
 | **Elevance Health** | Engineering Graduate Intern - Summer 2027 | <details><summary>4 locations</summary>GA-ATLANTA, 740 W PEACHTREE ST NW, United States of America<br>VA-RICHMOND, 2015 STAPLES MILL RD,, United States of America<br>IN-INDIANAPOLIS, 220 VIRGINIA AVE, United States of America<br>IL-CHICAGO, 233 S WACKER DR, STE 3700, United States of America</details> | Summer 2027 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082) | 4d |
 | **Elevance Health** | Engineering Undergraduate Intern - Summer 2027 | <details><summary>4 locations</summary>GA-ATLANTA, 740 W PEACHTREE ST NW, United States of America<br>VA-RICHMOND, 2015 STAPLES MILL RD,, United States of America<br>IN-INDIANAPOLIS, 220 VIRGINIA AVE, United States of America<br>IL-CHICAGO, 233 S WACKER DR, STE 3700, United States of America</details> | Summer 2027 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081) | 4d |
-| **RTX** | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, United States of America | Co-op | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) | 4d |
 | **Juniper Networks** | Embedded Software Engineering Intern | Roseville, California, United States of America | — | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088) | 4d |
 | **Intel Corporation** | AI Data Science / Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro, United States of America | 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) | 4d |
 | **Intel Corporation** | AI Data Science / Software Engineering PhD Intern New 2027 | US, California, Santa Clara, United States of America | 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | 4d |
@@ -586,9 +585,6 @@ read directly from the company's own job board and refreshed automatically.
 | **TIAA** | 2027 Early Talent Internship: Technology | Charlotte, NC, USA, United States of America | 2027 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Technology_R261000111) | 12d |
 | **L3Harris Technologies** | Software Engineering Intern | Rochester, NY, US, 14610-1839 | — | [Apply](https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610-1839/1409213300/) | 14d |
 | **L3Harris Technologies** | Software Engineering Intern (Rochester, NY) | Rochester, NY, US, 14610-1839 | — | [Apply](https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-%28Rochester%2C-NY%29-NY-14610-1839/1413277600/) | 14d |
-| **Workday** | Machine Learning Engineer Intern | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) | 14d |
-| **Workday** | Software Application Development Engineer Intern | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) | 14d |
-| **Workday** | Software Development Engineer Intern | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810) | 14d |
 | **Coinbase** | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | — | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | 15d |
 | **Sagesure** | Software Engineer Intern | Chicago, Illinois, United States; Jersey City, New Jersey, United States; Mountain View, California, United States | — | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006) | 15d |
 | **Flyzipline** | Firmware Engineer Intern (Spring 2027) | South San Francisco, California, USA | Spring 2027 | [Apply](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) | 15d |
@@ -627,6 +623,10 @@ read directly from the company's own job board and refreshed automatically.
 | **Nelnet** | 2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027 | Madison, WI, United States of America<br>Centennial, CO, United States of America | Summer 2026, Summer 2027 | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106) | 15d |
 | **paloaltonetworks** | Intern - Software Engineer (Master's) EG | Office - USA - CA - Headquarters, United States of America | — | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384) | 15d |
 | **Parsons** | Software Engineer Co-Op - TS/SCI | US - VA, Centreville, United States of America | Co-op | [Apply](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) | 15d |
+| **Workday** | Cybersecurity Engineer Intern | USA, CA, Pleasanton, United States of America | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809) | 15d |
+| **Workday** | Machine Learning Engineer Intern | USA, CA, Pleasanton, United States of America | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) | 15d |
+| **Workday** | Software Application Development Engineer Intern | USA, CA, Pleasanton, United States of America | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) | 15d |
+| **Workday** | Software Development Engineer Intern | USA, CA, Pleasanton, United States of America | — | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810) | 15d |
 | **Hubcareers Docusign** | Software Engineer Intern | Seattle, WA, US | — | [Apply](https://uscareers-docusign.icims.com/jobs/30478/software-engineer-intern/job) | 16d |
 | **General Dynamics Mission Systems** | Software Engineer – Intern Conversion | Ft. Wayne, IN, US | — | [Apply](https://careers-gdms.icims.com/jobs/75159/software-engineer-%e2%80%93-intern-conversion/job) | 16d |
 | **Peraton** | Summer 2027 Software Development Intern- Topeka, KS | Topeka, KS, US | Summer 2027 | [Apply](https://careers-peraton.icims.com/jobs/172061/summer-2027-software-development-intern--topeka%2c-ks/job) | 16d |
@@ -967,7 +967,7 @@ read directly from the company's own job board and refreshed automatically.
 | **KLA** | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA, United States of America | — | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) | 32d |
 | **KLA** | Software Engineering Intern (C++, Unix) | Milpitas, CA, United States of America | — | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 32d |
 | **Stryker** | Summer 2027 Internship - Data Engineering - Indiana | Fort Wayne, Indiana, United States of America | Summer 2027 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | 32d |
-| **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto | — | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158) | 32d |
+| **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto, United States of America | — | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158) | 32d |
 | **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto, United States of America | — | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1) | 32d |
 | **Epicgames** | Engine Programmer Intern | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) | 33d |
 | **Iqt** | Engineering Intern, Rapid Prototyping Group | McLean, VA, US | — | [Apply](https://careers-iqt.icims.com/jobs/1457/engineering-intern%2c-rapid-prototyping-group/job) | 33d |
