@@ -11,33 +11,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "University of St. Thomas",
-  "title": "Digital Innovation & Learning Technology Intern",
-  "locations": [
-   "St Paul, MN"
-  ],
-  "url": "https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Framatome",
-  "title": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical",
-  "locations": [
-   "Richland, WA"
-  ],
-  "url": "https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Framatome",
-  "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
-  "locations": [
-   "Lynchburg, VA"
-  ],
-  "url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
   "company": "WhatNot",
   "title": "Software Engineer Intern",
   "locations": [
@@ -57,78 +30,6 @@
    "SF"
   ],
   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Apogee Engineering",
-  "title": "Systems Engineer Apprentice",
-  "locations": [
-   "Wright-Patterson AFB, OH"
-  ],
-  "url": "https://careers-apogeeusa.icims.com/jobs/1438/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Star Dental Partners",
-  "title": "Imaging Tech Student",
-  "locations": [
-   "Guntersville, AL"
-  ],
-  "url": "https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Steel Dynamics",
-  "title": "Software Development Intern",
-  "locations": [
-   "Columbus, MS"
-  ],
-  "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Federated Insurance",
-  "title": "IT Intern",
-  "locations": [
-   "Owatonna, MN"
-  ],
-  "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "General Dynamics Mission Systems",
-  "title": "Systems Engineer Intern",
-  "locations": [
-   "Scottsdale, AZ"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "General Dynamics Mission Systems",
-  "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
-  "locations": [
-   "Scottsdale, AZ"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "Dayton Freight Lines",
-  "title": "Business Intelligence Intern",
-  "locations": [
-   "Dayton, OH"
-  ],
-  "url": "https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "board_unreadable",
-  "company": "General Dynamics Mission Systems",
-  "title": "Software/Systems Engineering Intern",
-  "locations": [
-   "Middletown, RI"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "board_unreadable",
@@ -907,6 +808,15 @@
  },
  {
   "reason": "filtered:not_swe",
+  "company": "Dayton Freight Lines",
+  "title": "Business Intelligence Intern",
+  "locations": [
+   "Dayton, OH"
+  ],
+  "url": "https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "filtered:not_swe",
   "company": "Micron Technology",
   "title": "SSD Architecture Modeling Intern",
   "locations": [
@@ -1193,6 +1103,24 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "University of St. Thomas",
+  "title": "Digital Innovation & Learning Technology Intern",
+  "locations": [
+   "St Paul, MN"
+  ],
+  "url": "https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Framatome",
+  "title": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical",
+  "locations": [
+   "Richland, WA"
+  ],
+  "url": "https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Ecolab",
   "title": "Digital & AI Technology Intern",
   "locations": [
@@ -1219,6 +1147,15 @@
    "Kansas City, MO"
   ],
   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Framatome",
+  "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
+  "locations": [
+   "Lynchburg, VA"
+  ],
+  "url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1323,6 +1260,15 @@
    "Cedar Rapids, IA"
   ],
   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Federated Insurance",
+  "title": "IT Intern",
+  "locations": [
+   "Owatonna, MN"
+  ],
+  "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "filtered:not_swe_by_description",
@@ -1857,21 +1803,30 @@
  },
  {
   "reason": "not_returned",
-  "company": "Springs Window Fashions",
-  "title": "Software Engineering Intern - Summer 2027",
-  "locations": [
-   "Long Island City, Queens, NY"
-  ],
-  "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
- },
- {
-  "reason": "not_returned",
   "company": "Aerotech",
   "title": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
   "locations": [
    "Pittsburgh, PA"
   ],
   "url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Apogee Engineering",
+  "title": "Systems Engineer Apprentice",
+  "locations": [
+   "Wright-Patterson AFB, OH"
+  ],
+  "url": "https://careers-apogeeusa.icims.com/jobs/1438/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "not_returned",
+  "company": "Star Dental Partners",
+  "title": "Imaging Tech Student",
+  "locations": [
+   "Guntersville, AL"
+  ],
+  "url": "https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "not_returned",
@@ -2139,6 +2094,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "Steel Dynamics",
+  "title": "Software Development Intern",
+  "locations": [
+   "Columbus, MS"
+  ],
+  "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "Rockefeller Capital Management",
   "title": "Summer Analyst Intern - Core Platforms",
   "locations": [
@@ -2166,6 +2130,15 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Systems Engineer Intern",
+  "locations": [
+   "Scottsdale, AZ"
+  ],
+  "url": "https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "General Dynamics",
   "title": "Information Technology Intern - Software Engineering - Computer Science",
   "locations": [
@@ -2179,12 +2152,30 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
+  "locations": [
+   "Scottsdale, AZ"
+  ],
+  "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "SAS",
   "title": "Software Development and Testing Intern",
   "locations": [
    "Cary, NC"
   ],
   "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "General Dynamics Mission Systems",
+  "title": "Software/Systems Engineering Intern",
+  "locations": [
+   "Middletown, RI"
+  ],
+  "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "stale_on_simplify",
@@ -3863,6 +3854,15 @@
  },
  {
   "reason": "unsupported_ats",
+  "company": "William Blair",
+  "title": "Application Development Intern - Multiple Teams",
+  "locations": [
+   "Chicago, IL"
+  ],
+  "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
+ },
+ {
+  "reason": "unsupported_ats",
   "company": "Keysight Technologies",
   "title": "Semiconductor Systems Automation Intern",
   "locations": [
@@ -4160,6 +4160,15 @@
    "Atlanta, GA"
   ],
   "url": "https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Electronic Arts",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Orlando, FL"
+  ],
+  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251"
  },
  {
   "reason": "unsupported_ats",
