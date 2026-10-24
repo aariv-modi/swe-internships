@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1779 open roles** from 664 companies · updated 2026-10-24 03:39 UTC
+**1776 open roles** from 661 companies · updated 2026-10-24 04:44 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1263**; also on this list: **759** (60%)
-- On job systems this scraper supports: **742 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **478**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 66, filtered:not_us 1, not_returned 41, stale_on_simplify 15, unsupported_ats 268
+- Simplify's open US software internships: **1261**; also on this list: **758** (60%)
+- On job systems this scraper supports: **741 / 976** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **477**
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 41, stale_on_simplify 16, unsupported_ats 268
 
 </details>
 
@@ -461,7 +461,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Ryan** | Summer 2027 Intern, Application Development | Plano, United States of America | Summer 2027 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820) | 8d |
 | **Ryan** | Summer 2027 Intern, Software Development | Plano, United States of America | Summer 2027 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822) | 8d |
 | **Ryan** | Summer 2027 Intern, Software Engineering | Plano, United States of America | Summer 2027 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843) | 8d |
-| **Sanofi** | 2027 Spring Co op Biologics Design and AI Cambridge MA | Cambridge, MA, United States of America | Spring 2027 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337) | 8d |
 | **RoviSys** | Engineering Co-op - Spring 2027 | Dublin, OH, US | Spring 2027 | [Apply](https://careers-rovisys.icims.com/jobs/2191/engineering-co-op---spring-2027/job) | 9d |
 | **RoviSys** | Engineering Co-op - Summer 2027 | Dublin, OH, US | Summer 2027 | [Apply](https://careers-rovisys.icims.com/jobs/2192/engineering-co-op---summer-2027/job) | 9d |
 | **Susquehanna International Group (SIG)** | Business Analytics AI Co-op with Drexel University | Bala Cynwyd (Philadelphia Area), PA, US | Co-op | [Apply](https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job) | 9d |
@@ -648,7 +647,6 @@ read directly from the company's own job board and refreshed automatically.
 | **General Motors** | 2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's) | Sunnyvale, California, United States of America | Summer 2027 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) | 16d |
 | **Gordon Food Service** | Software Engineer Intern (Transportation Routing ) | Wyoming, Michigan, United States of America | — | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374) | 16d |
 | **HCSC** | Early Careers - Security Engineering Senior Intern | TX - Richardson, United States of America | — | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512) | 16d |
-| **Humana** | Humana Technology Internship – Summer 2027 | Louisville, KY, United States of America | Summer 2027 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) | 16d |
 | **Intel Corporation** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro, United States of America | — | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | 16d |
 | **Kudu Dynamics** | Systems, Integration and Software Engineer Intern | Atlantic City, NJ, United States of America | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152) | 16d |
 | **Modernizing Medicine** | Software Engineering Intern | Boca Raton, FL, United States of America | — | [Apply](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148) | 16d |
@@ -1030,7 +1028,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Gordon Food Service** | Data Engineering Internship | Atlanta, Georgia, United States of America | — | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) | 37d |
 | **Marvell** | SRAM Software Engineer Intern, BS - Summer 2027 | Burlington, VT, United States of America | Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760) | 37d |
 | **Marvell** | SRAM Software Engineer Intern, BS - Summer 2027 | Burlington, VT, United States of America | Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1) | 37d |
-| **General Dynamics** | Information Technology, Software Engineering, & Computer Science - 2027 Summer Internship | Groton, CT, US | Summer 2027 | [Apply](https://careers-gdeb.icims.com/jobs/20341/information-technology%2c-software-engineering%2c-%26-computer-science---2027-summer-internship/job) | 38d |
 | **General Dynamics Mission Systems** | Cybersecurity Software Intern Engineer | Manassas, VA, US | — | [Apply](https://careers-gdms.icims.com/jobs/74941/cybersecurity-software-intern-engineer/job) | 38d |
 | **Enterprise Mobility** | Intern - Software Engineer, Summer 2027 | St. Louis, MO, US | Summer 2027 | [Apply](https://us-erac.icims.com/jobs/566721/intern---software-engineer%2c-summer-2027/job) | 38d |
 | **Antares Nuclear** | Reactor Software Engineering Intern - Summer 2027 | Los Angeles, USA | Summer 2027 | [Apply](https://jobs.ashbyhq.com/antares/419ef2df-f0aa-4b68-994a-077e08a959e3) | 38d |

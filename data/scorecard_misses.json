@@ -1524,24 +1524,6 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
-  "company": "Verizon Communications",
-  "title": "Call Routing Optimization Engineer Intern",
-  "locations": [
-   "Basking Ridge, Bernards, NJ"
-  ],
-  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "Verizon Communications",
-  "title": "Call Routing Optimization Engineering Intern",
-  "locations": [
-   "Basking Ridge, Bernards, NJ"
-  ],
-  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
- },
- {
-  "reason": "filtered:not_swe_by_description",
   "company": "K1",
   "title": "AI Intern",
   "locations": [
@@ -2154,6 +2136,19 @@
    "Scottsdale, AZ"
   ],
   "url": "https://careers-gdms.icims.com/jobs/74773/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "General Dynamics",
+  "title": "Information Technology Intern - Software Engineering - Computer Science",
+  "locations": [
+   "Newport, RI",
+   "New London, CT",
+   "North Kingstown, RI",
+   "North Stonington, CT",
+   "Groton, CT"
+  ],
+  "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false"
  },
  {
   "reason": "stale_on_simplify",
