@@ -1976,6 +1976,15 @@
  },
  {
   "reason": "not_returned",
+  "company": "Rhombus",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Sacramento, CA"
+  ],
+  "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply"
+ },
+ {
+  "reason": "not_returned",
   "company": "onsemi",
   "title": "Manufacturing AI Engineering Intern",
   "locations": [
