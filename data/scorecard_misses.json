@@ -23,17 +23,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "Citizens Financial Group",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Plano, TX",
-   "Johnston, RI",
-   "Phoenix, AZ"
-  ],
-  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
- },
- {
-  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -1904,12 +1893,14 @@
  },
  {
   "reason": "not_returned",
-  "company": "NOV",
-  "title": "Software Engineer Intern - Rig Technologies",
+  "company": "Citizens Financial Group",
+  "title": "Software Engineer Intern",
   "locations": [
-   "Houston, TX"
+   "Plano, TX",
+   "Johnston, RI",
+   "Phoenix, AZ"
   ],
-  "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"
+  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
  },
  {
   "reason": "not_returned",

@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1778 open roles** from 663 companies · updated 2026-10-24 02:39 UTC
+**1779 open roles** from 664 companies · updated 2026-10-24 03:39 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1263**; also on this list: **758** (60%)
-- On job systems this scraper supports: **741 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
+- Simplify's open US software internships: **1263**; also on this list: **759** (60%)
+- On job systems this scraper supports: **742 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **478**
-- Misses by reason: board_unreadable 4, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 66, filtered:not_us 1, not_returned 41, stale_on_simplify 15, unsupported_ats 268
+- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 66, filtered:not_us 1, not_returned 41, stale_on_simplify 15, unsupported_ats 268
 
 </details>
 
@@ -1060,6 +1060,7 @@ read directly from the company's own job board and refreshed automatically.
 | **General Dynamics Mission Systems** | Intern Engineer - Software Engineering | Bloomington, MN, US | — | [Apply](https://careers-gdms.icims.com/jobs/74953/intern-engineer---software-engineering/job) | 39d |
 | **Susquehanna International Group (SIG)** | Technology Co-op with Northeastern University | Bala Cynwyd (Philadelphia Area), PA, US | Co-op | [Apply](https://careers-sig.icims.com/jobs/11377/technology-co-op-with-northeastern-university/job) | 39d |
 | **Texas Instruments** | Information Technology Intern – Data Engineering | Dallas, TX, United States | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) | 39d |
+| **NOV** | Software Engineering Intern | Houston, TX, United States | — | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449) | 39d |
 | **Emerson Electric** | Software Engineering Intern - ADG System R&D | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230) | 39d |
 | **Emerson Electric** | Software Engineering Intern | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928) | 39d |
 | **Interco** | Paid Internship -- Software Development -- React | St. Louis, MO, United States | — | [Apply](https://jobs.smartrecruiters.com/Interco/744000149591449) | 39d |
