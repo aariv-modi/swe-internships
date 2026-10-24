@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 661 companies · updated 2026-10-24 10:35 UTC
+**1772 open roles** from 661 companies · updated 2026-10-24 11:36 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1256**; also on this list: **752** (60%)
-- On job systems this scraper supports: **735 / 972** (76%); excluding 18 Simplify listings already closed on the company's own board: **77%**
+- Simplify's open US software internships: **1257**; also on this list: **752** (60%)
+- On job systems this scraper supports: **735 / 973** (76%); excluding 18 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **478**
-- Misses by reason: board_unreadable 5, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 78, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 40, stale_on_simplify 18, unsupported_ats 267
+- Misses by reason: board_unreadable 14, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 68, filtered:not_swe_by_description 65, filtered:not_us 1, not_returned 41, stale_on_simplify 18, unsupported_ats 267
 
 </details>
 
@@ -340,7 +340,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Rakuten International** | Intern - Software Engineer, AI User Experience | WA-Bellevue, United States of America | — | [Apply](https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/WA-Bellevue/Intern---Software-Engineer--AI-User-Experience_1033171) | 3d |
 | **Rochester Regional Health** | RIT Co-op: Data Engineer | Riedman Campus, United States of America | Co-op | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425) | 3d |
 | **Rochester Regional Health** | RIT Co-op: Platform Engineer | Riedman Campus, United States of America | Co-op | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Platform-Engineer_REQ_244427) | 3d |
-| **Sierra Space** | Summer 2027 Flight Software Engineer Intern | Louisville, CO | Summer 2027 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456) | 3d |
+| **Sierra Space** | Summer 2027 Flight Software Engineer Intern | Louisville, CO, United States of America | Summer 2027 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456) | 3d |
 | **Smith+Nephew** | Intern Agentic AI Software Engineering | Andover, MA, United States of America | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) | 3d |
 | **Smith+Nephew** | Intern Computer Vision Software Engineering | Andover, MA, United States of America | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964) | 3d |
 | **Smith+Nephew** | Intern Embedded Software Engineering | Andover, MA, United States of America | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | 3d |
@@ -579,7 +579,7 @@ read directly from the company's own job board and refreshed automatically.
 | **NVIDIA** | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara, United States of America | Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | 12d |
 | **NVIDIA** | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara, United States of America | Spring 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | 12d |
 | **Prologis** | IT Customer Experience Technologies Intern | Denver, Colorado, United States of America | — | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829) | 12d |
-| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Idaho - Boise | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958) | 12d |
+| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Idaho - Boise, United States of America | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958) | 12d |
 | **Symbotic** | Intern- Data Engineer | USA Wilmington,  MA - HQ, United States of America | — | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967) | 12d |
 | **Symbotic** | Intern- Software Engineer | USA Wilmington,  MA - HQ, United States of America | — | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) | 12d |
 | **TIAA** | 2027 Early Talent Internship: Technology | Charlotte, NC, USA, United States of America | 2027 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Technology_R261000111) | 12d |
@@ -750,7 +750,7 @@ read directly from the company's own job board and refreshed automatically.
 | **HNTB** | Intern - AI Business Process Developer (Summer 2027) | Austin, TX, United States of America | Summer 2027 | [Apply](https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1) | 22d |
 | **HNTB** | Intern - AI Business Process Developer (Summer 2027) | Austin, TX, United States of America | Summer 2027 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) | 22d |
 | **Intel Corporation** | Software Engineering - PhD Intern | US, Oregon, Hillsboro, United States of America | — | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) | 22d |
-| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | Summer 2027 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | 22d |
+| **The Hartford** | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT, United States of America | Summer 2027 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | 22d |
 | **The Hartford** | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) | Hartford, CT, United States of America | Summer 2027 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | 22d |
 | **Thomson Reuters** | Software Engineer Co-Op | United States of America, Rochester, New York | Co-op | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587) | 22d |
 | **Vanguard** | College to Corporate IT Internship-Application Development (NC) | Charlotte, NC, United States of America | — | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) | 22d |
@@ -1304,7 +1304,7 @@ read directly from the company's own job board and refreshed automatically.
 | **Springs Window Fashions** | Information Technology - AI Internship - summer 2027 | MIDDLETON, WI, US | Summer 2027 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12945/information-technology---ai-internship---summer-2027/job) | 50d |
 | **Solidigm** | 2027 Undergraduate Software Development & Firmware Engineering Internships – US | Rancho Cordova, CA, United States | 2027 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613629) | 50d |
 | **Simon Property Group** | Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors) | Indianapolis, IN, United States of America | — | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976) | 50d |
-| **Simon Property Group** | Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors) | Indianapolis, IN | — | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | 50d |
+| **Simon Property Group** | Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors) | Indianapolis, IN, United States of America | — | [Apply](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | 50d |
 | **Apex** | Simulation Software Engineering Internship (Spring or Summer 2027) | Los Angeles, United States | Spring 2027, Summer 2027 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e) | 50d |
 | **juicebox** | Software Engineer Intern | San Francisco, United States | — | [Apply](https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a) | 50d |
 | **Primer** | Spring/Summer 2027 Engineering Intern | San Francisco, United States | Spring 2027, Summer 2027 | [Apply](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0) | 50d |
