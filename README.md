@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1773 open roles** from 661 companies · updated 2026-10-24 06:51 UTC
+**1772 open roles** from 661 companies · updated 2026-10-24 08:01 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1258**; also on this list: **756** (60%)
-- On job systems this scraper supports: **739 / 974** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
-- Open roles here that Simplify doesn't list: **475**
-- Misses by reason: board_unreadable 102, filtered:location_unknown 6, filtered:not_internship 9, filtered:not_swe 34, filtered:not_swe_by_description 37, filtered:not_us 1, not_returned 30, stale_on_simplify 16, unsupported_ats 267
+- Simplify's open US software internships: **1258**; also on this list: **755** (60%)
+- On job systems this scraper supports: **738 / 974** (76%); excluding 17 Simplify listings already closed on the company's own board: **77%**
+- Open roles here that Simplify doesn't list: **476**
+- Misses by reason: board_unreadable 43, filtered:location_unknown 6, filtered:not_internship 14, filtered:not_swe 63, filtered:not_swe_by_description 52, filtered:not_us 1, not_returned 40, stale_on_simplify 17, unsupported_ats 267
 
 </details>
 
@@ -336,7 +336,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Light & Wonder** | Intern Software Engineering | Las Vegas, NV, United States of America | — | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982) | 3d |
 | **Light & Wonder** | Software Engineer - Intern | Las Vegas, NV, United States of America | — | [Apply](https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017) | 3d |
 | **Motorola** | Software Engineering - 2026 Spring Co-Op | <details><summary>11 locations</summary>Chicago, IL, United States of America<br>Florida, US Offsite, United States of America<br>North Carolina, US Offsite, United States of America<br>Illinois, US Offsite, United States of America<br>Massachusetts, US Offsite, United States of America<br>South Carolina, US Offsite, United States of America<br>Arizona, US Offsite, United States of America<br>Texas, US Offsite, United States of America<br>Tennessee, US Offsite, United States of America<br>Wisconsin, US Offsite, United States of America<br>California Southern, US Offsite, United States of America</details> | Spring 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662) | 3d |
-| **Northrop Grumman** | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy, United States of America | 2027 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053) | 3d |
 | **Rakuten International** | Intern - Software Engineer, AI User Experience | WA-Bellevue, United States of America | — | [Apply](https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/WA-Bellevue/Intern---Software-Engineer--AI-User-Experience_1033171) | 3d |
 | **Rochester Regional Health** | RIT Co-op: Data Engineer | Riedman Campus, United States of America | Co-op | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425) | 3d |
 | **Rochester Regional Health** | RIT Co-op: Platform Engineer | Riedman Campus, United States of America | Co-op | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Platform-Engineer_REQ_244427) | 3d |
@@ -968,7 +967,7 @@ read directly from the company's own job board and refreshed automatically.
 | **KLA** | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA, United States of America | — | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) | 32d |
 | **KLA** | Software Engineering Intern (C++, Unix) | Milpitas, CA, United States of America | — | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | 32d |
 | **Stryker** | Summer 2027 Internship - Data Engineering - Indiana | Fort Wayne, Indiana, United States of America | Summer 2027 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | 32d |
-| **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto, United States of America | — | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158) | 32d |
+| **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto | — | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158) | 32d |
 | **Tencent** | Site Reliability Engineer (SRE) Intern — AI Infrastructure | US-California-Palo Alto, United States of America | — | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1) | 32d |
 | **Epicgames** | Engine Programmer Intern | Cary,North Carolina,United States | — | [Apply](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) | 33d |
 | **Iqt** | Engineering Intern, Rapid Prototyping Group | McLean, VA, US | — | [Apply](https://careers-iqt.icims.com/jobs/1457/engineering-intern%2c-rapid-prototyping-group/job) | 33d |
