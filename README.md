@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1774 open roles** from 661 companies · updated 2026-10-24 06:07 UTC
+**1773 open roles** from 661 companies · updated 2026-10-24 06:51 UTC
 
-<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 78%)</summary>
+<details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1258**; also on this list: **757** (60%)
-- On job systems this scraper supports: **740 / 974** (76%); excluding 27 Simplify listings already closed on the company's own board: **78%**
+- Simplify's open US software internships: **1258**; also on this list: **756** (60%)
+- On job systems this scraper supports: **739 / 974** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **475**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 29, stale_on_simplify 27, unsupported_ats 267
+- Misses by reason: board_unreadable 102, filtered:location_unknown 6, filtered:not_internship 9, filtered:not_swe 34, filtered:not_swe_by_description 37, filtered:not_us 1, not_returned 30, stale_on_simplify 16, unsupported_ats 267
 
 </details>
 
@@ -1057,7 +1057,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Texas Instruments** | Information Technology Intern – Data Engineering | Dallas, TX, United States | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) | 39d |
 | **NOV** | Software Engineering Intern | Houston, TX, United States | — | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449) | 39d |
 | **Emerson Electric** | Software Engineering Intern - ADG System R&D | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230) | 39d |
-| **Emerson Electric** | Software Engineering Intern | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928) | 39d |
 | **Interco** | Paid Internship -- Software Development -- React | St. Louis, MO, United States | — | [Apply](https://jobs.smartrecruiters.com/Interco/744000149591449) | 39d |
 | **Gecko Robotics** | Software Engineering Intern | Pittsburgh, United States | — | [Apply](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a) | 39d |
 | **Inferact** | Inference Engineering, Co-op | San Francisco, United States | Co-op | [Apply](https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa) | 39d |
