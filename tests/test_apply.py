@@ -81,5 +81,28 @@ class TestQueue(unittest.TestCase):
         self.assertGreater(score(self.rec(), prefs), score(self.rec(terms=[]), prefs))
 
 
+
+
+class TestHandoff(unittest.TestCase):
+    def test_route(self):
+        from apply.handoff import route
+        gh = "https://job-boards.greenhouse.io/vercel/jobs/1"
+        wd = "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/x_JR1"
+        self.assertEqual(route(gh, "hybrid"), "builtin")
+        self.assertEqual(route(wd, "hybrid"), "chrome")      # Jobright takes what we can't pre-fill
+        self.assertEqual(route(gh, "jobright"), "chrome")
+        self.assertEqual(route(wd, "builtin"), "builtin")
+
+    def test_open_in_chrome_uses_profile(self):
+        from unittest import mock
+        from apply import handoff
+        with mock.patch.object(handoff.subprocess, "Popen") as popen, \
+             mock.patch.object(handoff.Path, "is_file", return_value=True):
+            handoff.open_in_chrome("https://example.com/job", {"chrome_profile": "Profile 1"})
+        args = popen.call_args[0][0]
+        self.assertIn("--profile-directory=Profile 1", args)
+        self.assertEqual(args[-1], "https://example.com/job")
+
+
 if __name__ == "__main__":
     unittest.main()

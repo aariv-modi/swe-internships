@@ -41,6 +41,17 @@ race = "Decline"
 veteran = "Decline"
 disability = "Decline"
 
+[browser]
+# Who fills the form:
+#   "hybrid"   - this tool pre-fills Greenhouse/Lever/Ashby; everything else (Workday, iCIMS, ...)
+#                opens in your regular Chrome for Jobright Autofill
+#   "jobright" - every posting opens in your regular Chrome for Jobright Autofill
+#   "builtin"  - always this tool's own window (no extensions can run there)
+mode = "hybrid"
+chrome_path = ""          # blank = the standard install location
+chrome_profile = ""       # Chrome profile with Jobright installed, e.g. "Default" or "Profile 1"
+                          # (see chrome://version -> Profile Path); blank = the last one used
+
 [queue]
 terms = ["Summer 2027"]  # postings with no stated term are still shown, ranked lower
 locations = []           # e.g. ["TX", "Austin", "Remote"]; empty = anywhere in the US

@@ -22,6 +22,25 @@ Playwright drives your installed Google Chrome, so no extra browser download is 
 Optional: install the Claude Code CLI (`npm install -g @anthropic-ai/claude-code`, then run
 `claude` once to sign in with your subscription) to get drafts for long-answer questions.
 
+## Jobright Autofill
+
+Install [Jobright Autofill](https://chromewebstore.google.com/detail/jobright-autofill-%E2%80%93-insta/odcnpipkhjegpefkfplmedhmkmmhmoko)
+in your everyday Chrome and sign in to Jobright once. Then choose in `profile.toml`:
+
+```toml
+[browser]
+mode = "hybrid"        # this tool pre-fills Greenhouse/Lever/Ashby; everything else goes to Jobright
+# mode = "jobright"    # every posting goes to Jobright
+chrome_profile = ""    # e.g. "Profile 1" if Jobright is installed in a non-default Chrome profile
+```
+
+Why not run Jobright inside this tool's window: that window is a clean, automated Chrome with
+extensions disabled, and Chrome 137+ no longer lets automation load extensions into branded Chrome.
+So postings for Jobright open as a normal tab in your own Chrome; the queue and outcome tracking
+work the same. Before handing a Greenhouse/Lever/Ashby posting to Jobright, the tool checks the page
+for "no tool or AI-completed applications" clauses and warns you (Workday pages can't be checked;
+they're behind a sign-in). Jobright's own AI answers are subject to the same employer rules.
+
 ## Daily use
 
 ```bash
@@ -38,7 +57,7 @@ When you're done in the browser, answer `a` (applied), `s` (skipped) or Enter (l
 | System | Share of the list | Pre-fill |
 |---|---|---|
 | Greenhouse, Lever, Ashby | ~30% (382 of 1,347 Summer 2027 postings) | contact, links, location, school, graduation date, sponsorship/authorization (simple questions only), demographic questions per your profile, resume upload |
-| Workday, iCIMS, Oracle, others | ~70% | opens the page only; sign in and complete it there (Simplify Copilot works alongside) |
+| Workday, iCIMS, Oracle, others | ~70% | opens in your regular Chrome, where Jobright Autofill fills it (default `hybrid` mode) |
 
 Measured on live forms (2026-10-23, fake profile, nothing submitted): Greenhouse (Vercel) 13 fields,
 Lever (Acron Aviation) 11, Ashby (1Password) 13, each confirmed by reading the page back.

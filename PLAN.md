@@ -38,7 +38,7 @@ published as a GitHub-style README, with completeness measured on every run rath
    - For Greenhouse / Lever / Ashby: open the form pre-filled (resume attached, standard answers,
      drafted short answers) and **stop before Submit**; the user reviews and submits.
    - For Workday: pre-fill only after the user signs in themselves. (Not built yet: Workday pages
-     open for manual completion; Simplify Copilot covers it meanwhile.)
+     go to the user's regular Chrome for Jobright Autofill, `[browser] mode = "hybrid"`.)
    - Pages forbidding tool/AI-completed applications are detected and left entirely untouched.
    - Never: account creation, password handling, CAPTCHA bypass, unattended submission.
      Why: no applicant API exists, Workday needs one account per company (1,000+), forms
