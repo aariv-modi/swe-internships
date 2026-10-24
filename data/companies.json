@@ -5768,7 +5768,8 @@
    "board": "sardine"
   },
   "sources": [
-   "SimplifyJobs/New-Grad-Positions"
+   "SimplifyJobs/New-Grad-Positions",
+   "SimplifyJobs/Summer2027-Internships"
   ]
  },
  "ashby:saronic": {
@@ -10619,6 +10620,16 @@
    "common-crawl"
   ]
  },
+ "greenhouse:fartherfinance": {
+  "ats": "greenhouse",
+  "company": "Farther",
+  "params": {
+   "board": "fartherfinance"
+  },
+  "sources": [
+   "SimplifyJobs/New-Grad-Positions"
+  ]
+ },
  "greenhouse:fashionnova": {
   "ats": "greenhouse",
   "company": "Fashion Nova",
@@ -12778,7 +12789,8 @@
    "board": "mercury"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "greenhouse:mergeworld": {
@@ -32918,7 +32930,8 @@
   "sources": [
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
-   "speedyapply/2027-SWE-College-Jobs"
+   "speedyapply/2027-SWE-College-Jobs",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:ancestry.wd501.myworkdayjobs.com/careers": {
@@ -41997,7 +42010,8 @@
    "SimplifyJobs/New-Grad-Positions",
    "SimplifyJobs/Summer2027-Internships",
    "speedyapply/2027-SWE-College-Jobs",
-   "vanshb03/Summer2027-Internships"
+   "vanshb03/Summer2027-Internships",
+   "vanshb03/New-Grad-2027"
   ]
  },
  "workday:intelcomgroup.wd3.myworkdayjobs.com/intelcom": {
@@ -51352,7 +51366,8 @@
    "site": "TruStage"
   },
   "sources": [
-   "SimplifyJobs/Summer2027-Internships"
+   "SimplifyJobs/Summer2027-Internships",
+   "SimplifyJobs/New-Grad-Positions"
   ]
  },
  "workday:trwd.wd1.myworkdayjobs.com/trwdcareers": {

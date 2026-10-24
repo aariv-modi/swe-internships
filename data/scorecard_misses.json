@@ -23,6 +23,15 @@
  },
  {
   "reason": "board_unreadable",
+  "company": "FNBO",
+  "title": "Technology Intern",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
+ },
+ {
+  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -1277,15 +1286,6 @@
    "Georgia"
   ],
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101"
- },
- {
-  "reason": "filtered:not_swe_by_description",
-  "company": "FNBO",
-  "title": "Technology Intern",
-  "locations": [
-   "Omaha, NE"
-  ],
-  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
  },
  {
   "reason": "filtered:not_swe_by_description",

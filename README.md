@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1776 open roles** from 661 companies · updated 2026-10-24 04:44 UTC
+**1776 open roles** from 661 companies · updated 2026-10-24 05:07 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
 - Simplify's open US software internships: **1261**; also on this list: **758** (60%)
 - On job systems this scraper supports: **741 / 976** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **477**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 41, stale_on_simplify 16, unsupported_ats 268
+- Misses by reason: board_unreadable 4, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 63, filtered:not_us 1, not_returned 41, stale_on_simplify 16, unsupported_ats 268
 
 </details>
 
