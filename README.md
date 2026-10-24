@@ -13,14 +13,14 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1772 open roles** from 661 companies · updated 2026-10-24 11:36 UTC
+**1771 open roles** from 661 companies · updated 2026-10-24 12:37 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1257**; also on this list: **752** (60%)
-- On job systems this scraper supports: **735 / 973** (76%); excluding 18 Simplify listings already closed on the company's own board: **77%**
+- Simplify's open US software internships: **1254**; also on this list: **752** (60%)
+- On job systems this scraper supports: **735 / 970** (76%); excluding 16 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **478**
-- Misses by reason: board_unreadable 14, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 68, filtered:not_swe_by_description 65, filtered:not_us 1, not_returned 41, stale_on_simplify 18, unsupported_ats 267
+- Misses by reason: board_unreadable 4, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 77, filtered:not_swe_by_description 64, filtered:not_us 1, not_returned 42, stale_on_simplify 16, unsupported_ats 267
 
 </details>
 
@@ -416,7 +416,6 @@ read directly from the company's own job board and refreshed automatically.
 | **Johnson & Johnson** | Software Test Engineering Co-op (Beatbox) | Danvers, Massachusetts, United States of America | Co-op | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707) | 5d |
 | **manh** | A.I. Developer Co-Op (Boston, MA) | US - Home Office, United States of America | Co-op | [Apply](https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046) | 5d |
 | **Marvell** | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA, United States of America | Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) | 5d |
-| **Marvell** | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA, United States of America | Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) | 5d |
 | **netflix** | Software Engineer Intern - Summer 2027 | Los Gatos, United States of America | Summer 2027 | [Apply](https://netflix.wd108.myworkdayjobs.com/netflix/job/Los-Gatos/Software-Engineer-Intern---Summer-2027_JR42989) | 5d |
 | **Northrop Grumman** | 2027 Software Engineer Intern - Linthicum Maryland | United States-Maryland-Linthicum, United States of America | 2027 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) | 5d |
 | **Salesforce** | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco, United States of America<br>Washington - Bellevue, United States of America | Summer 2027 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) | 5d |
