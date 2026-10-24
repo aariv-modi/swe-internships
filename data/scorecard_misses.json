@@ -23,6 +23,17 @@
  },
  {
   "reason": "board_unreadable",
+  "company": "Citizens Financial Group",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Plano, TX",
+   "Johnston, RI",
+   "Phoenix, AZ"
+  ],
+  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
+ },
+ {
+  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -1785,47 +1796,11 @@
  {
   "reason": "not_returned",
   "company": "American Express",
-  "title": "Software Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "Charlotte, NC"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
- },
- {
-  "reason": "not_returned",
-  "company": "American Express",
-  "title": "Software Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
- },
- {
-  "reason": "not_returned",
-  "company": "American Express",
   "title": "AI Engineer Intern - Enterprise Technology Services",
   "locations": [
    "NYC"
   ],
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
- },
- {
-  "reason": "not_returned",
-  "company": "American Express",
-  "title": "Software Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "Sunrise, FL"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
- },
- {
-  "reason": "not_returned",
-  "company": "American Express",
-  "title": "Software Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "Phoenix, AZ"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"
  },
  {
   "reason": "not_returned",
@@ -1835,15 +1810,6 @@
    "Philadelphia, PA"
   ],
   "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731"
- },
- {
-  "reason": "not_returned",
-  "company": "American Express",
-  "title": "AI Engineer Intern - Enterprise Technology Services",
-  "locations": [
-   "Atlanta, GA"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"
  },
  {
   "reason": "not_returned",
@@ -1938,14 +1904,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "Citizens Financial Group",
-  "title": "Software Engineer Intern",
+  "company": "NOV",
+  "title": "Software Engineer Intern - Rig Technologies",
   "locations": [
-   "Plano, TX",
-   "Johnston, RI",
-   "Phoenix, AZ"
+   "Houston, TX"
   ],
-  "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
+  "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"
  },
  {
   "reason": "not_returned",
@@ -3215,6 +3179,24 @@
    "San Jose, CA"
   ],
   "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Goldman Sachs",
+  "title": "Summer Analyst Intern - Americas - Engineering",
+  "locations": [
+   "Salt Lake City, UT"
+  ],
+  "url": "https://higher.gs.com/roles/171565?type=students"
+ },
+ {
+  "reason": "unsupported_ats",
+  "company": "Goldman Sachs",
+  "title": "Summer Analyst Intern - Engineering",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "url": "https://higher.gs.com/roles/171553?type=students"
  },
  {
   "reason": "unsupported_ats",
@@ -4650,15 +4632,6 @@
    "Berthoud, CO"
   ],
   "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Amazon",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Redmond, WA"
-  ],
-  "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
  },
  {
   "reason": "unsupported_ats",

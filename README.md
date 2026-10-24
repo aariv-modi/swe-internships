@@ -13,19 +13,20 @@ read directly from the company's own job board and refreshed automatically.
   Ashby forms and stops before Submit.
 
 <!-- LISTINGS:START -->
-**1769 open roles** from 663 companies · updated 2026-10-24 01:40 UTC
+**1778 open roles** from 663 companies · updated 2026-10-24 02:39 UTC
 
 <details><summary><b>Scorecard vs. SimplifyJobs</b> (recall on still-open postings on supported job boards: 77%)</summary>
 
-- Simplify's open US software internships: **1262**; also on this list: **754** (60%)
-- On job systems this scraper supports: **737 / 978** (75%); excluding 15 Simplify listings already closed on the company's own board: **77%**
+- Simplify's open US software internships: **1263**; also on this list: **758** (60%)
+- On job systems this scraper supports: **741 / 978** (76%); excluding 15 Simplify listings already closed on the company's own board: **77%**
 - Open roles here that Simplify doesn't list: **478**
-- Misses by reason: board_unreadable 3, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 66, filtered:not_us 1, not_returned 46, stale_on_simplify 15, unsupported_ats 267
+- Misses by reason: board_unreadable 4, filtered:location_unknown 6, filtered:not_internship 25, filtered:not_swe 79, filtered:not_swe_by_description 66, filtered:not_us 1, not_returned 41, stale_on_simplify 15, unsupported_ats 268
 
 </details>
 
 | Company | Role | Location | Term | Apply | Age |
 | --- | --- | --- | --- | --- | --- |
+| **Johnson & Johnson** | Laboratory Automation Systems Intern | Spring House, Pennsylvania, United States of America | — | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027) | 1d |
 | **Figure** | Developer Productivity Intern [Winter 2027] | San Jose, CA | Winter 2027 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 1d |
 | **ASML** | Platform Software Engineer In Test ( Internship) | San Jose, CA, USA, United States of America | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558) | 1d |
 | **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United States | — | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) | 1d |
@@ -1059,7 +1060,6 @@ read directly from the company's own job board and refreshed automatically.
 | **General Dynamics Mission Systems** | Intern Engineer - Software Engineering | Bloomington, MN, US | — | [Apply](https://careers-gdms.icims.com/jobs/74953/intern-engineer---software-engineering/job) | 39d |
 | **Susquehanna International Group (SIG)** | Technology Co-op with Northeastern University | Bala Cynwyd (Philadelphia Area), PA, US | Co-op | [Apply](https://careers-sig.icims.com/jobs/11377/technology-co-op-with-northeastern-university/job) | 39d |
 | **Texas Instruments** | Information Technology Intern – Data Engineering | Dallas, TX, United States | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) | 39d |
-| **NOV** | Software Engineering Intern | Houston, TX, United States | — | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449) | 39d |
 | **Emerson Electric** | Software Engineering Intern - ADG System R&D | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230) | 39d |
 | **Emerson Electric** | Software Engineering Intern | Austin, TX, United States | — | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928) | 39d |
 | **Interco** | Paid Internship -- Software Development -- React | St. Louis, MO, United States | — | [Apply](https://jobs.smartrecruiters.com/Interco/744000149591449) | 39d |
@@ -1378,6 +1378,7 @@ read directly from the company's own job board and refreshed automatically.
 | **McKesson** | Software Engineer Intern - Summer 2027 | USA, CO, Longmont, United States of America | Summer 2027 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742) | 52d |
 | **McKesson** | Software Engineer Intern - Summer 2027 | USA, GA, Atlanta, United States of America<br>USA, TX, Irving, United States of America | Summer 2027 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235) | 52d |
 | **Pella Corporation** | Software Intern - Summer 2027 | Pella, IA, United States<br>Urbandale, IA, United States | Summer 2027 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299) | 53d |
+| **American Express** | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) | 53d |
 | **Valon** | Software Engineer Intern | New York, United States<br>San Francisco, United States | — | [Apply](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) | 53d |
 | **Eulerity** | Backend Developer Intern | New York, New York | — | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) | 53d |
 | **HP IQ** | Software Engineering Intern, Connectivity (Summer 2027) | San Francisco, CA | Summer 2027 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | 53d |
@@ -1539,6 +1540,14 @@ read directly from the company's own job board and refreshed automatically.
 | **LPL Financial Holdings** | Intern 2027- Platform Engineer | Fort Mill/Charlotte, United States of America<br>Austin, TX, United States of America | 2027 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1) | 67d |
 | **LPL Financial Holdings** | Intern 2027- Software Engineer | Fort Mill/Charlotte, United States of America<br>Austin TX, United States of America | 2027 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | 67d |
 | **PIMCO** | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX USA, United States of America | Summer 2027 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | 67d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) | 68d |
+| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) | 68d |
 | **GE Aerospace** | Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 | Evendale, United States of America<br>Lynn, United States of America | Fall 2027 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1) | 68d |
 | **GE Aerospace** | Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027 | Evendale, United States of America<br>Lynn, United States of America | Spring 2027 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619) | 68d |
 | **GE Aerospace** | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, United States of America<br>Lynn, United States of America | Summer 2027 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) | 68d |
