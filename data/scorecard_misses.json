@@ -23,15 +23,6 @@
  },
  {
   "reason": "board_unreadable",
-  "company": "FNBO",
-  "title": "Technology Intern",
-  "locations": [
-   "Omaha, NE"
-  ],
-  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
- },
- {
-  "reason": "board_unreadable",
   "company": "Chainlink Labs",
   "title": "Research Intern",
   "locations": [
@@ -1289,6 +1280,15 @@
  },
  {
   "reason": "filtered:not_swe_by_description",
+  "company": "FNBO",
+  "title": "Technology Intern",
+  "locations": [
+   "Omaha, NE"
+  ],
+  "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
+ },
+ {
+  "reason": "filtered:not_swe_by_description",
   "company": "Pace",
   "title": "Member of Technical Staff Intern",
   "locations": [
@@ -1654,15 +1654,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "PennState University",
-  "title": "Research and Development Engineering Intern",
-  "locations": [
-   "State College, PA"
-  ],
-  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"
- },
- {
-  "reason": "not_returned",
   "company": "Smiths Detection",
   "title": "Software Engineering Intern (Cyber focus)",
   "locations": [
@@ -1678,33 +1669,6 @@
    "NYC"
   ],
   "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180"
- },
- {
-  "reason": "not_returned",
-  "company": "University of Texas at Austin",
-  "title": "Undergraduate Research Assistant Programmer",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531"
- },
- {
-  "reason": "not_returned",
-  "company": "University of Texas at Austin",
-  "title": "Undergraduate Research Assistant",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725"
- },
- {
-  "reason": "not_returned",
-  "company": "University of Arkansas",
-  "title": "Graduate Research Assistant Intern",
-  "locations": [
-   "Little Rock, AR"
-  ],
-  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
  },
  {
   "reason": "not_returned",
@@ -1839,15 +1803,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "University of Texas at Austin",
-  "title": "Student Technician - Applied Research Laboratories",
-  "locations": [
-   "Austin, TX"
-  ],
-  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194"
- },
- {
-  "reason": "not_returned",
   "company": "Emerson Electric",
   "title": "Software Development Intern - DeltaV",
   "locations": [
@@ -1895,40 +1850,12 @@
  },
  {
   "reason": "not_returned",
-  "company": "LSEG",
-  "title": "Engineering Intern - Multiple Teams",
-  "locations": [
-   "Boston, MA"
-  ],
-  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
- },
- {
-  "reason": "not_returned",
-  "company": "LSEG",
-  "title": "Engineering Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1"
- },
- {
-  "reason": "not_returned",
   "company": "Wellmark",
   "title": "Software Engineer Intern - Technology Healthcare Innovation",
   "locations": [
    "Des Moines, IA"
   ],
   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"
- },
- {
-  "reason": "not_returned",
-  "company": "Rockwell Automation",
-  "title": "AI Software Engineering Co-op - 6 months - 8 months",
-  "locations": [
-   "Mayfield Heights, OH",
-   "Milwaukee, WI"
-  ],
-  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
  },
  {
   "reason": "not_returned",
@@ -1950,24 +1877,6 @@
  },
  {
   "reason": "not_returned",
-  "company": "Pennsylvania State University",
-  "title": "Research Assistant Intern - Smeal Research Intelligence - Sri",
-  "locations": [
-   "University Park, State College, PA"
-  ],
-  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Smeal-Research-Intelligence--SRI-_REQ_0000083297-1"
- },
- {
-  "reason": "not_returned",
-  "company": "Rhombus",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Sacramento, CA"
-  ],
-  "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply"
- },
- {
-  "reason": "not_returned",
   "company": "onsemi",
   "title": "Manufacturing AI Engineering Intern",
   "locations": [
@@ -1983,15 +1892,6 @@
    "Johns Creek, GA"
   ],
   "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"
- },
- {
-  "reason": "not_returned",
-  "company": "Northrop Grumman",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Wright-Patterson AFB, OH"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"
  },
  {
   "reason": "not_returned",
@@ -2013,21 +1913,39 @@
  },
  {
   "reason": "not_returned",
-  "company": "Pennsylvania State University",
-  "title": "Research Assistant Intern",
-  "locations": [
-   "University Park, State College, PA"
-  ],
-  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1"
- },
- {
-  "reason": "not_returned",
   "company": "onsemi",
   "title": "AI & Data Engineering Intern",
   "locations": [
    "San Jose, CA"
   ],
   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506526"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "PennState University",
+  "title": "Research and Development Engineering Intern",
+  "locations": [
+   "State College, PA"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "University of Texas at Austin",
+  "title": "Undergraduate Research Assistant Programmer",
+  "locations": [
+   "Austin, TX"
+  ],
+  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "University of Texas at Austin",
+  "title": "Undergraduate Research Assistant",
+  "locations": [
+   "Austin, TX"
+  ],
+  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725"
  },
  {
   "reason": "stale_on_simplify",
@@ -2046,6 +1964,15 @@
    "Milpitas, CA"
   ],
   "url": "https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--Android--AI-Assisted-Development-_JR100300"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "University of Arkansas",
+  "title": "Graduate Research Assistant Intern",
+  "locations": [
+   "Little Rock, AR"
+  ],
+  "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
  },
  {
   "reason": "stale_on_simplify",
@@ -2082,6 +2009,15 @@
    "Hamilton Township, NJ"
   ],
   "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "University of Texas at Austin",
+  "title": "Student Technician - Applied Research Laboratories",
+  "locations": [
+   "Austin, TX"
+  ],
+  "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194"
  },
  {
   "reason": "stale_on_simplify",
@@ -2161,6 +2097,34 @@
  },
  {
   "reason": "stale_on_simplify",
+  "company": "LSEG",
+  "title": "Engineering Intern - Multiple Teams",
+  "locations": [
+   "Boston, MA"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "LSEG",
+  "title": "Engineering Intern",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Rockwell Automation",
+  "title": "AI Software Engineering Co-op - 6 months - 8 months",
+  "locations": [
+   "Mayfield Heights, OH",
+   "Milwaukee, WI"
+  ],
+  "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+ },
+ {
+  "reason": "stale_on_simplify",
   "company": "SAS",
   "title": "Software Development and Testing Intern",
   "locations": [
@@ -2176,6 +2140,33 @@
    "Middletown, RI"
   ],
   "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Pennsylvania State University",
+  "title": "Research Assistant Intern - Smeal Research Intelligence - Sri",
+  "locations": [
+   "University Park, State College, PA"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Smeal-Research-Intelligence--SRI-_REQ_0000083297-1"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Northrop Grumman",
+  "title": "Software Engineer Intern",
+  "locations": [
+   "Wright-Patterson AFB, OH"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"
+ },
+ {
+  "reason": "stale_on_simplify",
+  "company": "Pennsylvania State University",
+  "title": "Research Assistant Intern",
+  "locations": [
+   "University Park, State College, PA"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1"
  },
  {
   "reason": "unsupported_ats",
@@ -4417,15 +4408,6 @@
    "Cincinnati, OH"
   ],
   "url": "https://careers.medpace.com/jobs/13059?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "H&R Block",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "Kansas City, MO"
-  ],
-  "url": "https://careers.hrblock.com/jobs/76987?icims=1"
  },
  {
   "reason": "unsupported_ats",
