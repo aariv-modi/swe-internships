@@ -1649,6 +1649,16 @@
   "url": "https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true"
  },
  {
+  "reason": "filtered:not_swe_by_description",
+  "company": "Sardine",
+  "title": "Engineering Intern",
+  "locations": [
+   "Remote in USA",
+   "Remote in Canada"
+  ],
+  "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true"
+ },
+ {
   "reason": "filtered:not_us",
   "company": "HeyGen",
   "title": "Software Engineer Intern",
@@ -1775,11 +1785,47 @@
  {
   "reason": "not_returned",
   "company": "American Express",
+  "title": "Software Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "Charlotte, NC"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
+ },
+ {
+  "reason": "not_returned",
+  "company": "American Express",
+  "title": "Software Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "NYC"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
+ },
+ {
+  "reason": "not_returned",
+  "company": "American Express",
   "title": "AI Engineer Intern - Enterprise Technology Services",
   "locations": [
    "NYC"
   ],
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
+ },
+ {
+  "reason": "not_returned",
+  "company": "American Express",
+  "title": "Software Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "Sunrise, FL"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
+ },
+ {
+  "reason": "not_returned",
+  "company": "American Express",
+  "title": "Software Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "Phoenix, AZ"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"
  },
  {
   "reason": "not_returned",
@@ -1789,6 +1835,15 @@
    "Philadelphia, PA"
   ],
   "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731"
+ },
+ {
+  "reason": "not_returned",
+  "company": "American Express",
+  "title": "AI Engineer Intern - Enterprise Technology Services",
+  "locations": [
+   "Atlanta, GA"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"
  },
  {
   "reason": "not_returned",
@@ -1955,15 +2010,6 @@
    "Round Rock, TX"
   ],
   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
- },
- {
-  "reason": "not_returned",
-  "company": "IEX",
-  "title": "Software Engineer Intern",
-  "locations": [
-   "NYC"
-  ],
-  "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8171239"
  },
  {
   "reason": "not_returned",
@@ -3346,15 +3392,6 @@
    "Chicago, IL"
   ],
   "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
- },
- {
-  "reason": "unsupported_ats",
-  "company": "Epic Games",
-  "title": "Backend Services Programmer Intern - Epic Games Services",
-  "locations": [
-   "Cary, NC"
-  ],
-  "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
  },
  {
   "reason": "unsupported_ats",
